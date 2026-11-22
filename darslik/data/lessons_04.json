@@ -1,0 +1,524 @@
+{
+  "lessons": [
+    {
+      "n": 16,
+      "title": "Sana va bayram: on 5 May",
+      "theme": "Hafta kunlari, oylar, bayramlar",
+      "goal": "Sana aytishni va qachon ekanini so'rashni o'rganasiz. Hafta kunlari, oylar va bayramlar lug'ati.",
+      "frame": {
+        "name": "Sanalar: on + kun + oy",
+        "formula": "When is your birthday?   — It's on 5 May.\nMy birthday is in May.\nThe meeting is on Monday at 10.\nWe don't work at the weekend.",
+        "explain": "<p>Sana aytilganda <b>on</b> + kun + oy ishlatiladi: <em>on 5 May</em> (o'qilishi: on the fifth of May). Faqat oy bo'lsa — <b>in</b>: <em>in May</em>. Hafta kuni — <b>on</b>: <em>on Monday</em>. Dam olish kunlari — <b>at the weekend</b>.</p>",
+        "table": [
+          ["on Monday", "hafta kuni"],
+          ["in May", "oy nomi"],
+          ["on 5 May", "aniq sana"],
+          ["at the weekend", "dam olish kunlari"],
+          ["5th = fifth", "sana tartib son bilan o'qiladi"]
+        ]
+      },
+      "triad": {
+        "aff": ["My birthday is in May.", "The party is on Saturday."],
+        "neg": ["My birthday isn't in May.", "The party isn't on Saturday."],
+        "q": ["When is your birthday?", "Is the party on Saturday?"],
+        "short": ["It's in May. / On 5 May.", "Yes, it is. / No, it isn't."]
+      },
+      "words": [
+        ["Monday", "dushanba", "on Monday morning"],
+        ["Tuesday", "seshanba", "next Tuesday"],
+        ["Wednesday", "chorshanba", "on Wednesday"],
+        ["Thursday", "payshanba", "every Thursday"],
+        ["Friday", "juma", "Friday evening"],
+        ["Saturday", "shanba", "on Saturday"],
+        ["Sunday", "yakshanba", "Sunday lunch"],
+        ["January", "yanvar", "in January"],
+        ["February", "fevral", "in February"],
+        ["March", "mart", "in March"],
+        ["April", "aprel", "in April"],
+        ["May", "may", "in May"],
+        ["June", "iyun", "in June"],
+        ["July", "iyul", "in July"],
+        ["August", "avgust", "in August"],
+        ["September", "sentabr", "in September"],
+        ["October", "oktabr", "in October"],
+        ["November", "noyabr", "in November"],
+        ["December", "dekabr", "in December"],
+        ["Christmas", "Rojdestvo", "at Christmas"],
+        ["Easter", "Pasxa", "at Easter"],
+        ["birthday", "tug'ilgan kun", "happy birthday"],
+        ["weekend", "dam olish kunlari", "at the weekend"],
+        ["holiday", "bayram, ta'til", "a long holiday"],
+        ["calendar", "kalendar", "on the calendar"]
+      ],
+      "examples": [
+        {"en": "When is your birthday? — My birthday is on 12 April.", "uz": "Tug'ilgan kuningiz qachon? — 12-aprelda."},
+        {"en": "The shop is closed on Sunday, and it opens again on Monday morning.", "uz": "Do'kon yakshanba kuni yopiq, dushanba ertalab yana ochiladi."},
+        {"en": "We have a holiday in January, and another one in March.", "uz": "Yanvarda bir bayramimiz bor, martda yana bittasi."},
+        {"en": "Christmas is in December, and Easter is usually in April.", "uz": "Rojdestvo dekabrda, Pasxa odatda aprelda."},
+        {"en": "My parents got married in June, and their wedding was on a Friday.", "uz": "Ota-onam iyunda turmush qurishgan, to'ylari juma kuni edi."},
+        {"en": "At the weekend I don't work — I rest on Saturday and Sunday.", "uz": "Dam olish kunlari ishlamayman — shanba va yakshanba dam olaman."},
+        {"en": "Is the meeting on Wednesday or on Thursday?", "uz": "Uchrashuv chorshanbadami yoki payshanbadami?"},
+        {"en": "February is short, but September and October are busy months for us.", "uz": "Fevral qisqa, lekin sentabr va oktabr biz uchun band oylar."}
+      ],
+      "street": {
+        "title": "Uchrashuv belgilash",
+        "items": [
+          {"en": "Are you free on Friday?", "uz": "Juma kuni bo'shmisiz?"},
+          {"en": "Let's meet at the weekend.", "uz": "Keling, dam olish kunlari uchrashamiz."},
+          {"en": "How about Monday?", "uz": "Dushanba-chi?"},
+          {"en": "Same time next week?", "uz": "Keyingi hafta shu vaqtda?"},
+          {"en": "Happy birthday!", "uz": "Tug'ilgan kuning bilan!"}
+        ],
+        "note": "\"How about ...?\" — taklif kiritishning eng qisqa usuli; undan keyin ot yoki -ing shakl keladi."
+      },
+      "dialog": {
+        "title": "Mini dialog · Tug'ilgan kun",
+        "lines": [
+          {"who": "A", "en": "When is your birthday?", "uz": "Tug'ilgan kuningiz qachon?"},
+          {"who": "B", "en": "It's on 3 March. And yours?", "uz": "3-martda. Sizniki-chi?"},
+          {"who": "A", "en": "Mine is in July — on 21 July.", "uz": "Meniki iyulda — 21-iyulda."},
+          {"who": "B", "en": "That's in summer, great! Do you have a holiday then?", "uz": "Bu yozda, zo'r! O'shanda ta'tilingiz bormi?"},
+          {"who": "A", "en": "Yes, I usually take a week off.", "uz": "Ha, odatda bir hafta ta'til olaman."},
+          {"who": "B", "en": "Let's celebrate together this year.", "uz": "Keling, bu yil birga nishonlaymiz."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "My birthday is ___ May. (in / on)", "answer": "My birthday is in May."},
+          {"prompt": "The meeting is ___ Monday. (in / on)", "answer": "The meeting is on Monday."},
+          {"prompt": "It's ___ 5 May. (in / on)", "answer": "It's on 5 May."},
+          {"prompt": "We rest ___ the weekend. (at / in)", "answer": "We rest at the weekend."},
+          {"prompt": "Christmas is ___ December. (in / on)", "answer": "Christmas is in December."}
+        ],
+        "translate": [
+          {"uz": "Tug'ilgan kunim aprelda.", "en": "My birthday is in April."},
+          {"uz": "Uchrashuv chorshanba kuni.", "en": "The meeting is on Wednesday."},
+          {"uz": "Dam olish kunlari ishlamayman.", "en": "I don't work at the weekend."},
+          {"uz": "Rojdestvo dekabrda.", "en": "Christmas is in December."}
+        ],
+        "fix": [
+          {"wrong": "My birthday is on May.", "right": "My birthday is in May.", "why": "faqat oy — in"},
+          {"wrong": "The party is in Saturday.", "right": "The party is on Saturday.", "why": "hafta kuni — on"},
+          {"wrong": "I was born in 5 April.", "right": "I was born on 5 April.", "why": "aniq sana — on"}
+        ]
+      },
+      "tip": "Oy va hafta kunlari ingliz tilida doim <b>katta harf</b> bilan yoziladi: Monday, January. Sanada kun birinchi keladi: <b>5 May</b>, amerikacha variantda — <b>May 5</b>."
+    },
+    {
+      "n": 17,
+      "title": "Hozir bo'layotgan ish: I am doing",
+      "theme": "Fasllar, ob-havo va tabiat I",
+      "goal": "Present Continuous zamonini o'zlashtirasiz va ob-havo haqida gapirishni o'rganasiz.",
+      "frame": {
+        "name": "Present Continuous: am / is / are + V-ing",
+        "formula": "It is raining now.\nThe sun is shining.\nI am wearing a coat.\nIs it snowing outside?   — Yes, it is.",
+        "explain": "<p>Hozir, shu daqiqada bo'layotgan ish: <b>am / is / are + fe'l + ing</b>. Ob-havo haqida gapirganda ega sifatida <b>it</b> ishlatiladi: <em>It is raining, it is cold</em>. Doimiy holat uchun esa Present Simple qoladi.</p>",
+        "table": [
+          ["I am + V-ing", "I'm working"],
+          ["he / she / it is + V-ing", "It is raining"],
+          ["you / we / they are + V-ing", "They are playing"],
+          ["inkor", "It isn't raining"],
+          ["savol", "Is it raining?"]
+        ]
+      },
+      "triad": {
+        "aff": ["It is raining now.", "The children are playing in the snow."],
+        "neg": ["It isn't raining now.", "The children aren't playing in the snow."],
+        "q": ["Is it raining now?", "Are the children playing outside?"],
+        "short": ["Yes, it is. / No, it isn't.", "Yes, they are. / No, they aren't."]
+      },
+      "words": [
+        ["spring", "bahor", "in spring"],
+        ["summer", "yoz", "in summer"],
+        ["autumn", "kuz", "in autumn"],
+        ["winter", "qish", "in winter"],
+        ["season", "fasl", "the rainy season"],
+        ["sun", "quyosh", "in the sun"],
+        ["moon", "oy (osmonda)", "the full moon"],
+        ["wind", "shamol", "a cold wind"],
+        ["fog", "tuman", "thick fog"],
+        ["rain", "yomg'ir", "heavy rain"],
+        ["snow", "qor", "deep snow"],
+        ["sky", "osmon", "a clear sky"],
+        ["cloud", "bulut", "a white cloud"],
+        ["air", "havo", "fresh air"],
+        ["temperature", "harorat", "high temperature"],
+        ["degree", "daraja", "thirty degrees"],
+        ["weather", "ob-havo", "good weather"],
+        ["hot", "issiq", "hot water"],
+        ["cold", "sovuq", "cold wind"],
+        ["warm", "iliq", "warm weather"],
+        ["cool", "salqin", "a cool evening"],
+        ["sunny", "quyoshli", "a sunny day"],
+        ["rainy", "yomg'irli", "a rainy week"],
+        ["cloudy", "bulutli", "a cloudy sky"],
+        ["windy", "shamolli", "a windy day"]
+      ],
+      "examples": [
+        {"en": "It is raining, so take an umbrella.", "uz": "Yomg'ir yog'ayapti, shuning uchun soyabon oling."},
+        {"en": "In summer the sun is shining and the sky is blue.", "uz": "Yozda quyosh charaqlab turadi va osmon ko'k bo'ladi."},
+        {"en": "It isn't snowing today, but it is very cold.", "uz": "Bugun qor yog'mayapti, lekin juda sovuq."},
+        {"en": "The wind is blowing, and there are a lot of clouds in the sky.", "uz": "Shamol esyapti, osmonda ko'p bulut bor."},
+        {"en": "Is it foggy in the morning in autumn?", "uz": "Kuzda ertalab tuman bo'ladimi?"},
+        {"en": "The temperature is twenty degrees, and the air is warm.", "uz": "Harorat yigirma daraja, havo iliq."},
+        {"en": "In winter it is cold and it often snows.", "uz": "Qishda sovuq bo'ladi va tez-tez qor yog'adi."},
+        {"en": "Why are you wearing a coat? It's hot outside!", "uz": "Nega palto kiygansiz? Tashqarida issiq-ku!"}
+      ],
+      "street": {
+        "title": "Ob-havo haqida",
+        "items": [
+          {"en": "What's the weather like today?", "uz": "Bugun ob-havo qanday?"},
+          {"en": "It's freezing!", "uz": "Juda sovuq!"},
+          {"en": "It's boiling hot.", "uz": "Juda issiq."},
+          {"en": "It looks like rain.", "uz": "Yomg'ir yog'adiganga o'xshaydi."},
+          {"en": "Nice weather today.", "uz": "Bugun ob-havo yaxshi."}
+        ],
+        "note": "\"What's the weather like?\" — \"ob-havo qanday?\" degan savol; so'zma-so'z \"ob-havo nimaga o'xshaydi\"."
+      },
+      "dialog": {
+        "title": "Mini dialog · Ob-havo",
+        "lines": [
+          {"who": "A", "en": "What's the weather like in winter here?", "uz": "Bu yerda qishda ob-havo qanday?"},
+          {"who": "B", "en": "It's cold and it often snows. The temperature is about minus ten.", "uz": "Sovuq va tez-tez qor yog'adi. Harorat taxminan minus o'n."},
+          {"who": "A", "en": "Is it raining now?", "uz": "Hozir yomg'ir yog'yaptimi?"},
+          {"who": "B", "en": "No, but it's cloudy and windy.", "uz": "Yo'q, lekin bulutli va shamolli."},
+          {"who": "A", "en": "What about summer?", "uz": "Yoz-chi?"},
+          {"who": "B", "en": "In summer it's hot and sunny, about thirty-five degrees.", "uz": "Yozda issiq va quyoshli, taxminan o'ttiz besh daraja."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "It ___ raining now. (be)", "answer": "It is raining now."},
+          {"prompt": "The children ___ playing outside. (be)", "answer": "The children are playing outside."},
+          {"prompt": "I ___ wearing a coat. (be)", "answer": "I am wearing a coat."},
+          {"prompt": "It ___ snowing today. (inkor)", "answer": "It isn't snowing today."},
+          {"prompt": "___ it cold outside? (be)", "answer": "Is it cold outside?"}
+        ],
+        "translate": [
+          {"uz": "Yomg'ir yog'ayapti.", "en": "It is raining."},
+          {"uz": "Quyosh charaqlab turadi.", "en": "The sun is shining."},
+          {"uz": "Bugun sovuq emas.", "en": "It isn't cold today."},
+          {"uz": "Nega palto kiygansiz?", "en": "Why are you wearing a coat?"}
+        ],
+        "fix": [
+          {"wrong": "It is rain now.", "right": "It is raining now.", "why": "davomiy zamonda fe'lga -ing"},
+          {"wrong": "I am wear a coat.", "right": "I am wearing a coat.", "why": "am + fe'l-ing"},
+          {"wrong": "Is it snow?", "right": "Is it snowing?", "why": "savol ham davomiy zamonda"}
+        ]
+      },
+      "tip": "Present Continuous — hozir, shu daqiqada. Doimiy holat uchun Present Simple: <em>It rains a lot in April</em> (aprelda ko'p yomg'ir yog'adi) / <em>It is raining now</em> (hozir yog'yapti)."
+    },
+    {
+      "n": 18,
+      "title": "Ko'ra olaman: can see, can hear",
+      "theme": "Tabiat va geografiya",
+      "goal": "\"Qila olaman\" strukturasini can / can't bilan o'zlashtirasiz va tabiat so'zlarini o'rganasiz.",
+      "frame": {
+        "name": "can / can't + fe'l",
+        "formula": "I can see the sea from my window.\nI can't hear you.\nCan you see that mountain?   — Yes, I can.",
+        "explain": "<p><b>can</b> — qobiliyat yoki imkoniyat. Undan keyin fe'l <b>har doim o'zak shaklda</b> keladi: can see, can swim, can't hear. Inkor — <b>can't</b> (cannot), savol — <b>Can you ...?</b></p>",
+        "table": [
+          ["can + fe'l", "I can swim."],
+          ["can't = cannot", "I can't hear you."],
+          ["Can you ...?", "Can you see it?"],
+          ["see / hear / smell / feel", "sezgi fe'llari"],
+          ["Qisqa javob", "Yes, I can. / No, I can't."]
+        ]
+      },
+      "triad": {
+        "aff": ["I can see the mountain.", "She can hear the river."],
+        "neg": ["I can't see the mountain.", "She can't hear the river."],
+        "q": ["Can you see the mountain?", "Can she hear the river?"],
+        "short": ["Yes, I can. / No, I can't.", "Yes, she can. / No, she can't."]
+      },
+      "words": [
+        ["star", "yulduz", "a bright star"],
+        ["sea", "dengiz", "the Black Sea"],
+        ["ocean", "okean", "the Pacific Ocean"],
+        ["river", "daryo", "a long river"],
+        ["lake", "ko'l", "a deep lake"],
+        ["mountain", "tog'", "a high mountain"],
+        ["hill", "tepalik", "a green hill"],
+        ["forest", "o'rmon", "a thick forest"],
+        ["grass", "o't, maysa", "green grass"],
+        ["flower", "gul", "a red flower"],
+        ["leaf", "barg", "a green leaf"],
+        ["stone", "tosh", "a heavy stone"],
+        ["sand", "qum", "soft sand"],
+        ["ground", "yer, zamin", "on the ground"],
+        ["earth", "Yer (sayyora), tuproq", "the earth is round"],
+        ["world", "dunyo", "around the world"],
+        ["nature", "tabiat", "love nature"],
+        ["island", "orol", "a small island"],
+        ["desert", "cho'l", "the Sahara Desert"],
+        ["field", "dala", "a field of wheat"],
+        ["farm", "ferma", "on the farm"],
+        ["fire", "olov", "a small fire"],
+        ["ice", "muz", "cold ice"],
+        ["light", "yorug'lik", "bright light"],
+        ["dark", "qorong'i", "in the dark"]
+      ],
+      "examples": [
+        {"en": "I can see the sea and a small island from my window.", "uz": "Derazamdan dengiz va kichik orolni ko'raman."},
+        {"en": "Can you see that mountain behind the forest?", "uz": "O'rmon orqasidagi anavi tog'ni ko'ryapsizmi?"},
+        {"en": "We can't hear you — the wind is very strong.", "uz": "Sizni eshitmayapmiz — shamol juda kuchli."},
+        {"en": "There is a lake near the village, and a river between the hills.", "uz": "Qishloq yaqinida ko'l, tepaliklar orasida daryo bor."},
+        {"en": "In the desert there is a lot of sand and very little water.", "uz": "Cho'lda ko'p qum va juda kam suv bor."},
+        {"en": "My grandfather has a farm in the field near the forest.", "uz": "Buamning o'rmon yaqinidagi dalada fermasi bor."},
+        {"en": "Can you smell the flowers in the garden?", "uz": "Bog'dagi gullarning hidini sezyapsizmi?"},
+        {"en": "The earth is our home, and nature needs our help.", "uz": "Yer bizning uyimiz, tabiat esa bizning yordamimizga muhtoj."}
+      ],
+      "street": {
+        "title": "Tabiatda",
+        "items": [
+          {"en": "Look at that view!", "uz": "Anavi manzaraga qarang!"},
+          {"en": "It's beautiful out here.", "uz": "Bu yer juda chiroyli."},
+          {"en": "Can you hear that?", "uz": "Buni eshityapsizmi?"},
+          {"en": "Let's go for a walk.", "uz": "Keling, sayrga chiqamiz."},
+          {"en": "Don't leave your rubbish here.", "uz": "Axlatni bu yerda qoldirmang."}
+        ],
+        "note": "\"Let's go for a walk\" — sayrga chiqishni taklif qilishning tabiiy shakli; \"go to walk\" emas."
+      },
+      "dialog": {
+        "title": "Mini dialog · Ko'l bo'yida",
+        "lines": [
+          {"who": "A", "en": "Can you see the lake from here?", "uz": "Bu yerdan ko'lni ko'rasizmi?"},
+          {"who": "B", "en": "Yes, I can. And there's a small island in the middle.", "uz": "Ha. Va o'rtasida kichik orol bor."},
+          {"who": "A", "en": "Is that a forest behind the hills?", "uz": "Tepaliklar orqasidagi o'rmonmi?"},
+          {"who": "B", "en": "It is. My grandfather has a farm near it.", "uz": "Ha. Buamning u yer yaqinida fermasi bor."},
+          {"who": "A", "en": "Can you hear the river?", "uz": "Daryoni eshityapsizmi?"},
+          {"who": "B", "en": "No, I can't — but I can smell the flowers.", "uz": "Yo'q — lekin gullarning hidini sezyapman."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "I ___ see the mountain. (imkoniyat)", "answer": "I can see the mountain."},
+          {"prompt": "She ___ hear you. (inkor)", "answer": "She can't hear you."},
+          {"prompt": "___ you see the sea? (can)", "answer": "Can you see the sea?"},
+          {"prompt": "We can ___ the river. (hear)", "answer": "We can hear the river."},
+          {"prompt": "There is a lot of ___ in the desert. (qum)", "answer": "There is a lot of sand in the desert."}
+        ],
+        "translate": [
+          {"uz": "Men dengizni ko'ra olaman.", "en": "I can see the sea."},
+          {"uz": "U (ayol) sizni eshitmayapti.", "en": "She can't hear you."},
+          {"uz": "Tog'ni ko'ryapsizmi?", "en": "Can you see the mountain?"},
+          {"uz": "O'rmon yaqinida ko'l bor.", "en": "There is a lake near the forest."}
+        ],
+        "fix": [
+          {"wrong": "I can to see the sea.", "right": "I can see the sea.", "why": "can dan keyin to ishlatilmaydi"},
+          {"wrong": "She can't hears you.", "right": "She can't hear you.", "why": "can't dan keyin fe'l o'zak shaklda"},
+          {"wrong": "Can you to hear me?", "right": "Can you hear me?", "why": "can + fe'l, to yo'q"}
+        ]
+      },
+      "tip": "can dan keyin fe'l har doim o'zak shaklda: can swim, can see, can't hear. <b>to</b> ham, <b>-s</b> ham qo'shilmaydi. Bir xil qoida <b>must, should, will</b> uchun ham amal qiladi."
+    },
+    {
+      "n": 19,
+      "title": "Ranglar va sifat tartibi",
+      "theme": "Ranglar va sifatlar I",
+      "goal": "Ranglarni o'zlashtirasiz va bir nechta sifat birga kelganda ularning tartibini o'rganasiz.",
+      "frame": {
+        "name": "Sifat + ot tartibi",
+        "formula": "a big black car            o'lcham → rang\na small round table        o'lcham → shakl\ntwo long red curtains      o'lcham → rang\nan old white house         yosh → rang",
+        "explain": "<p>Sifatlar ot <b>oldidan</b> keladi. Bir nechta sifat bo'lsa, tartib bor: <b>fikr → o'lcham → yosh → rang → material</b>. Shuning uchun <em>a big black car</em> to'g'ri, \"a black big car\" esa noto'g'ri.</p>",
+        "table": [
+          ["fikr", "beautiful, nice, ugly"],
+          ["o'lcham", "big, small, tall, long"],
+          ["yosh", "new, old, young"],
+          ["rang", "red, black, white"],
+          ["to'liq tartib", "a nice big old white house"]
+        ]
+      },
+      "triad": {
+        "aff": ["This is a big black car.", "The walls are white."],
+        "neg": ["This isn't a big black car.", "The walls aren't white."],
+        "q": ["Is this a big black car?", "Are the walls white?"],
+        "short": ["Yes, it is. / No, it isn't.", "Yes, they are. / No, they aren't."]
+      },
+      "words": [
+        ["black", "qora", "a black car"],
+        ["blue", "ko'k", "a blue sky"],
+        ["brown", "jigarrang", "brown shoes"],
+        ["green", "yashil", "green leaves"],
+        ["grey", "kulrang", "a grey wall"],
+        ["red", "qizil", "a red apple"],
+        ["white", "oq", "a white shirt"],
+        ["yellow", "sariq", "a yellow flower"],
+        ["pink", "pushti", "a pink dress"],
+        ["purple", "binafsha", "purple curtains"],
+        ["colour", "rang", "what colour"],
+        ["bright", "yorqin", "a bright colour"],
+        ["pale", "och, xira", "a pale face"],
+        ["deep", "to'q, chuqur", "deep blue"],
+        ["big", "katta", "a big house"],
+        ["small", "kichik", "a small room"],
+        ["long", "uzun", "long hair"],
+        ["short", "kalta, qisqa", "short hair"],
+        ["tall", "baland", "a tall man"],
+        ["wide", "keng", "a wide road"],
+        ["narrow", "tor", "a narrow street"],
+        ["heavy", "og'ir", "a heavy box"],
+        ["thin", "yupqa, ingichka", "a thin book"],
+        ["thick", "qalin", "a thick book"],
+        ["round", "dumaloq", "a round table"]
+      ],
+      "examples": [
+        {"en": "My father has a big black car and a small white bicycle.", "uz": "Dadamning katta qora mashinasi va kichik oq velosipedi bor."},
+        {"en": "The walls in the living room are light grey, and the curtains are long and red.", "uz": "Mehmonxonadagi devorlar och kulrang, pardalar esa uzun va qizil."},
+        {"en": "She is wearing a short pink dress and white shoes.", "uz": "U kalta pushti ko'ylak va oq tufli kiygan."},
+        {"en": "There is a round wooden table in the kitchen and two brown chairs.", "uz": "Oshxonada dumaloq yog'och stol va ikki jigarrang stul bor."},
+        {"en": "The sky is deep blue in summer, and the leaves are bright green in spring.", "uz": "Yozda osmon to'q ko'k, bahorda barglar yorqin yashil bo'ladi."},
+        {"en": "This box is too heavy, and that bag is too thin.", "uz": "Bu quti juda og'ir, anavi sumka esa juda yupqa."},
+        {"en": "Is your new phone black or purple?", "uz": "Yangi telefoningiz qorami yoki binafshami?"},
+        {"en": "We need a wide road and a narrow bridge for this village.", "uz": "Bu qishloq uchun keng yo'l va tor ko'prik kerak."}
+      ],
+      "street": {
+        "title": "Rang va ko'rinish",
+        "items": [
+          {"en": "What colour is it?", "uz": "U qanday rangda?"},
+          {"en": "It's light blue.", "uz": "Och ko'k."},
+          {"en": "I like that dark green one.", "uz": "Menga anavi to'q yashil yoqdi."},
+          {"en": "Does it come in black?", "uz": "Qora rangi bormi?"},
+          {"en": "It looks good on you.", "uz": "Sizga yarashibdi."}
+        ],
+        "note": "Rangga ohang qo'shish: <b>light</b> blue (och ko'k), <b>dark</b> blue (to'q ko'k), <b>bright</b> red (yorqin qizil), <b>pale</b> pink (och pushti)."
+      },
+      "dialog": {
+        "title": "Mini dialog · Divan tanlash",
+        "lines": [
+          {"who": "A", "en": "I want a new sofa for the living room.", "uz": "Mehmonxona uchun yangi divan olaman."},
+          {"who": "B", "en": "What colour?", "uz": "Qanday rangda?"},
+          {"who": "A", "en": "Something dark — brown or grey.", "uz": "To'qroq — jigarrang yoki kulrang."},
+          {"who": "B", "en": "We have a big brown sofa and a small grey one.", "uz": "Katta jigarrang divan va kichik kulrang divanimiz bor."},
+          {"who": "A", "en": "The brown one looks nice. How much is it?", "uz": "Jigarrangi chiroyli ko'rinadi. Qancha turadi?"},
+          {"who": "B", "en": "It's cheaper than the grey one.", "uz": "Kulrangidan arzonroq."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "a ___ car (black / big)", "answer": "a big black car"},
+          {"prompt": "a ___ table (round / small)", "answer": "a small round table"},
+          {"prompt": "The sky is ___ blue. (to'q)", "answer": "The sky is deep blue."},
+          {"prompt": "She has ___ hair. (uzun qora)", "answer": "She has long black hair."},
+          {"prompt": "This bag is ___ . (yupqa)", "answer": "This bag is thin."}
+        ],
+        "translate": [
+          {"uz": "Bu katta qora mashina.", "en": "This is a big black car."},
+          {"uz": "Devorlar oq.", "en": "The walls are white."},
+          {"uz": "uzun qizil pardalar", "en": "long red curtains"},
+          {"uz": "Yangi telefonim binafsha rangda.", "en": "My new phone is purple."}
+        ],
+        "fix": [
+          {"wrong": "a black big car", "right": "a big black car", "why": "tartib: o'lcham → rang"},
+          {"wrong": "a car big", "right": "a big car", "why": "sifat otdan oldin keladi"},
+          {"wrong": "The walls is white.", "right": "The walls are white.", "why": "ko'plik → are"}
+        ]
+      },
+      "tip": "Rang sifat bo'lib ot oldidan keladi: <b>a red apple</b>. O'zbekchada \"qizil olma\" — tartib bir xil, lekin ingliz tilida <b>a / the</b> artiklini unutmang: <em>a red apple</em>, <em>the red apple</em>."
+    },
+    {
+      "n": 20,
+      "title": "Xarakter va holat: She is kind, he looks tired",
+      "theme": "Sifatlar II",
+      "goal": "Odamning xarakteri va holatini ta'riflashni o'rganasiz: be + sifat, look / seem / feel + sifat.",
+      "frame": {
+        "name": "be / look / feel + sifat",
+        "formula": "She is very kind.\nHe looks tired today.\nThey seem happy.\nAre you busy now?   — Yes, I am.",
+        "explain": "<p>Sifat <b>to be</b> fe'lidan keyin keladi: <em>She is kind</em>. \"Ko'rinmoq\" ma'nosida <b>look</b>, \"his qilmoq\" uchun <b>feel</b>, \"tuyulmoq\" uchun <b>seem</b> ishlatiladi — ular ham sifat bilan keladi.</p>",
+        "table": [
+          ["be + sifat", "She is kind."],
+          ["look + sifat", "He looks tired."],
+          ["seem + sifat", "It seems easy."],
+          ["feel + sifat", "I feel happy."],
+          ["very / really / too", "very kind, too busy"]
+        ]
+      },
+      "triad": {
+        "aff": ["She is very kind.", "He looks tired."],
+        "neg": ["She isn't very kind.", "He doesn't look tired."],
+        "q": ["Is she kind?", "Does he look tired?"],
+        "short": ["Yes, she is. / No, she isn't.", "Yes, he does. / No, he doesn't."]
+      },
+      "words": [
+        ["good", "yaxshi", "a good person"],
+        ["bad", "yomon", "a bad day"],
+        ["new", "yangi", "a new phone"],
+        ["old", "eski, qari", "an old friend"],
+        ["young", "yosh", "a young teacher"],
+        ["happy", "baxtli, xursand", "a happy family"],
+        ["sad", "g'amgin", "a sad story"],
+        ["angry", "jahli chiqqan", "an angry man"],
+        ["tired", "charchagan", "very tired"],
+        ["hungry", "och", "I'm hungry"],
+        ["busy", "band", "a busy day"],
+        ["free", "bo'sh, erkin", "free time"],
+        ["kind", "mehribon", "a kind woman"],
+        ["polite", "odobli", "a polite waiter"],
+        ["rude", "qo'pol", "a rude answer"],
+        ["smart", "aqlli", "a smart student"],
+        ["lazy", "dangasa", "a lazy cat"],
+        ["strong", "kuchli", "a strong man"],
+        ["weak", "kuchsiz", "a weak voice"],
+        ["rich", "boy", "a rich family"],
+        ["poor", "kambag'al", "a poor village"],
+        ["beautiful", "chiroyli", "a beautiful garden"],
+        ["ugly", "xunuk", "an ugly building"],
+        ["funny", "kulgili", "a funny story"],
+        ["afraid", "qo'rqqan", "I'm afraid"]
+      ],
+      "examples": [
+        {"en": "My neighbor is a very kind and polite woman.", "uz": "Qo'shnim juda mehribon va odobli ayol."},
+        {"en": "He looks tired today because he is very busy.", "uz": "Bugun u charchagan ko'rinadi, chunki juda band."},
+        {"en": "Are you free this evening? — I'm sorry, I'm busy.", "uz": "Bugun kechqurun bo'shmisiz? — Kechirasiz, bandman."},
+        {"en": "Don't be rude to the waiter — he is doing his job.", "uz": "Ofitsiantga qo'pol munosabatda bo'lmang — u o'z ishini qilyapti."},
+        {"en": "Their new house is big and beautiful, but it looks empty.", "uz": "Ularning yangi uyi katta va chiroyli, lekin bo'sh ko'rinadi."},
+        {"en": "My grandfather is old but very strong, and he is never lazy.", "uz": "Buam qari, lekin juda kuchli va hech qachon dangasa emas."},
+        {"en": "Why is she sad? — Her old friend is moving to another country.", "uz": "Nega u g'amgin? — Eski do'sti boshqa mamlakatga ko'chib ketyapti."},
+        {"en": "Poor people are often more generous than rich people.", "uz": "Kambag'al odamlar ko'pincha boylardan saxiyroq bo'ladi."}
+      ],
+      "street": {
+        "title": "Odam haqida",
+        "items": [
+          {"en": "He's a nice guy.", "uz": "U yaxshi yigit."},
+          {"en": "She's in a good mood today.", "uz": "U bugun kayfiyati yaxshi."},
+          {"en": "Don't be afraid.", "uz": "Qo'rqmang."},
+          {"en": "It's not a big deal.", "uz": "Bu katta gap emas."},
+          {"en": "You look great!", "uz": "Juda yaxshi ko'rinasiz!"}
+        ],
+        "note": "\"It's not a big deal\" — \"bu muhim narsa emas\", tasalli berish uchun ishlatiladi."
+      },
+      "dialog": {
+        "title": "Mini dialog · Yangi ish",
+        "lines": [
+          {"who": "A", "en": "You look tired. Are you OK?", "uz": "Charchagan ko'rinasiz. Yaxshimisiz?"},
+          {"who": "B", "en": "I'm fine, just busy. I have a lot of work.", "uz": "Yaxshiman, shunchaki bandman. Ish ko'p."},
+          {"who": "A", "en": "Is your new job hard?", "uz": "Yangi ishingiz qiyinmi?"},
+          {"who": "B", "en": "It's difficult, but the people are kind and polite.", "uz": "Qiyin, lekin odamlar mehribon va odobli."},
+          {"who": "A", "en": "That's good. Don't work too much!", "uz": "Yaxshi. Juda ko'p ishlamang!"},
+          {"who": "B", "en": "I know. I'm free on Sunday, so I can rest.", "uz": "Bilaman. Yakshanba bo'shman, dam olaman."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "She ___ very kind. (be)", "answer": "She is very kind."},
+          {"prompt": "He ___ tired today. (look)", "answer": "He looks tired today."},
+          {"prompt": "___ you busy now? (be)", "answer": "Are you busy now?"},
+          {"prompt": "They ___ happy. (inkor)", "answer": "They aren't happy."},
+          {"prompt": "I ___ hungry. (be)", "answer": "I am hungry."}
+        ],
+        "translate": [
+          {"uz": "U juda mehribon.", "en": "She is very kind."},
+          {"uz": "Bugun charchagan ko'rinasiz.", "en": "You look tired today."},
+          {"uz": "Men bandman.", "en": "I am busy."},
+          {"uz": "Nega g'amginsiz?", "en": "Why are you sad?"}
+        ],
+        "fix": [
+          {"wrong": "She is kind very.", "right": "She is very kind.", "why": "very sifatdan oldin keladi"},
+          {"wrong": "He look tired.", "right": "He looks tired.", "why": "he → looks"},
+          {"wrong": "I have hungry.", "right": "I am hungry.", "why": "holat uchun to be kerak"}
+        ]
+      },
+      "tip": "Sifat bilan \"bo'lmoq\" — <b>to be</b>: <em>I am tired, she is happy</em>. \"I have tired\" xato, chunki have faqat ega bo'lishni bildiradi: <em>I have a car</em>."
+    }
+  ]
+}

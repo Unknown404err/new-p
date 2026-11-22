@@ -1,0 +1,527 @@
+{
+  "lessons": [
+    {
+      "n": 31,
+      "title": "Tajriba va natija: I have finished",
+      "theme": "Present Perfect va natija",
+      "goal": "Present Perfect zamonini o'zlashtirasiz: have/has + 3-shakl, ever / never / just / already / yet.",
+      "frame": {
+        "name": "Present Perfect: have / has + V3",
+        "formula": "I have finished the report.\nShe has changed her job.\nHave you ever been to London?\nI haven't seen him today.",
+        "explain": "<p>Present Perfect <b>o'tmishdagi ishning hozirgi natijasini</b> ko'rsatadi: <em>I have lost my keys</em> — kalitlarimni yo'qotdim (va hozir ular yo'q). Tuzilishi: <b>have / has + fe'lning 3-shakli</b>. Aniq o'tgan vaqt aytilsa (yesterday, in 2020), Past Simple ishlatiladi.</p>",
+        "table": [
+          ["have / has + V3", "I have finished."],
+          ["natija hozir muhim", "I've lost my keys."],
+          ["ever / never", "Have you ever been...? / I've never..."],
+          ["just / already / yet", "I've just done it. / Not yet."],
+          ["for / since", "for two years / since 2020"]
+        ]
+      },
+      "triad": {
+        "aff": ["I have finished the report.", "She has changed her job."],
+        "neg": ["I haven't finished the report.", "She hasn't changed her job."],
+        "q": ["Have you finished the report?", "Has she changed her job?"],
+        "short": ["Yes, I have. / No, I haven't.", "Yes, she has. / No, she hasn't."]
+      },
+      "words": [
+        ["change", "o'zgartirmoq", "change your plan"],
+        ["experience", "tajriba", "work experience"],
+        ["success", "muvaffaqiyat", "a big success"],
+        ["failure", "muvaffaqiyatsizlik", "learn from failure"],
+        ["result", "natija", "the final result"],
+        ["mistake", "xato", "make a mistake"],
+        ["chance", "imkoniyat", "a second chance"],
+        ["decision", "qaror", "a difficult decision"],
+        ["plan", "reja", "make a plan"],
+        ["problem", "muammo", "solve a problem"],
+        ["solution", "yechim", "find a solution"],
+        ["idea", "g'oya", "a good idea"],
+        ["reason", "sabab", "the main reason"],
+        ["example", "misol", "give an example"],
+        ["test", "sinov, test", "pass a test"],
+        ["exam", "imtihon", "take an exam"],
+        ["homework", "uyga vazifa", "do homework"],
+        ["project", "loyiha", "a new project"],
+        ["report", "hisobot", "finish a report"],
+        ["meeting", "yig'ilish", "start a meeting"],
+        ["goal", "maqsad", "reach a goal"],
+        ["progress", "yutuq, taraqqiyot", "make progress"],
+        ["career", "karyera", "a good career"],
+        ["skill", "ko'nikma", "a useful skill"],
+        ["knowledge", "bilim", "deep knowledge"]
+      ],
+      "examples": [
+        {"en": "I have finished the report, so we can start the meeting.", "uz": "Hisobotni tugatdim, yig'ilishni boshlashimiz mumkin."},
+        {"en": "She has changed her job twice this year.", "uz": "U bu yil ikki marta ishini o'zgartirdi."},
+        {"en": "Have you ever made a big mistake at work?", "uz": "Ishda katta xato qilganmisiz?"},
+        {"en": "We haven't solved this problem yet, but we have found a few solutions.", "uz": "Bu muammoni hali hal qilmadik, lekin bir nechta yechim topdik."},
+        {"en": "He has already written his exam and he is happy with the result.", "uz": "U imtihonini allaqachon yozgan va natijadan mamnun."},
+        {"en": "My sister has never had a chance to study abroad.", "uz": "Singlim hech qachon chet elda o'qish imkoniga ega bo'lmagan."},
+        {"en": "I have learned a lot from my failures — experience is the best teacher.", "uz": "Muvaffaqiyatsizliklarimdan ko'p narsa o'rgandim — tajriba eng yaxshi ustoz."},
+        {"en": "They have worked on this project for six months and have made real progress.", "uz": "Ular bu loyiha ustida olti oy ishladilar va haqiqiy yutuqqa erishdilar."}
+      ],
+      "street": {
+        "title": "Tajriba haqida",
+        "items": [
+          {"en": "Have you ever been there?", "uz": "U yerda bo'lganmisiz?"},
+          {"en": "I've never tried it.", "uz": "Buni hech qachon sinab ko'rmaganman."},
+          {"en": "I've just finished.", "uz": "Hozir tugatdim."},
+          {"en": "Not yet.", "uz": "Hali yo'q."},
+          {"en": "It's already done.", "uz": "Allaqachon bajarilgan."}
+        ],
+        "note": "\"I've just finished\" — juda yaqinda tugadi; \"Not yet\" — hali emas; \"already\" — allaqachon (kutilganidan erta)."
+      },
+      "dialog": {
+        "title": "Mini dialog · Loyiha haqida",
+        "lines": [
+          {"who": "A", "en": "Have you ever worked in a big company?", "uz": "Katta kompaniyada ishlaganmisiz?"},
+          {"who": "B", "en": "Yes, I have. I worked there for three years.", "uz": "Ha. U yerda uch yil ishladim."},
+          {"who": "A", "en": "Have you finished your new project?", "uz": "Yangi loyihangizni tugatdingizmi?"},
+          {"who": "B", "en": "Not yet. We have made good progress, but we haven't tested it.", "uz": "Hali yo'q. Yaxshi yutuqqa erishdik, lekin sinovdan o'tkazmadik."},
+          {"who": "A", "en": "What is the biggest problem?", "uz": "Eng katta muammo nima?"},
+          {"who": "B", "en": "Time. We haven't had enough time since Monday.", "uz": "Vaqt. Dushanbadan beri yetarli vaqtimiz bo'lmadi."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "I ___ finished the report. (have / has)", "answer": "I have finished the report."},
+          {"prompt": "She ___ changed her job. (have / has)", "answer": "She has changed her job."},
+          {"prompt": "___ you ever been to London? (Have / Has)", "answer": "Have you ever been to London?"},
+          {"prompt": "We ___ solved this problem yet. (inkor)", "answer": "We haven't solved this problem yet."},
+          {"prompt": "He ___ already written the test. (have / has)", "answer": "He has already written the test."}
+        ],
+        "translate": [
+          {"uz": "Hisobotni tugatdim.", "en": "I have finished the report."},
+          {"uz": "U ishini o'zgartirdi.", "en": "She has changed her job."},
+          {"uz": "Ishda katta xato qilganmisiz?", "en": "Have you ever made a big mistake at work?"},
+          {"uz": "Biz hali muammoni hal qilmadik.", "en": "We haven't solved the problem yet."}
+        ],
+        "fix": [
+          {"wrong": "I have finish the report.", "right": "I have finished the report.", "why": "have dan keyin 3-shakl"},
+          {"wrong": "She have changed her job.", "right": "She has changed her job.", "why": "she → has"},
+          {"wrong": "I have seen him yesterday.", "right": "I saw him yesterday.", "why": "aniq o'tgan vaqt bilan Past Simple"}
+        ]
+      },
+      "tip": "Present Perfect — aniq vaqt aytilmaydi, natija muhim. Aniq vaqt bo'lsa (<b>yesterday, in 2020, two days ago</b>) — Past Simple: <em>I saw him yesterday</em>."
+    },
+    {
+      "n": 32,
+      "title": "Majburiyat: must, have to, mustn't",
+      "theme": "Qoidalar, hujjatlar va ish",
+      "goal": "Majburiyat va taqiqni ifodalashni o'rganasiz: must, have to, don't have to, mustn't.",
+      "frame": {
+        "name": "must / have to / mustn't",
+        "formula": "You must wear a helmet.\nI have to finish this today.\nYou don't have to come early.\nYou mustn't smoke here.",
+        "explain": "<p><b>must</b> — kuchli majburiyat yoki qoida; <b>have to</b> — tashqi sababga ko'ra majburiyat; <b>don't have to</b> — shart emas; <b>mustn't</b> — qat'iyan mumkin emas. Oxirgi ikkisini aralashtirmang: ma'nosi butunlay boshqa!</p>",
+        "table": [
+          ["must + fe'l", "shart, qoida"],
+          ["have to / has to", "majburiyat (tashqi sabab)"],
+          ["don't have to", "shart emas"],
+          ["mustn't", "mumkin emas, taqiqlangan"],
+          ["had to", "o'tgan zamondagi majburiyat"]
+        ]
+      },
+      "triad": {
+        "aff": ["You must sign the contract.", "She has to wear a uniform."],
+        "neg": ["You mustn't sign here.", "She doesn't have to wear a uniform."],
+        "q": ["Must I sign here?", "Does she have to wear a uniform?"],
+        "short": ["Yes, you must. / No, you don't have to.", "Yes, she does. / No, she doesn't."]
+      },
+      "words": [
+        ["rule", "qoida", "follow the rules"],
+        ["law", "qonun", "the law is clear"],
+        ["duty", "burch", "my duty"],
+        ["permission", "ruxsat", "ask for permission"],
+        ["responsibility", "mas'uliyat", "a big responsibility"],
+        ["safety", "xavfsizlik", "safety rules"],
+        ["warning", "ogohlantirish", "a warning sign"],
+        ["sign", "belgi; imzo chekmoq", "a road sign"],
+        ["document", "hujjat", "an official document"],
+        ["contract", "shartnoma", "sign a contract"],
+        ["form", "forma, blank", "fill in a form"],
+        ["signature", "imzo", "your signature here"],
+        ["deadline", "muddat", "meet the deadline"],
+        ["schedule", "jadval", "a busy schedule"],
+        ["task", "vazifa", "a difficult task"],
+        ["instruction", "ko'rsatma", "read the instructions"],
+        ["condition", "shart, holat", "a condition of the contract"],
+        ["agreement", "kelishuv", "a written agreement"],
+        ["policy", "siyosat, qoida", "company policy"],
+        ["licence", "litsenziya, guvohnoma", "a driving licence"],
+        ["insurance", "sug'urta", "health insurance"],
+        ["tax", "soliq", "pay tax"],
+        ["salary", "maosh (oylik)", "a good salary"],
+        ["wage", "ish haqi (kunlik)", "a daily wage"],
+        ["bonus", "bonus, mukofot", "a year-end bonus"]
+      ],
+      "examples": [
+        {"en": "You must read the safety rules before you start work.", "uz": "Ishni boshlashdan oldin xavfsizlik qoidalarini o'qishingiz shart."},
+        {"en": "I have to finish this report before the deadline.", "uz": "Bu hisobotni muddatgacha tugatishim kerak."},
+        {"en": "You don't have to sign every page — only the last one.", "uz": "Har bir betga imzo chekishingiz shart emas — faqat oxirgisiga."},
+        {"en": "Passengers mustn't smoke inside the building.", "uz": "Yo'lovchilar bino ichida chekishlari mumkin emas."},
+        {"en": "She has to provide her documents and a copy of her licence.", "uz": "U hujjatlarini va litsenziyasining nusxasini taqdim etishi kerak."},
+        {"en": "Do I have to pay tax on this bonus?", "uz": "Bu bonusdan soliq to'lashim kerakmi?"},
+        {"en": "The agreement says that the company must pay the salary on the first day of the month.", "uz": "Shartnomada aytilishicha, kompaniya maoshni oyning birinchi kunida to'lashi shart."},
+        {"en": "He didn't have to work at the weekend, so he rested.", "uz": "U dam olish kunlari ishlashi shart emas edi, shuning uchun dam oldi."}
+      ],
+      "street": {
+        "title": "Qoidalar",
+        "items": [
+          {"en": "You have to sign here.", "uz": "Shu yerda imzo chekishingiz kerak."},
+          {"en": "You mustn't park here.", "uz": "Bu yerda to'xtash mumkin emas."},
+          {"en": "Is it allowed?", "uz": "Ruxsat berilganmi?"},
+          {"en": "It's against the rules.", "uz": "Bu qoidalarga zid."},
+          {"en": "Sorry, I didn't know.", "uz": "Kechirasiz, bilmasdim."}
+        ],
+        "note": "\"Is it allowed?\" — ruxsat so'rashning qisqa shakli; rasmiy joylarda \"Am I allowed to ...?\" deb ham aytiladi."
+      },
+      "dialog": {
+        "title": "Mini dialog · Ishga qabul",
+        "lines": [
+          {"who": "A", "en": "Do I have to fill in this form?", "uz": "Bu formani to'ldirishim kerakmi?"},
+          {"who": "B", "en": "Yes, and you must sign at the bottom.", "uz": "Ha, va pastda imzo chekishingiz shart."},
+          {"who": "A", "en": "Do I need a copy of my passport?", "uz": "Pasportim nusxasi kerakmi?"},
+          {"who": "B", "en": "You don't have to bring it today, but you must show it at the interview.", "uz": "Bugun olib kelishingiz shart emas, lekin suhbatda ko'rsatishingiz shart."},
+          {"who": "A", "en": "Is there a deadline?", "uz": "Muddati bormi?"},
+          {"who": "B", "en": "Yes, the contract must be ready by Friday.", "uz": "Ha, shartnoma jumagacha tayyor bo'lishi kerak."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "You ___ sign here. (must)", "answer": "You must sign here."},
+          {"prompt": "She ___ to wear a uniform. (have)", "answer": "She has to wear a uniform."},
+          {"prompt": "You ___ smoke here. (taqiq)", "answer": "You mustn't smoke here."},
+          {"prompt": "You ___ to come early. (shart emas)", "answer": "You don't have to come early."},
+          {"prompt": "___ I pay now? (Must)", "answer": "Must I pay now?"}
+        ],
+        "translate": [
+          {"uz": "Shu yerda imzo chekishingiz shart.", "en": "You must sign here."},
+          {"uz": "Bu hisobotni tugatishim kerak.", "en": "I have to finish this report."},
+          {"uz": "Bu yerda chekish mumkin emas.", "en": "You mustn't smoke here."},
+          {"uz": "Keling, formani to'ldiramiz.", "en": "Let's fill in the form."}
+        ],
+        "fix": [
+          {"wrong": "You must to sign here.", "right": "You must sign here.", "why": "must dan keyin to ishlatilmaydi"},
+          {"wrong": "She have to wear a uniform.", "right": "She has to wear a uniform.", "why": "she → has to"},
+          {"wrong": "You don't must smoke here.", "right": "You mustn't smoke here.", "why": "must ning inkori — mustn't"}
+        ]
+      },
+      "tip": "<b>mustn't</b> va <b>don't have to</b> — butunlay boshqa ma'no: mustn't = taqiq (mumkin emas), don't have to = shart emas (xohlasang qil)."
+    },
+    {
+      "n": 33,
+      "title": "Maslahat: You should rest / I gotta go",
+      "theme": "Maslahat, odat va ko'cha tili",
+      "goal": "Maslahat berishni o'rganasiz (should / shouldn't) va so'zlashuvdagi \"gotta\" shaklini o'zlashtirasiz.",
+      "frame": {
+        "name": "should / shouldn't + gotta",
+        "formula": "You should sleep more.\nYou shouldn't work so much.\nI've gotta go now.\nYou don't gotta worry.",
+        "explain": "<p><b>should</b> — maslahat (\"kerak, yaxshi bo'lardi\"), <b>shouldn't</b> — maslahat bermaslik. So'zlashuvda esa <b>gotta</b> = <em>have got to</em> (majburiyat) ishlatiladi: <em>I gotta go</em> — ketishim kerak. <b>Don't gotta</b> = shart emas.</p>",
+        "table": [
+          ["should + fe'l", "You should rest."],
+          ["shouldn't + fe'l", "You shouldn't smoke."],
+          ["gotta = have got to", "I gotta go."],
+          ["don't gotta = don't have to", "You don't gotta wait."],
+          ["Why don't you ...?", "maslahat berish usuli"]
+        ]
+      },
+      "triad": {
+        "aff": ["You should take a break.", "He should see a doctor."],
+        "neg": ["You shouldn't work so much.", "He shouldn't eat at night."],
+        "q": ["Should I call him?", "What should I do?"],
+        "short": ["Yes, you should. / No, you shouldn't.", "You should rest."]
+      },
+      "words": [
+        ["habit", "odat", "a healthy habit"],
+        ["advice", "maslahat", "ask for advice"],
+        ["routine", "kundalik tartib", "change your routine"],
+        ["choice", "tanlov", "a difficult choice"],
+        ["risk", "xavf, tavakkal", "take a risk"],
+        ["stress", "stress", "a lot of stress"],
+        ["energy", "energiya", "save your energy"],
+        ["balance", "muvozanat", "work-life balance"],
+        ["limit", "chegara", "set a limit"],
+        ["step", "qadam", "one step at a time"],
+        ["method", "usul", "a simple method"],
+        ["way", "yo'l, usul", "the best way"],
+        ["practice", "amaliyot, mashq", "daily practice"],
+        ["training", "mashg'ulot", "a training course"],
+        ["effort", "harakat, kuch", "make an effort"],
+        ["patience", "sabr", "a lot of patience"],
+        ["attention", "e'tibor", "pay attention"],
+        ["focus", "diqqat, e'tibor", "focus on one task"],
+        ["quality", "sifat", "good quality"],
+        ["value", "qiymat, qadr", "real value"],
+        ["benefit", "foyda", "a clear benefit"],
+        ["damage", "zarar", "cause damage"],
+        ["danger", "xavf", "a real danger"],
+        ["attitude", "munosabat", "a positive attitude"],
+        ["improvement", "yaxshilanish", "a small improvement"]
+      ],
+      "examples": [
+        {"en": "You should sleep seven or eight hours — it's a healthy habit.", "uz": "Yetti-sakkiz soat uxlashingiz kerak — bu sog'lom odat."},
+        {"en": "You shouldn't drink so much coffee; it gives you stress and takes your energy.", "uz": "Ko'p qahva ichmasligingiz kerak; bu stress beradi va energiyangizni oladi."},
+        {"en": "What should I do to keep a balance between work and rest?", "uz": "Ish va dam o'rtasida muvozanat saqlash uchun nima qilishim kerak?"},
+        {"en": "You should do some training every week and focus on one step at a time.", "uz": "Har hafta mashq qilishingiz va bir vaqtda bir qadamga e'tibor berishingiz kerak."},
+        {"en": "I've gotta go now — my bus leaves in five minutes.", "uz": "Hozir ketishim kerak — avtobusim besh daqiqadan keyin jo'naydi."},
+        {"en": "You don't gotta worry about the price; the quality is more important.", "uz": "Narx haqida tashvishlanishingiz shart emas; sifat muhimroq."},
+        {"en": "He should pay attention to the details — small mistakes can cause big damage.", "uz": "U tafsilotlarga e'tibor berishi kerak — kichik xatolar katta zarar keltirishi mumkin."},
+        {"en": "Why don't you ask your manager for advice?", "uz": "Nega menejeringizdan maslahat so'ramaysiz?"}
+      ],
+      "street": {
+        "title": "Maslahat",
+        "items": [
+          {"en": "You should get some rest.", "uz": "Bir oz dam olishingiz kerak."},
+          {"en": "You'd better see a doctor.", "uz": "Shifokorga ko'rinsangiz yaxshi bo'ladi."},
+          {"en": "Why don't you try again?", "uz": "Nega yana urinmayapsiz?"},
+          {"en": "I gotta run.", "uz": "Ketishim kerak."},
+          {"en": "Take it easy.", "uz": "Osonroq oling, asabiylashmang."}
+        ],
+        "note": "\"You'd better ...\" — \"should\" dan kuchliroq maslahat: <em>You'd better see a doctor</em> — \"shifokorga ko'rinsangiz yaxshi bo'ladi\"."
+      },
+      "dialog": {
+        "title": "Mini dialog · Charchoq",
+        "lines": [
+          {"who": "A", "en": "I'm always tired and stressed.", "uz": "Doim charchagan va stressdaman."},
+          {"who": "B", "en": "You should change your routine. How many hours do you sleep?", "uz": "Tartibingizni o'zgartirishingiz kerak. Necha soat uxlaysiz?"},
+          {"who": "A", "en": "About five.", "uz": "Taxminan besh soat."},
+          {"who": "B", "en": "That's the problem. You should sleep more and take short breaks.", "uz": "Muammo shu. Ko'proq uxlashingiz va qisqa tanaffuslar qilishingiz kerak."},
+          {"who": "A", "en": "I've gotta finish a big project this week.", "uz": "Bu hafta katta loyihani tugatishim kerak."},
+          {"who": "B", "en": "Then you shouldn't skip lunch. It gives you energy.", "uz": "Unda tushlikni o'tkazib yubormang. Bu sizga energiya beradi."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "You ___ sleep more. (should)", "answer": "You should sleep more."},
+          {"prompt": "You ___ work so much. (maslahat inkor)", "answer": "You shouldn't work so much."},
+          {"prompt": "___ I call him? (Should)", "answer": "Should I call him?"},
+          {"prompt": "I ___ go now. (gotta)", "answer": "I gotta go now."},
+          {"prompt": "You don't ___ worry. (gotta)", "answer": "You don't gotta worry."}
+        ],
+        "translate": [
+          {"uz": "Ko'proq uxlashingiz kerak.", "en": "You should sleep more."},
+          {"uz": "Ko'p ishlamasligingiz kerak.", "en": "You shouldn't work so much."},
+          {"uz": "Nima qilishim kerak?", "en": "What should I do?"},
+          {"uz": "Hozir ketishim kerak.", "en": "I've gotta go now."}
+        ],
+        "fix": [
+          {"wrong": "You should to rest.", "right": "You should rest.", "why": "should dan keyin to ishlatilmaydi"},
+          {"wrong": "You shouldn't to smoke.", "right": "You shouldn't smoke.", "why": "shouldn't + o'zak fe'l"},
+          {"wrong": "He should sees a doctor.", "right": "He should see a doctor.", "why": "should dan keyin -s qo'shilmaydi"}
+        ]
+      },
+      "tip": "should, must, can dan keyin fe'l o'zak shaklda — <b>to</b> ham, <b>-s</b> ham qo'shilmaydi. \"You should to rest\" — eng ko'p uchraydigan xatolardan biri."
+    },
+    {
+      "n": 34,
+      "title": "Sonlar va narx: How much is it?",
+      "theme": "Raqamlar",
+      "goal": "1 dan 20 gacha sanashni, narx so'rashni va miqdorni aytishni o'rganasiz.",
+      "frame": {
+        "name": "Sonlar va narx",
+        "formula": "How much is it?   — It's twenty thousand.\nHow many do you need?   — A pair.\nTwo and a half hours.\nA quarter past five.",
+        "explain": "<p>Sonlar ingliz tilida 1 dan 12 gacha alohida so'z, 13–19 esa <b>-teen</b> qo'shimchasi bilan yasaladi. Narx so'rashda <b>How much is it?</b> (birlik) yoki <b>How much are they?</b> (ko'plik) ishlatiladi.</p>",
+        "table": [
+          ["1–12", "one, two, three ... twelve"],
+          ["13–19", "thirteen, fourteen ... nineteen"],
+          ["o'nliklar", "twenty, thirty, forty, fifty"],
+          ["half / quarter", "yarim / chorak"],
+          ["a pair of", "bir juft"]
+        ]
+      },
+      "triad": {
+        "aff": ["It costs twenty thousand.", "I need two pairs."],
+        "neg": ["It doesn't cost twenty thousand.", "I don't need two pairs."],
+        "q": ["How much is it?", "How many do you need?"],
+        "short": ["Twenty thousand. / It's cheap.", "Two, please."]
+      },
+      "words": [
+        ["zero", "nol", "zero degrees"],
+        ["one", "bir", "one hour"],
+        ["two", "ikki", "two pairs"],
+        ["three", "uch", "three days"],
+        ["four", "to'rt", "four rooms"],
+        ["five", "besh", "five minutes"],
+        ["six", "olti", "six o'clock"],
+        ["seven", "yetti", "seven days"],
+        ["eight", "sakkiz", "eight hours"],
+        ["nine", "to'qqiz", "nine students"],
+        ["ten", "o'n", "ten thousand"],
+        ["eleven", "o'n bir", "eleven pages"],
+        ["twelve", "o'n ikki", "twelve months"],
+        ["thirteen", "o'n uch", "thirteen years"],
+        ["fourteen", "o'n to'rt", "fourteen days"],
+        ["fifteen", "o'n besh", "fifteen minutes"],
+        ["sixteen", "o'n olti", "sixteen people"],
+        ["seventeen", "o'n yetti", "seventeen words"],
+        ["eighteen", "o'n sakkiz", "eighteen degrees"],
+        ["nineteen", "o'n to'qqiz", "nineteen cars"],
+        ["twenty", "yigirma", "twenty thousand"],
+        ["number", "raqam, son", "my phone number"],
+        ["half", "yarim", "half an hour"],
+        ["quarter", "chorak", "a quarter past five"],
+        ["pair", "juft", "a pair of shoes"]
+      ],
+      "examples": [
+        {"en": "How much is this bag? — It's two hundred thousand.", "uz": "Bu sumka qancha? — Ikki yuz ming."},
+        {"en": "I need three kilos of potatoes and a pair of shoes.", "uz": "Menga uch kilo kartoshka va bir juft tufli kerak."},
+        {"en": "The meeting starts at a quarter past nine.", "uz": "Yig'ilish to'qqizdan chorak o'tganda boshlanadi."},
+        {"en": "We waited for an hour and a half.", "uz": "Biz bir yarim soat kutdik."},
+        {"en": "There are twenty students in the class, and seventeen of them are girls.", "uz": "Sinfda yigirma talaba bor, ulardan o'n yettisi qiz."},
+        {"en": "Eleven and four is fifteen.", "uz": "O'n bir va to'rt — o'n besh."},
+        {"en": "The number is on the ticket — check it, please.", "uz": "Raqam chiptada — iltimos, tekshiring."},
+        {"en": "Zero is a number, but we don't count from zero in this game.", "uz": "Nol ham son, lekin bu o'yinda noldan sanamaymiz."}
+      ],
+      "street": {
+        "title": "Narx so'rash",
+        "items": [
+          {"en": "How much is it?", "uz": "Qancha turadi?"},
+          {"en": "How much does it cost?", "uz": "Bu qancha turadi?"},
+          {"en": "That's too expensive.", "uz": "Juda qimmat."},
+          {"en": "Can I get a discount?", "uz": "Chegirma bo'ladimi?"},
+          {"en": "I'll take two.", "uz": "Ikkitasini olaman."}
+        ],
+        "note": "\"I'll take it\" — \"olaman\" (xarid qilishga rozilik); \"I'll think about it\" — \"o'ylab ko'raman\" (muloyim rad)."
+      },
+      "dialog": {
+        "title": "Mini dialog · Do'konda",
+        "lines": [
+          {"who": "A", "en": "How much is this jacket?", "uz": "Bu kurtka qancha?"},
+          {"who": "B", "en": "Four hundred and fifty thousand.", "uz": "To'rt yuz ellik ming."},
+          {"who": "A", "en": "That's a bit expensive. Can I get a discount?", "uz": "Bu biroz qimmat. Chegirma bo'ladimi?"},
+          {"who": "B", "en": "I can give you ten percent off.", "uz": "O'n foiz chegirma bera olaman."},
+          {"who": "A", "en": "OK, I'll take it. And I need two pairs of socks.", "uz": "Mayli, olaman. Va ikki juft paypoq kerak."},
+          {"who": "B", "en": "That's another thirty thousand.", "uz": "Yana o'ttiz ming bo'ladi."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "How ___ is it? (much / many)", "answer": "How much is it?"},
+          {"prompt": "How ___ apples? (much / many)", "answer": "How many apples?"},
+          {"prompt": "12 + 5 = ___ (so'z bilan)", "answer": "Seventeen."},
+          {"prompt": "bir juft tufli", "answer": "a pair of shoes"},
+          {"prompt": "bir yarim soat", "answer": "an hour and a half"}
+        ],
+        "translate": [
+          {"uz": "Bu qancha turadi?", "en": "How much is it?"},
+          {"uz": "Menga ikki juft paypoq kerak.", "en": "I need two pairs of socks."},
+          {"uz": "Uch kilo olma.", "en": "Three kilos of apples."},
+          {"uz": "Yig'ilish to'qqizdan chorak o'tganda.", "en": "The meeting is at a quarter past nine."}
+        ],
+        "fix": [
+          {"wrong": "How much apples?", "right": "How many apples?", "why": "sanaladigan ot → many"},
+          {"wrong": "Two pair of shoes.", "right": "Two pairs of shoes.", "why": "ko'plik → pairs"},
+          {"wrong": "It cost twenty thousand.", "right": "It costs twenty thousand.", "why": "it → costs"}
+        ]
+      },
+      "tip": "Narx so'rashda <b>How much is it?</b> — birlik, <b>How much are they?</b> — ko'plik. Sanash uchun <b>How many ...?</b> ishlatiladi."
+    },
+    {
+      "n": 35,
+      "title": "Savol so'zlari: what, who, where, why",
+      "theme": "Savollar va til o'rganish",
+      "goal": "To'g'ri savol berishni o'rganasiz: so'roq so'zi + yordamchi fe'l + tartib. Til o'rganish lug'ati.",
+      "frame": {
+        "name": "Savol so'zlari",
+        "formula": "What is your name?\nWhere do you live?\nWhy did you come?\nWho is that man?\nHow many words do you know?",
+        "explain": "<p>Savol tartibi: <b>so'roq so'zi + yordamchi fe'l + ega + fe'l</b>. Istisno: <b>who</b> ega bo'lsa, yordamchi fe'l kerak emas — <em>Who opened the door?</em> (kim eshikni ochdi?).</p>",
+        "table": [
+          ["what", "nima"],
+          ["who", "kim"],
+          ["where", "qayerda"],
+          ["when", "qachon"],
+          ["why", "nega"],
+          ["how", "qanday"],
+          ["how many / much", "qancha"],
+          ["which / whose", "qaysi / kimning"]
+        ]
+      },
+      "triad": {
+        "aff": ["This word has two meanings.", "The lesson begins at nine."],
+        "neg": ["This word doesn't have two meanings.", "The lesson doesn't begin at nine."],
+        "q": ["What does this word mean?", "When does the lesson begin?"],
+        "short": ["It means \"xato\".", "At nine."]
+      },
+      "words": [
+        ["what", "nima", "what is this"],
+        ["who", "kim", "who is he"],
+        ["where", "qayerda", "where do you live"],
+        ["how", "qanday", "how does it work"],
+        ["why", "nega", "why not"],
+        ["when", "qachon", "when is the meeting"],
+        ["how many", "qancha (sanaladigan)", "how many people"],
+        ["how much", "qancha (miqdor)", "how much time"],
+        ["question", "savol", "ask a question"],
+        ["word", "so'z", "a new word"],
+        ["sentence", "gap", "a long sentence"],
+        ["meaning", "ma'no", "the meaning of the word"],
+        ["translation", "tarjima", "a good translation"],
+        ["spelling", "yozilish", "check the spelling"],
+        ["language", "til", "a foreign language"],
+        ["letter", "harf; xat", "a capital letter"],
+        ["page", "bet", "page twenty-two"],
+        ["lesson", "dars", "the first lesson"],
+        ["grammar", "grammatika", "English grammar"],
+        ["vocabulary", "so'z boyligi", "a big vocabulary"],
+        ["dictionary", "lug'at", "look in the dictionary"],
+        ["dialogue", "dialog", "read the dialogue"],
+        ["text", "matn", "a short text"],
+        ["topic", "mavzu", "the main topic"],
+        ["pronunciation", "talaffuz", "good pronunciation"]
+      ],
+      "examples": [
+        {"en": "What does this word mean? — I don't know the meaning, look in the dictionary.", "uz": "Bu so'z nima degani? — Ma'nosini bilmayman, lug'atdan qara."},
+        {"en": "Where is the mistake in this sentence?", "uz": "Bu gapda xato qayerda?"},
+        {"en": "How many new words do you learn every lesson?", "uz": "Har darsda qancha yangi so'z o'rganasiz?"},
+        {"en": "Why is the spelling different?", "uz": "Nega yozilishi boshqacha?"},
+        {"en": "When did you start learning this language?", "uz": "Bu tilni qachon o'rganishni boshladingiz?"},
+        {"en": "Who wrote this text?", "uz": "Bu matnni kim yozgan?"},
+        {"en": "How much time do you need for the translation of this page?", "uz": "Bu betning tarjimasi uchun qancha vaqt kerak?"},
+        {"en": "Which topic is the most difficult for you?", "uz": "Qaysi mavzu siz uchun eng qiyin?"}
+      ],
+      "street": {
+        "title": "Tushunmay qolganda",
+        "items": [
+          {"en": "What does it mean?", "uz": "Bu nima degani?"},
+          {"en": "How do you spell it?", "uz": "Qanday yoziladi?"},
+          {"en": "Can you repeat that?", "uz": "Takrorlay olasizmi?"},
+          {"en": "What's the word for it?", "uz": "Buning inglizchasi nima?"},
+          {"en": "I don't know how to say it.", "uz": "Buni qanday aytishni bilmayman."}
+        ],
+        "note": "\"What's the word for ...?\" — o'zbekcha so'zning inglizchasi nima ekanini so'rashning eng tabiiy usuli."
+      },
+      "dialog": {
+        "title": "Mini dialog · Yangi so'z",
+        "lines": [
+          {"who": "A", "en": "Excuse me, what does \"deadline\" mean?", "uz": "Kechirasiz, \"deadline\" nima degani?"},
+          {"who": "B", "en": "It's the last day or time when you must finish something.", "uz": "Bu biror narsani tugatishingiz shart bo'lgan oxirgi kun yoki vaqt."},
+          {"who": "A", "en": "How do you spell it?", "uz": "Qanday yoziladi?"},
+          {"who": "B", "en": "D-E-A-D-L-I-N-E.", "uz": "D-E-A-D-L-I-N-E."},
+          {"who": "A", "en": "Thank you. And which page has the example?", "uz": "Rahmat. Misol qaysi betda?"},
+          {"who": "B", "en": "Page twenty-two, in the second dialogue.", "uz": "Yigirma ikkinchi betda, ikkinchi dialogda."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "___ is your name? (What / Who)", "answer": "What is your name?"},
+          {"prompt": "___ do you live? (Where / When)", "answer": "Where do you live?"},
+          {"prompt": "___ many words do you know? (How)", "answer": "How many words do you know?"},
+          {"prompt": "___ did you come so late? (Why)", "answer": "Why did you come so late?"},
+          {"prompt": "___ wrote this letter? (Who)", "answer": "Who wrote this letter?"}
+        ],
+        "translate": [
+          {"uz": "Bu so'z nima degani?", "en": "What does this word mean?"},
+          {"uz": "Bu gapda xato qayerda?", "en": "Where is the mistake in this sentence?"},
+          {"uz": "Bu so'z qanday yoziladi?", "en": "How do you spell this word?"},
+          {"uz": "Siz qayerda yashaysiz?", "en": "Where do you live?"}
+        ],
+        "fix": [
+          {"wrong": "Where you live?", "right": "Where do you live?", "why": "savolda yordamchi fe'l kerak"},
+          {"wrong": "What means this word?", "right": "What does this word mean?", "why": "does + o'zak fe'l"},
+          {"wrong": "Who did write this text?", "right": "Who wrote this text?", "why": "who ega bo'lsa, yordamchi fe'l kerak emas"}
+        ]
+      },
+      "tip": "<b>who</b> ega bo'lsa, yordamchi fe'l kerak emas: <em>Who wrote this?</em> (kim yozdi). who to'ldiruvchi bo'lsa kerak: <em>Who did you see?</em> (kimni ko'rdingiz)."
+    }
+  ]
+}

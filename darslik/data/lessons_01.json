@@ -1,0 +1,523 @@
+{
+  "lessons": [
+    {
+      "n": 1,
+      "title": "Tanishuv: This is ... / These are ...",
+      "theme": "Odamlar I",
+      "goal": "Bugun kimnidir tanishtirishni, \"bu — ...\" deb aytishni va birlik-ko'plikni farqlashni o'rganasiz. 25 ta so'z — kundalik muloqot va odamlar haqida.",
+      "frame": {
+        "name": "This is ... / These are ...",
+        "formula": "This is  + birlik ot      →  This is my friend.\nThese are + ko'plik ot    →  These are my friends.\nThat is   + uzoqdagi narsa →  That is my car.",
+        "explain": "<p>Ingliz tilida \"bu\" degan so'z otning birlik yoki ko'pligiga qarab o'zgaradi: <b>this</b> — birlik, <b>these</b> — ko'plik. Shunga mos ravishda fe'l ham o'zgaradi: <b>is</b> (birlik) va <b>are</b> (ko'plik). O'zbekchada \"bu mening do'stim\" va \"bular mening do'stlarim\" deymiz — ingliz tilida farq faqat ikkita so'zda: this → these, is → are.</p>",
+        "table": [
+          ["This is", "Bu — birlik (yaqin)"],
+          ["These are", "Bular — ko'plik (yaqin)"],
+          ["That is", "Anavi — birlik (uzoq)"],
+          ["Those are", "Anavilar — ko'plik (uzoq)"],
+          ["This is + ism", "Tanishuvda: This is Aziz."]
+        ]
+      },
+      "triad": {
+        "aff": ["This is my friend.", "These are my guests."],
+        "neg": ["This is not my friend.", "These are not my guests."],
+        "q": ["Is this your friend?", "Are these your guests?"],
+        "short": ["Yes, it is. / No, it isn't.", "Yes, they are. / No, they aren't."]
+      },
+      "words": [
+        ["hi", "salom", "hi, everyone"],
+        ["hello", "salom", "hello, my friend"],
+        ["sorry", "kechirasiz", "sorry, I'm late"],
+        ["please", "iltimos", "please, come in"],
+        ["thank you", "rahmat", "thank you very much"],
+        ["you are welcome", "arzimaydi", "you are welcome, madam"],
+        ["what a pity", "juda achinarii", "what a pity, really"],
+        ["goodbye", "xayr", "goodbye, see you"],
+        ["man", "erkak", "a tall man"],
+        ["woman", "ayol", "a young woman"],
+        ["child", "bola", "a small child"],
+        ["boy", "o'g'il bola", "a little boy"],
+        ["girl", "qiz bola", "a young girl"],
+        ["guy", "yigit", "a nice guy"],
+        ["friend", "do'st", "my best friend"],
+        ["acquaintance", "tanish", "an old acquaintance"],
+        ["neighbor", "qo'shni", "my new neighbor"],
+        ["guest", "mehmon", "a special guest"],
+        ["person", "odam, shaxs", "a kind person"],
+        ["people", "odamlar", "many people"],
+        ["teenager", "o'smir", "a quiet teenager"],
+        ["adult", "katta odam", "an adult ticket"],
+        ["stranger", "notanish odam", "a complete stranger"],
+        ["partner", "sherik", "my business partner"],
+        ["team", "jamoa", "our team"]
+      ],
+      "examples": [
+        {"en": "This is my friend Aziz.", "uz": "Bu mening do'stim Aziz."},
+        {"en": "This is a kind person.", "uz": "Bu mehribon odam."},
+        {"en": "These are my neighbors.", "uz": "Bular mening qo'shnilarim."},
+        {"en": "This is not a stranger, this is my partner.", "uz": "Bu notanish odam emas, bu mening sherigim."},
+        {"en": "Is this your team?", "uz": "Bu sizning jamoangizmi?"},
+        {"en": "These are young people, not teenagers.", "uz": "Bular yoshlar, o'smirlar emas."},
+        {"en": "This is a woman from our team.", "uz": "Bu bizning jamoamizdan bir ayol."},
+        {"en": "That is a little child with his mother.", "uz": "Anavi — onasi bilan bir bola."}
+      ],
+      "street": {
+        "title": "Ko'chada: qisqa tanishuv",
+        "items": [
+          {"en": "This is my buddy.", "uz": "Bu mening do'stim. (buddy — norasmiy \"friend\")"},
+          {"en": "Meet my friend.", "uz": "Do'stim bilan tanishing."},
+          {"en": "Say hi to your mum.", "uz": "Oyingizga salom ayt."},
+          {"en": "He's a good guy.", "uz": "U yaxshi yigit."},
+          {"en": "Sorry, what's your name again?", "uz": "Kechirasiz, ismingiz nima edi?"}
+        ],
+        "note": "Buddy va guy — norasmiy, lekin odobsiz emas. E'tibor bering: person so'zining ko'pligi people bo'ladi — two people, \"two persons\" emas."
+      },
+      "dialog": {
+        "title": "Mini dialog · Yangi tanishuv",
+        "lines": [
+          {"who": "A", "en": "Hi! Are you new here?", "uz": "Salom! Siz bu yerda yangimisiz?"},
+          {"who": "B", "en": "Hi, yes. I'm Aziz, a student.", "uz": "Salom, ha. Men Aziz, talabaman."},
+          {"who": "A", "en": "Nice to meet you. This is my colleague, Laylo.", "uz": "Tanishganimdan xursandman. Bu hamkasbim Laylo."},
+          {"who": "B", "en": "Hello, Laylo. Is this your team?", "uz": "Salom, Laylo. Bu sizning jamoangizmi?"},
+          {"who": "A", "en": "No, these are just our guests.", "uz": "Yo'q, bular faqat mehmonlarimiz."},
+          {"who": "B", "en": "What a pity — I want to meet the team.", "uz": "Achinarii — jamoa bilan tanishmoqchi edim."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "This ___ my neighbor. (be)", "answer": "This is my neighbor."},
+          {"prompt": "These ___ my guests. (be)", "answer": "These are my guests."},
+          {"prompt": "___ this your partner? (be)", "answer": "Is this your partner?"},
+          {"prompt": "These ___ not my acquaintances. (be)", "answer": "These are not my acquaintances."},
+          {"prompt": "___ are young people. (this / these)", "answer": "These are young people."}
+        ],
+        "translate": [
+          {"uz": "Bu mening qo'shnim.", "en": "This is my neighbor."},
+          {"uz": "Bular bizning mehmonlarimiz emas.", "en": "These are not our guests."},
+          {"uz": "Bu sizning sherigingizmi?", "en": "Is this your partner?"},
+          {"uz": "Anavi — juda mehribon odam.", "en": "That is a very kind person."}
+        ],
+        "fix": [
+          {"wrong": "These is my friends.", "right": "These are my friends.", "why": "these — ko'plik, shuning uchun are"},
+          {"wrong": "This are my friend.", "right": "This is my friend.", "why": "birlik uchun is"},
+          {"wrong": "These are my friend.", "right": "These are my friends.", "why": "ko'plik otiga -s qo'shiladi"}
+        ]
+      },
+      "tip": "This / these — qo'lingizdagi yoki yaqin narsa; that / those — uzoqdagi. O'zbekchada bu farq yo'q, ingliz tilida esa majburiy: <b>This is my pen</b> (qo'limdagi) va <b>That is my pen</b> (anavi stoldagi)."
+    },
+    {
+      "n": 2,
+      "title": "Kasb: I am a doctor, she is a nurse",
+      "theme": "Kasblar va ish",
+      "goal": "Kim bo'lib ishlashni aytish, kasb haqida savol berish va a/an artiklini to'g'ri qo'yishni o'rganasiz.",
+      "frame": {
+        "name": "to be + kasb",
+        "formula": "I am a teacher.        He is a driver.\nI am not a boss.       Is she a nurse?\nThey are students.     Are you a student?",
+        "explain": "<p>Kasbni aytganda <b>to be</b> fe'li va <b>a/an</b> artikli kerak: <em>I am a doctor</em>. O'zbekchada \"men shifokorman\" deymiz, inglizchada esa \"I doctor\" emas — fe'l tushib qolmasin. Kasb ko'plikda bo'lsa artikl qo'yilmaydi: <em>They are teachers</em>.</p>",
+        "table": [
+          ["a + undosh tovush", "a teacher, a doctor, a worker"],
+          ["an + unli tovush (a, e, i, o, u)", "an engineer, an artist, an actor"],
+          ["Ko'plikda artikl yo'q", "They are doctors."],
+          ["Egalik bilan", "He is my boss. (a yo'q)"]
+        ]
+      },
+      "triad": {
+        "aff": ["I am a student.", "She is a nurse.", "They are engineers."],
+        "neg": ["I am not a student.", "She isn't a nurse.", "They aren't engineers."],
+        "q": ["Are you a student?", "Is she a nurse?"],
+        "short": ["Yes, I am. / No, I'm not.", "Yes, she is. / No, she isn't."]
+      },
+      "words": [
+        ["chief", "boshliq", "our chief engineer"],
+        ["boss", "rahbar", "my boss"],
+        ["competitor", "raqib", "a strong competitor"],
+        ["client", "mijoz", "a new client"],
+        ["colleague", "hamkasb", "my colleague"],
+        ["businessman", "tadbirkor", "a young businessman"],
+        ["teacher", "o'qituvchi", "an English teacher"],
+        ["driver", "haydovchi", "a taxi driver"],
+        ["worker", "ishchi", "a factory worker"],
+        ["engineer", "muhandis", "a software engineer"],
+        ["doctor", "shifokor", "a good doctor"],
+        ["lawyer", "yurist", "a family lawyer"],
+        ["journalist", "jurnalist", "a sports journalist"],
+        ["nurse", "hamshira", "a kind nurse"],
+        ["shop assistant", "sotuvchi", "a shop assistant"],
+        ["waiter", "ofitsiant", "a polite waiter"],
+        ["accountant", "buxgalter", "our accountant"],
+        ["artist", "rassom", "a young artist"],
+        ["musician", "musiqachi", "a street musician"],
+        ["actor", "aktyor", "a famous actor"],
+        ["student", "talaba", "a medical student"],
+        ["manager", "menejer", "the sales manager"],
+        ["secretary", "kotib(a)", "the secretary"],
+        ["director", "direktor", "the company director"],
+        ["employee", "xodim", "a new employee"]
+      ],
+      "examples": [
+        {"en": "I am a student, and my brother is a driver.", "uz": "Men talabaman, akam esa haydovchi."},
+        {"en": "She is an engineer at a big company.", "uz": "U katta kompaniyada muhandis."},
+        {"en": "My boss is not a doctor — he is a businessman.", "uz": "Boshlig'im shifokor emas — u tadbirkor."},
+        {"en": "Are you a teacher or a student?", "uz": "Siz o'qituvchimisiz yoki talabami?"},
+        {"en": "They are nurses at the city hospital.", "uz": "Ular shahar shifoxonasida hamshira."},
+        {"en": "Our accountant is on vacation, so the manager is busy.", "uz": "Buxgalterimiz ta'tilda, shuning uchun menejer band."},
+        {"en": "He is a famous actor, and his wife is a journalist.", "uz": "U mashhur aktyor, xotini esa jurnalist."},
+        {"en": "Are these new employees from the office?", "uz": "Bular ofisdagi yangi xodimlarmi?"}
+      ],
+      "street": {
+        "title": "Ish haqida qisqa gaplar",
+        "items": [
+          {"en": "I work as a driver.", "uz": "Men haydovchi bo'lib ishlayman."},
+          {"en": "I'm in sales.", "uz": "Men savdo bo'limidaman."},
+          {"en": "He's the boss here.", "uz": "U bu yerda boshliq."},
+          {"en": "She runs her own business.", "uz": "U o'z biznesini yuritadi."},
+          {"en": "I'm between jobs.", "uz": "Hozir ishsizman."}
+        ],
+        "note": "\"I am a doctor\" — kasb. \"I am doctor\" xato: a/an tushib qolmasin. Ammo \"I am the director\" deyish ham mumkin — bu holda gap aniq bir lavozim haqida."
+      },
+      "dialog": {
+        "title": "Mini dialog · Yangi ish joyida",
+        "lines": [
+          {"who": "A", "en": "Hi, I'm Kamola. I'm a new employee here.", "uz": "Salom, men Kamola. Bu yerda yangi xodimman."},
+          {"who": "B", "en": "Nice to meet you. I'm Sardor, the sales manager.", "uz": "Tanishganimdan xursandman. Men Sardor, savdo menejeri."},
+          {"who": "A", "en": "Are you the boss?", "uz": "Siz boshliqmisiz?"},
+          {"who": "B", "en": "No, our director is Mr Karimov. I'm just a manager.", "uz": "Yo'q, direktorimiz Karimov janoblari. Men faqat menejerman."},
+          {"who": "A", "en": "And who is that man near the window?", "uz": "Deraza yonidagi kishi kim?"},
+          {"who": "B", "en": "That's our accountant — he is also a lawyer.", "uz": "Bu bizning buxgalter — u ham yurist."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "She ___ a nurse. (be)", "answer": "She is a nurse."},
+          {"prompt": "I ___ not a boss. (be)", "answer": "I am not a boss."},
+          {"prompt": "___ they engineers? (be)", "answer": "Are they engineers?"},
+          {"prompt": "He is ___ engineer. (a / an)", "answer": "He is an engineer."},
+          {"prompt": "They are ___ . (a teacher / teachers)", "answer": "They are teachers."}
+        ],
+        "translate": [
+          {"uz": "Men muhandisman.", "en": "I am an engineer."},
+          {"uz": "U (ayol) shifokor emas.", "en": "She is not a doctor."},
+          {"uz": "Siz menejermisisiz?", "en": "Are you a manager?"},
+          {"uz": "Ular yangi xodimlar.", "en": "They are new employees."}
+        ],
+        "fix": [
+          {"wrong": "I am engineer.", "right": "I am an engineer.", "why": "kasb oldidan a/an kerak"},
+          {"wrong": "She are a teacher.", "right": "She is a teacher.", "why": "she → is"},
+          {"wrong": "Are you a student? — Yes, I are.", "right": "Yes, I am.", "why": "qisqa javobda fe'l egaga moslashadi"}
+        ]
+      },
+      "tip": "a yoki an — <b>talaffuzga</b> qarab tanlanadi, harfga emas: <em>an hour</em> (h aytilmaydi), <em>a university</em> (yu tovushi bilan boshlanadi), <em>an MBA</em> (em)."
+    },
+    {
+      "n": 3,
+      "title": "Oila: I have got a brother",
+      "theme": "Oila",
+      "goal": "\"Menda ... bor\" strukturasini o'zlashtirasiz: have got / has got, inkor va savol shakllari, oila a'zolari lug'ati.",
+      "frame": {
+        "name": "have got / has got",
+        "formula": "I / you / we / they  + have got  + ot\nto have got\nhe / she / it        + has got   + ot\nI've got a sister.     She's got two children.",
+        "explain": "<p><b>have got</b> — \"ega bo'lish\"ning so'zlashuv shakli, ma'nosi <b>have</b> bilan bir xil. Inkor: <em>haven't got / hasn't got</em>; savol: <em>Have you got ...? / Has she got ...?</em> E'tibor bering: o'zbekchadagi \"menda bor\" ni so'zma-so'z tarjima qilib bo'lmaydi — <em>\"in me there is\"</em> emas, <b>I have got</b>.</p>",
+        "table": [
+          ["I have got = I've got", "Menda bor"],
+          ["She has got = She's got", "Unda bor"],
+          ["haven't got / hasn't got", "Menda / unda yo'q"],
+          ["Have you got ...?", "Sizda ... bormi?"],
+          ["Do you have ...?", "Xuddi shu ma'no, amerikacha variant"]
+        ]
+      },
+      "triad": {
+        "aff": ["I have got a brother.", "She has got two sisters.", "We have got a big family."],
+        "neg": ["I haven't got a brother.", "She hasn't got any sisters.", "We haven't got children."],
+        "q": ["Have you got a brother?", "Has she got a sister?"],
+        "short": ["Yes, I have. / No, I haven't.", "Yes, she has. / No, she hasn't."]
+      },
+      "words": [
+        ["parents", "ota-ona", "my parents"],
+        ["father", "ota", "my father's car"],
+        ["dad", "dada", "Dad is at work"],
+        ["mother", "ona", "her mother"],
+        ["mum", "ona (so'zlashuv)", "Mum, I'm home"],
+        ["husband", "er", "her husband"],
+        ["wife", "xotin", "my wife"],
+        ["son", "o'g'il", "their son"],
+        ["daughter", "qiz", "my daughter"],
+        ["brother", "aka / uka", "my little brother"],
+        ["sister", "opa / singil", "my older sister"],
+        ["grandfather", "buva", "my grandfather's story"],
+        ["grandmother", "buvi", "my grandmother"],
+        ["uncle", "amaki / tog'a", "my uncle"],
+        ["aunt", "amma / xola", "my aunt"],
+        ["cousin", "amakivachcha", "my cousin"],
+        ["nephew", "jiyan (o'g'il)", "my nephew"],
+        ["niece", "jiyan (qiz)", "my little niece"],
+        ["family", "oila", "a big family"],
+        ["relative", "qarindosh", "a close relative"],
+        ["twin", "egizak", "twin brothers"],
+        ["baby", "chaqaloq", "a small baby"],
+        ["wedding", "to'y", "my sister's wedding"],
+        ["married", "turmush qurgan", "a married couple"],
+        ["single", "turmush qurmagan", "a single man"]
+      ],
+      "examples": [
+        {"en": "I have got a big family: my parents, two sisters and a brother.", "uz": "Mening katta oilam bor: ota-onam, ikki singlim va akam."},
+        {"en": "She hasn't got a husband, but she has got a son.", "uz": "Uning eri yo'q, lekin o'g'li bor."},
+        {"en": "Have you got any cousins in Tashkent?", "uz": "Toshkentda amakivachchalaringiz bormi?"},
+        {"en": "My grandfather is sixty, and his twin brother is also sixty.", "uz": "Buam oltmishda, uning egizak akasi ham oltmishda."},
+        {"en": "We haven't got a baby in our family yet.", "uz": "Oilamizda hali chaqaloq yo'q."},
+        {"en": "My niece is single, and her sister is married.", "uz": "Jiyanim turmush qurmagan, singlisi esa turmush qurgan."},
+        {"en": "Have you got a relative at the wedding?", "uz": "To'yda qarindoshingiz bormi?"},
+        {"en": "Our parents have got a small house, and we have got a flat.", "uz": "Ota-onamizning kichik uyi bor, bizning esa kvartiramiz bor."}
+      ],
+      "street": {
+        "title": "Oila haqida jonli savollar",
+        "items": [
+          {"en": "You got kids?", "uz": "Farzandingiz bormi?"},
+          {"en": "I've got two brothers.", "uz": "Ikki akam bor."},
+          {"en": "He takes after his dad.", "uz": "U dadasiga o'xshaydi."},
+          {"en": "They're getting married next month.", "uz": "Ular keyingi oy turmush qurishadi."},
+          {"en": "We're family.", "uz": "Biz bir oilamiz."}
+        ],
+        "note": "have got ko'proq Britaniya inglizida, \"Do you have kids?\" esa amerikacha — ikkisi ham to'g'ri. \"You got kids?\" — savol ohangi bilan, yordamchi fe'lsiz, norasmiy."
+      },
+      "dialog": {
+        "title": "Mini dialog · Oila haqida",
+        "lines": [
+          {"who": "A", "en": "Have you got a big family?", "uz": "Katta oilangiz bormi?"},
+          {"who": "B", "en": "Yes, I've got three sisters and one brother.", "uz": "Ha, uch singlim va bir akam bor."},
+          {"who": "A", "en": "And are they married?", "uz": "Ular turmush qurganmi?"},
+          {"who": "B", "en": "One sister is married, the others are single.", "uz": "Bittasi turmush qurgan, qolganlari yo'q."},
+          {"who": "A", "en": "Have you got a niece or a nephew?", "uz": "Jiyaningiz bormi?"},
+          {"who": "B", "en": "I've got a little niece — she is only a baby.", "uz": "Kichkina jiyanim bor — u hali chaqaloq."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "She ___ got two brothers. (have / has)", "answer": "She has got two brothers."},
+          {"prompt": "I ___ got a sister. (have / has)", "answer": "I have got a sister."},
+          {"prompt": "___ you got a cousin? (have / has)", "answer": "Have you got a cousin?"},
+          {"prompt": "He ___ got a wife. (inkor)", "answer": "He hasn't got a wife."},
+          {"prompt": "We ___ got a big family. (have / has)", "answer": "We have got a big family."}
+        ],
+        "translate": [
+          {"uz": "Mening ikki akam bor.", "en": "I have got two brothers."},
+          {"uz": "Uning (ayol) eri yo'q.", "en": "She hasn't got a husband."},
+          {"uz": "Sizning jiyaningiz bormi?", "en": "Have you got a nephew?"},
+          {"uz": "Bu mening buvim va buvam.", "en": "This is my grandmother and my grandfather."}
+        ],
+        "fix": [
+          {"wrong": "She have got a son.", "right": "She has got a son.", "why": "she / he / it → has"},
+          {"wrong": "I haven't got no brothers.", "right": "I haven't got any brothers.", "why": "ingliz tilida ikki inkor ishlatilmaydi"},
+          {"wrong": "Have you got a sister? — Yes, I have got.", "right": "Yes, I have.", "why": "qisqa javobda faqat yordamchi fe'l qoladi"}
+        ]
+      },
+      "tip": "\"Bor\" so'zini har doim ham tarjima qilmang. <b>Ega bo'lish</b> — have got / have: <em>I have got a car</em>. <b>Biror joyda mavjudlik</b> — there is / there are: <em>There is a car in the yard</em>. Bu farqni 3 va 4-darslarda yonma-yon ko'rasiz."
+    },
+    {
+      "n": 4,
+      "title": "Nima bor? There is / There are",
+      "theme": "Hayvonlar",
+      "goal": "\"Biror joyda nima bor\" ni aytishni o'rganasiz: there is / there are, inkor va savol. 25 ta hayvon nomi bilan mashq qilasiz.",
+      "frame": {
+        "name": "There is / There are",
+        "formula": "There is  + birlik ot     → There is a cat on the sofa.\nThere are + ko'plik ot     → There are two dogs in the yard.\nThere isn't / There aren't  → inkor\nIs there ...? / Are there ...? → savol",
+        "explain": "<p><b>There is / There are</b> o'zbekchadagi \"bor\" so'zining eng ko'p ishlatiladigan ko'rinishi, lekin u <b>ega bo'lishni emas, joyda mavjudlikni</b> bildiradi. <em>I have got a dog</em> — itim bor (mening). <em>There is a dog in the yard</em> — hovlida it bor. Gap boshida <b>there</b> turadi, o'zbekchadagi kabi joy oxirida keladi.</p>",
+        "table": [
+          ["There is a ...", "birlik: bor"],
+          ["There are ...", "ko'plik: borlar"],
+          ["Is there ...?", "... bormi?"],
+          ["There isn't / There aren't", "yo'q"],
+          ["There's", "there is ning qisqargan shakli"]
+        ]
+      },
+      "triad": {
+        "aff": ["There is a dog in the yard.", "There are three cats on the sofa."],
+        "neg": ["There isn't a dog in the yard.", "There aren't any cats here."],
+        "q": ["Is there a pet shop near here?", "Are there any birds in the tree?"],
+        "short": ["Yes, there is. / No, there isn't.", "Yes, there are. / No, there aren't."]
+      },
+      "words": [
+        ["cat", "mushuk", "a black cat"],
+        ["dog", "it", "a big dog"],
+        ["bird", "qush", "a small bird"],
+        ["squirrel", "olmaxon", "a grey squirrel"],
+        ["wolf", "bo'ri", "a wild wolf"],
+        ["goose", "g'oz", "a fat goose"],
+        ["giraffe", "jirafa", "a tall giraffe"],
+        ["rabbit", "quyon", "a white rabbit"],
+        ["cow", "sigir", "a milk cow"],
+        ["rat", "kalamush", "a big rat"],
+        ["fox", "tulki", "a clever fox"],
+        ["horse", "ot", "a fast horse"],
+        ["frog", "qurbaqa", "a green frog"],
+        ["bear", "ayiq", "a brown bear"],
+        ["mouse", "sichqon", "a little mouse"],
+        ["monkey", "maymun", "a funny monkey"],
+        ["pig", "cho'chqa", "a fat pig"],
+        ["elephant", "fil", "an African elephant"],
+        ["duck", "o'rdak", "a wild duck"],
+        ["animal", "hayvon", "a wild animal"],
+        ["pet", "uy hayvoni", "a pet dog"],
+        ["tail", "dum", "a long tail"],
+        ["wing", "qanot", "a broken wing"],
+        ["fur", "jun, mo'yna", "soft fur"],
+        ["zoo", "hayvonot bog'i", "the city zoo"]
+      ],
+      "examples": [
+        {"en": "There is a cat on the roof.", "uz": "Tomda mushuk bor."},
+        {"en": "There are two horses and a cow in the yard.", "uz": "Hovlida ikki ot va bir sigir bor."},
+        {"en": "There isn't a zoo in our town.", "uz": "Bizning shaharchada hayvonot bog'i yo'q."},
+        {"en": "Is there a pet shop near your house?", "uz": "Uyingiz yaqinida uy hayvonlari do'koni bormi?"},
+        {"en": "There are many birds in the tree, and one squirrel.", "uz": "Daraxtda ko'p qushlar va bitta olmaxon bor."},
+        {"en": "There aren't any wolves near the village.", "uz": "Qishloq yaqinida bo'rilar yo'q."},
+        {"en": "My pet is a rabbit with a short tail.", "uz": "Mening uy hayvonim — kalta dumli quyon."},
+        {"en": "Are there elephants and giraffes in this zoo?", "uz": "Bu hayvonot bog'ida fillar va jirafalar bormi?"}
+      ],
+      "street": {
+        "title": "Hayvon haqida jonli gaplar",
+        "items": [
+          {"en": "Look, there's a fox!", "uz": "Qara, tulki!"},
+          {"en": "We've got a cat at home.", "uz": "Uyda mushugimiz bor."},
+          {"en": "Don't touch that dog.", "uz": "U itga tegmang."},
+          {"en": "It's a stray dog.", "uz": "Bu qarovsiz it."},
+          {"en": "My dog doesn't bite.", "uz": "Mening itim tishlamaydi."}
+        ],
+        "note": "there's — there is. Ko'plikda \"there're\" deyish mumkin, lekin ko'pincha shunchaki \"there are\" aytiladi."
+      },
+      "dialog": {
+        "title": "Mini dialog · Uy hayvoni",
+        "lines": [
+          {"who": "A", "en": "Is there a pet shop near here?", "uz": "Bu yaqinda uy hayvonlari do'koni bormi?"},
+          {"who": "B", "en": "Yes, there is one next to the market.", "uz": "Ha, bozor yonida bittasi bor."},
+          {"who": "A", "en": "I've got a small rabbit, and I need food for it.", "uz": "Kichkina quyonim bor, unga ovqat kerak."},
+          {"who": "B", "en": "Are there any rabbits in your yard?", "uz": "Hovlingizda quyonlar bormi?"},
+          {"who": "A", "en": "No, there aren't. Only a cat and two ducks.", "uz": "Yo'q. Faqat mushuk va ikki o'rdak bor."},
+          {"who": "B", "en": "Great — my daughter loves animals.", "uz": "Zo'r — qizim hayvonlarni yaxshi ko'radi."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "There ___ a cat on the chair. (be)", "answer": "There is a cat on the chair."},
+          {"prompt": "There ___ two dogs in the yard. (be)", "answer": "There are two dogs in the yard."},
+          {"prompt": "___ there a zoo in the city? (be)", "answer": "Is there a zoo in the city?"},
+          {"prompt": "There ___ any mice in the kitchen. (inkor)", "answer": "There aren't any mice in the kitchen."},
+          {"prompt": "There ___ a rat under the bed. (be)", "answer": "There is a rat under the bed."}
+        ],
+        "translate": [
+          {"uz": "Hovlida bir ot va ikki sigir bor.", "en": "There is a horse and two cows in the yard."},
+          {"uz": "Bu yerda ayiqlar yo'q.", "en": "There aren't any bears here."},
+          {"uz": "Yaqin atrofda hayvonot bog'i bormi?", "en": "Is there a zoo near here?"},
+          {"uz": "Mening itimning dumi uzun.", "en": "My dog has got a long tail."}
+        ],
+        "fix": [
+          {"wrong": "There is two cats.", "right": "There are two cats.", "why": "ko'plik → are"},
+          {"wrong": "There are a dog in the yard.", "right": "There is a dog in the yard.", "why": "birlik → is"},
+          {"wrong": "Is there any birds?", "right": "Are there any birds?", "why": "birds — ko'plik"}
+        ]
+      },
+      "tip": "Bir nechta ot sanalsa, fe'l <b>eng yaqin otga</b> moslashadi: <em>There is a horse and two cows</em> ham, <em>There are two cows and a horse</em> ham to'g'ri."
+    },
+    {
+      "n": 5,
+      "title": "Qayerda yashaysiz? Present Simple",
+      "theme": "Shahar va joylar I",
+      "goal": "Doimiy holat va odat haqida gapirish: Present Simple, he/she/it uchun -s, inkor va savol. Shahar joylari lug'ati.",
+      "frame": {
+        "name": "Present Simple: I live / she works",
+        "formula": "I / you / we / they + fe'l        → I live in Tashkent.\nhe / she / it + fe'l + s          → She works at a bank.\nI don't live here.               Do you live here?",
+        "explain": "<p>Present Simple — doimiy holat, odat va takrorlanadigan ishlar uchun. Fe'l o'zgarmaydi, faqat <b>he / she / it</b> bilan <b>-s</b> qo'shiladi. Savol va inkorda esa -s yordamchi fe'lga o'tadi: <em>She works</em> → <em>Does she work?</em> → <em>She doesn't work</em>.</p>",
+        "table": [
+          ["I live", "-s yo'q"],
+          ["He liveS", "he / she / it → -s"],
+          ["don't / doesn't", "inkor"],
+          ["Do / Does ...?", "savol"],
+          ["go → goes, study → studies", "o'zak o'zgaradi"]
+        ]
+      },
+      "triad": {
+        "aff": ["I live in Tashkent.", "My sister works at a hotel.", "We go to the cinema on Sundays."],
+        "neg": ["I don't live in the village.", "She doesn't work at a bank.", "We don't go to church."],
+        "q": ["Do you live near the station?", "Does he work at the airport?"],
+        "short": ["Yes, I do. / No, I don't.", "Yes, he does. / No, he doesn't."]
+      },
+      "words": [
+        ["house", "uy (bino)", "a big house"],
+        ["home", "uy (yashash joyi)", "at home"],
+        ["building", "bino", "a tall building"],
+        ["place", "joy", "a quiet place"],
+        ["entrance", "kirish joyi", "the main entrance"],
+        ["exit", "chiqish joyi", "the emergency exit"],
+        ["center", "markaz", "the city center"],
+        ["yard", "hovli", "in the yard"],
+        ["roof", "tom", "on the roof"],
+        ["fence", "panjara, devor", "a wooden fence"],
+        ["village", "qishloq", "a small village"],
+        ["school", "maktab", "a new school"],
+        ["university", "universitet", "at the university"],
+        ["theater", "teatr", "the drama theater"],
+        ["church", "cherkov", "an old church"],
+        ["restaurant", "restoran", "a good restaurant"],
+        ["cafe", "kafe", "a small cafe"],
+        ["hotel", "mehmonxona", "a five-star hotel"],
+        ["bank", "bank", "near the bank"],
+        ["cinema", "kinoteatr", "at the cinema"],
+        ["hospital", "shifoxona", "the city hospital"],
+        ["police", "politsiya", "call the police"],
+        ["post office", "pochta", "at the post office"],
+        ["station", "bekat, vokzal", "the train station"],
+        ["airport", "aeroport", "the new airport"]
+      ],
+      "examples": [
+        {"en": "I live in a small village near the station.", "uz": "Men bekat yaqinidagi kichik qishloqda yashayman."},
+        {"en": "She works at the post office in the city center.", "uz": "U shahar markazidagi pochtada ishlaydi."},
+        {"en": "My parents don't live in this building.", "uz": "Ota-onam bu binoda yashamaydilar."},
+        {"en": "Does your brother study at the university?", "uz": "Akangiz universitetda o'qiydimi?"},
+        {"en": "We go to the cafe near the theater every Friday.", "uz": "Biz har juma teatr yonidagi kafega boramiz."},
+        {"en": "He doesn't work at the hospital — he works at the airport.", "uz": "U shifoxonada ishlamaydi — aeroportda ishlaydi."},
+        {"en": "There is a cinema behind the bank, and a small restaurant next to it.", "uz": "Bank orqasida kinoteatr va uning yonida kichik restoran bor."},
+        {"en": "Do you live in a house or in a hotel?", "uz": "Siz uyda yashaysizmi yoki mehmonxonadami?"}
+      ],
+      "street": {
+        "title": "Yo'l so'rash va joy haqida",
+        "items": [
+          {"en": "Where do you live?", "uz": "Qayerda yashaysiz?"},
+          {"en": "I'm at home.", "uz": "Men uydaman."},
+          {"en": "How do I get to the station?", "uz": "Bekatga qanday borsam bo'ladi?"},
+          {"en": "It's near the bank.", "uz": "U bank yaqinida."},
+          {"en": "Go out of the main entrance.", "uz": "Asosiy kirish joyidan chiqing."}
+        ],
+        "note": "home so'zi bilan predlog va artikl ishlatilmaydi: go home, at home — \"go to home\" xato."
+      },
+      "dialog": {
+        "title": "Mini dialog · Qayerda yashaysiz?",
+        "lines": [
+          {"who": "A", "en": "Where do you live?", "uz": "Qayerda yashaysiz?"},
+          {"who": "B", "en": "I live in a small house near the airport.", "uz": "Aeroport yaqinidagi kichik uyda yashayman."},
+          {"who": "A", "en": "Does your wife work in the city center?", "uz": "Xotiningiz shahar markazida ishlaydimi?"},
+          {"who": "B", "en": "No, she works at a hotel near the station.", "uz": "Yo'q, u bekat yaqinidagi mehmonxonada ishlaydi."},
+          {"who": "A", "en": "Is there a good cafe near your house?", "uz": "Uyingiz yaqinida yaxshi kafe bormi?"},
+          {"who": "B", "en": "Yes, there is a cafe and a small cinema behind the bank.", "uz": "Ha, bank orqasida kafe va kichik kinoteatr bor."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "She ___ at a bank. (work)", "answer": "She works at a bank."},
+          {"prompt": "They ___ in a village. (live)", "answer": "They live in a village."},
+          {"prompt": "___ he study at the university? (do / does)", "answer": "Does he study at the university?"},
+          {"prompt": "I ___ live in the center. (inkor)", "answer": "I don't live in the center."},
+          {"prompt": "He ___ to the cinema on Sundays. (go)", "answer": "He goes to the cinema on Sundays."}
+        ],
+        "translate": [
+          {"uz": "Men shahar markazida yashayman.", "en": "I live in the city center."},
+          {"uz": "U (ayol) mehmonxonada ishlamaydi.", "en": "She doesn't work at a hotel."},
+          {"uz": "Siz maktab yaqinida yashaysizmi?", "en": "Do you live near the school?"},
+          {"uz": "Akam universitetda o'qiydi.", "en": "My brother studies at the university."}
+        ],
+        "fix": [
+          {"wrong": "He live in a big house.", "right": "He lives in a big house.", "why": "he → fe'lga -s"},
+          {"wrong": "She don't work at the hospital.", "right": "She doesn't work at the hospital.", "why": "she → doesn't"},
+          {"wrong": "Do he live near the airport?", "right": "Does he live near the airport?", "why": "he → does"}
+        ]
+      },
+      "tip": "-s qo'shish qoidasi: <b>work → works</b>; <b>watch → watches</b> (ch, sh, s, x, o bilan tugasa -es); <b>study → studies</b> (undosh + y → -ies); <b>play → plays</b> (unli + y → faqat -s)."
+    }
+  ]
+}

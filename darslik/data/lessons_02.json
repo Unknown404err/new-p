@@ -1,0 +1,527 @@
+{
+  "lessons": [
+    {
+      "n": 6,
+      "title": "Savol berish mashinasi: Do you ...? Does she ...?",
+      "theme": "Shahar va xarid",
+      "goal": "Present Simple'da savol berishni va qisqa javob berishni o'rganasiz. Shahar, do'kon va manzil lug'ati.",
+      "frame": {
+        "name": "Do / Does + ega + fe'l",
+        "formula": "Do you work here?            Yes, I do.\nDoes she live in the city?    No, she doesn't.\nWhere do you work?            I work at a bank.",
+        "explain": "<p>Savol yasash uchun yordamchi fe'l — <b>do</b> yoki <b>does</b> — eganing oldiga chiqadi. So'roq so'zi (where, what, why) bo'lsa, u eng oldinda turadi, keyingi tartib o'zgarmaydi: <b>Where + do + you + work?</b></p>",
+        "table": [
+          ["Do + I / you / we / they", "Do you live here?"],
+          ["Does + he / she / it", "Does he live here?"],
+          ["does bilan -s yo'qoladi", "Does she work? (works emas)"],
+          ["So'roq so'zi oldinda", "Where do you live?"],
+          ["Qisqa javob", "Yes, I do. / No, she doesn't."]
+        ]
+      },
+      "triad": {
+        "aff": ["You work in a shop.", "She works at a pharmacy."],
+        "neg": ["You don't work in a shop.", "She doesn't work at a pharmacy."],
+        "q": ["Do you work in a shop?", "Does she work at a pharmacy?"],
+        "short": ["Yes, I do. / No, I don't.", "Yes, she does. / No, she doesn't."]
+      },
+      "words": [
+        ["shop", "do'kon", "a small shop"],
+        ["pharmacy", "dorixona", "at the pharmacy"],
+        ["market", "bozor", "a big market"],
+        ["office", "ofis", "in the office"],
+        ["company", "kompaniya", "a big company"],
+        ["factory", "zavod", "a car factory"],
+        ["country", "mamlakat", "a foreign country"],
+        ["city", "shahar", "a big city"],
+        ["town", "shaharcha", "a small town"],
+        ["capital", "poytaxt", "the capital city"],
+        ["street", "ko'cha", "a long street"],
+        ["road", "yo'l", "a new road"],
+        ["bridge", "ko'prik", "an old bridge"],
+        ["park", "bog'", "in the park"],
+        ["square", "maydon", "the main square"],
+        ["museum", "muzey", "a history museum"],
+        ["library", "kutubxona", "at the library"],
+        ["gym", "sport zali", "go to the gym"],
+        ["stadium", "stadion", "a new stadium"],
+        ["supermarket", "supermarket", "in the supermarket"],
+        ["mall", "savdo markazi", "a big mall"],
+        ["bakery", "nonvoyxona", "a fresh bakery"],
+        ["butcher", "qassob", "at the butcher"],
+        ["corner", "burchak", "on the corner"],
+        ["address", "manzil", "my home address"]
+      ],
+      "examples": [
+        {"en": "Do you work in the city center or in a small town?", "uz": "Shahar markazida ishlaysizmi yoki kichik shaharchadami?"},
+        {"en": "Does this street go to the park?", "uz": "Bu ko'cha bog'ga olib boradimi?"},
+        {"en": "Where is the nearest pharmacy?", "uz": "Eng yaqin dorixona qayerda?"},
+        {"en": "Is there a supermarket on the corner of this street?", "uz": "Bu ko'chaning burchagida supermarket bormi?"},
+        {"en": "My office is in a big building near the museum.", "uz": "Mening ofisim muzey yaqinidagi katta binoda."},
+        {"en": "Does your company have a factory in another country?", "uz": "Kompaniyangizning boshqa mamlakatda zavodi bormi?"},
+        {"en": "I don't know his address, but I know the road to his house.", "uz": "Uning manzilini bilmayman, lekin uyiga boradigan yo'lni bilaman."},
+        {"en": "Is the capital city far from this town?", "uz": "Poytaxt bu shaharchadan uzoqmi?"}
+      ],
+      "street": {
+        "title": "Yo'lda so'rash",
+        "items": [
+          {"en": "Excuse me, where's the market?", "uz": "Kechirasiz, bozor qayerda?"},
+          {"en": "Is it far from here?", "uz": "Bu yerdan uzoqmi?"},
+          {"en": "It's just around the corner.", "uz": "Shu burchakda, juda yaqin."},
+          {"en": "Go straight, then turn left at the bridge.", "uz": "To'g'riga yuring, keyin ko'prikda chapga buriling."},
+          {"en": "I'm new in town.", "uz": "Men bu shaharda yangiman."}
+        ],
+        "note": "\"around the corner\" — \"burchakda, juda yaqin\" ma'nosida; \"corner\" so'zi bilan \"at / on the corner\" ishlatiladi."
+      },
+      "dialog": {
+        "title": "Mini dialog · Dorixona qayerda?",
+        "lines": [
+          {"who": "A", "en": "Excuse me, is there a pharmacy near here?", "uz": "Kechirasiz, bu yaqinda dorixona bormi?"},
+          {"who": "B", "en": "Yes, there's one on the corner, next to the bakery.", "uz": "Ha, burchakda, nonvoyxona yonida."},
+          {"who": "A", "en": "Does it work on Sundays?", "uz": "Yakshanba kuni ishlaydimi?"},
+          {"who": "B", "en": "I think so, but the one in the mall is always open.", "uz": "O'ylaymanki ha, lekin savdo markazidagisi doim ochiq."},
+          {"who": "A", "en": "Where's the mall?", "uz": "Savdo markazi qayerda?"},
+          {"who": "B", "en": "Go straight down this road, it's near the stadium.", "uz": "Shu yo'ldan to'g'riga yuring, stadion yaqinida."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "___ you live in a big city? (do / does)", "answer": "Do you live in a big city?"},
+          {"prompt": "___ she work at the museum? (do / does)", "answer": "Does she work at the museum?"},
+          {"prompt": "Where ___ he work? (do / does)", "answer": "Where does he work?"},
+          {"prompt": "I ___ know her address. (inkor)", "answer": "I don't know her address."},
+          {"prompt": "___ your company have an office here? (do / does)", "answer": "Does your company have an office here?"}
+        ],
+        "translate": [
+          {"uz": "Siz qayerda ishlaysiz?", "en": "Where do you work?"},
+          {"uz": "U (ayol) dorixonada ishlamaydi.", "en": "She doesn't work at a pharmacy."},
+          {"uz": "Eng yaqin bozor qayerda?", "en": "Where is the nearest market?"},
+          {"uz": "Bu ko'cha muzeyga olib boradimi?", "en": "Does this street go to the museum?"}
+        ],
+        "fix": [
+          {"wrong": "Does you work in a shop?", "right": "Do you work in a shop?", "why": "you → do"},
+          {"wrong": "Where she lives?", "right": "Where does she live?", "why": "savolda yordamchi fe'l kerak va -s unga o'tadi"},
+          {"wrong": "Do he live in a town?", "right": "Does he live in a town?", "why": "he → does"}
+        ]
+      },
+      "tip": "So'roq so'zi bo'lsa ham tartib bir xil: <b>Where + do/does + ega + fe'l</b>. \"Where you live?\" emas — <b>Where do you live?</b>"
+    },
+    {
+      "n": 7,
+      "title": "Yoqmaydi: don't / doesn't",
+      "theme": "Mebel",
+      "goal": "Inkor gapni to'g'ri yasashni o'rganasiz va uy mebeli lug'atini o'zlashtirasiz. doesn't bilan -s yo'qolishini eslab qolasiz.",
+      "frame": {
+        "name": "don't / doesn't + fe'l",
+        "formula": "I / you / we / they + don't + fe'l   → I don't like this sofa.\nhe / she / it + doesn't + fe'l       → He doesn't want a table.\nWe don't have a microwave.",
+        "explain": "<p>Inkor uchun yordamchi fe'ldan keyin <b>not</b> qo'yiladi: <em>do not = don't</em>, <em>does not = doesn't</em>. Eng muhim qoida: <b>doesn't</b> dan keyin fe'l o'zak shaklda qoladi — <em>She doesn't work</em>, \"She doesn't works\" emas, chunki -s allaqachon <em>does</em> ichida.</p>",
+        "table": [
+          ["don't = do not", "I / you / we / they"],
+          ["doesn't = does not", "he / she / it"],
+          ["doesn't + fe'l (s yo'q)", "She doesn't like it."],
+          ["Ikki inkor ishlatilmaydi", "I don't see anything."],
+          ["Qisqa javob", "No, I don't. / No, she doesn't."]
+        ]
+      },
+      "triad": {
+        "aff": ["I like this armchair.", "She wants a new carpet."],
+        "neg": ["I don't like this armchair.", "She doesn't want a new carpet."],
+        "q": ["Do you like this armchair?", "Does she want a new carpet?"],
+        "short": ["Yes, I do. / No, I don't.", "Yes, she does. / No, she doesn't."]
+      },
+      "words": [
+        ["table", "stol", "a wooden table"],
+        ["chair", "stul", "a comfortable chair"],
+        ["armchair", "kreslo", "an old armchair"],
+        ["sofa", "divan", "a soft sofa"],
+        ["bed", "karavot", "a big bed"],
+        ["wardrobe", "shkaf", "a new wardrobe"],
+        ["cabinet", "javon", "a kitchen cabinet"],
+        ["shelf", "tokcha", "on the shelf"],
+        ["mirror", "oyna", "a round mirror"],
+        ["carpet", "gilam", "a red carpet"],
+        ["fridge", "muzlatgich", "in the fridge"],
+        ["microwave", "mikroto'lqinli pech", "a new microwave"],
+        ["oven", "pechka", "in the oven"],
+        ["stove", "gaz plitasi", "on the stove"],
+        ["lamp", "chiroq", "a small lamp"],
+        ["clock", "soat (devor)", "on the wall clock"],
+        ["pillow", "yostiq", "a soft pillow"],
+        ["blanket", "adyol", "a warm blanket"],
+        ["sheet", "choyshab", "clean sheets"],
+        ["towel", "sochiq", "a clean towel"],
+        ["key", "kalit", "my house key"],
+        ["lock", "qulf", "a new lock"],
+        ["box", "quti", "a big box"],
+        ["basket", "savat", "a bread basket"],
+        ["broom", "supurgi", "a new broom"]
+      ],
+      "examples": [
+        {"en": "I don't like this old sofa — it is too soft.", "uz": "Bu eski divan menga yoqmaydi — juda yumshoq."},
+        {"en": "We don't have a microwave in the kitchen.", "uz": "Oshxonamizda mikroto'lqinli pech yo'q."},
+        {"en": "She doesn't want a big wardrobe in her bedroom.", "uz": "U yotoqxonasida katta shkaf xohlamaydi."},
+        {"en": "There is a mirror above the shelf, but there isn't a lamp near the bed.", "uz": "Tokcha ustida oyna bor, lekin karavot yonida chiroq yo'q."},
+        {"en": "He doesn't put his keys on the table.", "uz": "U kalitlarini stolga qo'ymaydi."},
+        {"en": "Do you need a blanket or a sheet for the sofa?", "uz": "Divan uchun adyol kerakmi yoki choyshab?"},
+        {"en": "My grandmother doesn't use the oven — she cooks on the stove.", "uz": "Buvim pechdan foydalanmaydi — gaz plitasida pishiradi."},
+        {"en": "Don't put the box on the clock, please.", "uz": "Iltimos, qutini soat ustiga qo'ymang."}
+      ],
+      "street": {
+        "title": "Uy ichida",
+        "items": [
+          {"en": "Make yourself at home.", "uz": "O'zingizni uydagidek tuting."},
+          {"en": "Where's the remote?", "uz": "Pult qayerda?"},
+          {"en": "It's on the shelf.", "uz": "Tokchada."},
+          {"en": "Can you give me a towel?", "uz": "Menga sochiq bera olasizmi?"},
+          {"en": "The key is under the carpet.", "uz": "Kalit gilam ostida."}
+        ],
+        "note": "\"Make yourself at home\" — mehmonga aytiladigan standart jumla, so'zma-so'z \"o'zingni uy qil\" deb tarjima qilinmaydi."
+      },
+      "dialog": {
+        "title": "Mini dialog · Kvartira haqida",
+        "lines": [
+          {"who": "A", "en": "Do you like this flat?", "uz": "Bu kvartira sizga yoqadimi?"},
+          {"who": "B", "en": "It's OK, but I don't like the kitchen. It doesn't have a fridge.", "uz": "Yomon emas, lekin oshxona yoqmayapti. Unda muzlatgich yo'q."},
+          {"who": "A", "en": "There is a fridge in the hall.", "uz": "Yo'lakda muzlatgich bor."},
+          {"who": "B", "en": "Really? And where's the table?", "uz": "Rostdanmi? Stol qayerda?"},
+          {"who": "A", "en": "There isn't a table, but there are two chairs and an armchair.", "uz": "Stol yo'q, lekin ikki stul va kreslo bor."},
+          {"who": "B", "en": "OK, I'll buy a table and a lamp.", "uz": "Mayli, stol va chiroq sotib olaman."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "I ___ like this carpet. (inkor)", "answer": "I don't like this carpet."},
+          {"prompt": "She ___ want a new bed. (inkor)", "answer": "She doesn't want a new bed."},
+          {"prompt": "He ___ have a wardrobe in his room. (inkor)", "answer": "He doesn't have a wardrobe in his room."},
+          {"prompt": "We ___ need a big table. (inkor)", "answer": "We don't need a big table."},
+          {"prompt": "___ you like this mirror? (do / does)", "answer": "Do you like this mirror?"}
+        ],
+        "translate": [
+          {"uz": "Menga bu eski kreslo yoqmaydi.", "en": "I don't like this old armchair."},
+          {"uz": "Uning xonasida oyna yo'q.", "en": "There isn't a mirror in his room."},
+          {"uz": "Bizga mikroto'lqinli pech kerak emas.", "en": "We don't need a microwave."},
+          {"uz": "U (ayol) bu gilamni xohlamaydi.", "en": "She doesn't want this carpet."}
+        ],
+        "fix": [
+          {"wrong": "He don't like the sofa.", "right": "He doesn't like the sofa.", "why": "he → doesn't"},
+          {"wrong": "She doesn't likes the carpet.", "right": "She doesn't like the carpet.", "why": "doesn't dan keyin fe'l o'zak shaklda"},
+          {"wrong": "I not like this lamp.", "right": "I don't like this lamp.", "why": "inkor uchun yordamchi fe'l kerak"}
+        ]
+      },
+      "tip": "doesn't dan keyin fe'lga <b>-s qo'shilmaydi</b>: <em>She doesn't work</em>. Xuddi shu qoida <em>did</em> va <em>can</em> uchun ham amal qiladi: <em>She didn't go</em>, <em>She can't swim</em>."
+    },
+    {
+      "n": 8,
+      "title": "Uy ichida: in, on, under",
+      "theme": "Uy xonalari",
+      "goal": "Joy predloglarini o'zlashtirasiz va uy qismlari lug'atini o'rganasiz: deraza, devor, zinapoya, quvur.",
+      "frame": {
+        "name": "Joy predloglari",
+        "formula": "The cat is under the table.\nThe keys are on the windowsill.\nThe bathroom is next to the bedroom.\nThe lamp is between the bed and the window.",
+        "explain": "<p>Joy predloglari o'zbek tilidagi kelishiklarga o'xshaydi, lekin ular <b>otdan oldin</b> turadi: \"stol ustida\" → <b>on the table</b>. Eng kerakli yettitasi: in, on, under, behind, next to, between, in front of.</p>",
+        "table": [
+          ["in", "ichida — in the room"],
+          ["on", "ustida, yuzasida — on the wall"],
+          ["under", "ostida — under the bed"],
+          ["behind", "orqasida — behind the door"],
+          ["next to", "yonida — next to the window"],
+          ["between", "orasida — between the chairs"],
+          ["in front of", "oldida — in front of the house"]
+        ]
+      },
+      "triad": {
+        "aff": ["The kitchen is next to the hall.", "My shoes are under the bed."],
+        "neg": ["The kitchen isn't next to the hall.", "My shoes aren't under the bed."],
+        "q": ["Is the kitchen next to the hall?", "Are my shoes under the bed?"],
+        "short": ["Yes, it is. / No, it isn't.", "Yes, they are. / No, they aren't."]
+      },
+      "words": [
+        ["room", "xona", "a small room"],
+        ["living room", "mehmonxona", "in the living room"],
+        ["bedroom", "yotoqxona", "a big bedroom"],
+        ["bathroom", "hammom", "in the bathroom"],
+        ["shower", "dush", "take a shower"],
+        ["toilet", "hojatxona", "the toilet is here"],
+        ["kitchen", "oshxona", "a clean kitchen"],
+        ["hall", "yo'lak", "in the hall"],
+        ["balcony", "balkon", "on the balcony"],
+        ["floor", "pol, qavat", "on the second floor"],
+        ["ceiling", "shift", "on the ceiling"],
+        ["wall", "devor", "on the wall"],
+        ["stairs", "zinapoya", "up the stairs"],
+        ["door", "eshik", "close the door"],
+        ["window", "deraza", "open the window"],
+        ["windowsill", "rom usti", "on the windowsill"],
+        ["curtain", "parda", "close the curtains"],
+        ["switch", "vyklyuchatel", "the light switch"],
+        ["socket", "rozetka", "a wall socket"],
+        ["faucet", "jo'mrak", "turn on the faucet"],
+        ["pipe", "quvur", "a water pipe"],
+        ["chimney", "mo'ri", "on the roof chimney"],
+        ["gate", "darvoza", "the main gate"],
+        ["garage", "garaj", "in the garage"],
+        ["garden", "bog'", "a small garden"]
+      ],
+      "examples": [
+        {"en": "The bathroom is next to the bedroom, and the toilet is behind the stairs.", "uz": "Hammom yotoqxona yonida, hojatxona esa zinapoya orqasida."},
+        {"en": "There are two windows in the living room, and a balcony in front of them.", "uz": "Mehmonxonada ikki deraza va ularning oldida balkon bor."},
+        {"en": "My room is on the second floor, under the roof.", "uz": "Mening xonam ikkinchi qavatda, tom ostida."},
+        {"en": "The switch is on the wall near the door.", "uz": "Vyklyuchatel eshik yonidagi devorda."},
+        {"en": "There is a socket under the window, behind the curtain.", "uz": "Deraza ostida, parda orqasida rozetka bor."},
+        {"en": "Is there a shower in the bathroom or only a faucet?", "uz": "Hammomda dush bormi yoki faqat jo'mrak?"},
+        {"en": "The pipe goes from the kitchen to the roof, next to the chimney.", "uz": "Quvur oshxonadan tomga, mo'ri yonidan o'tadi."},
+        {"en": "Put the towel on the windowsill, please.", "uz": "Iltimos, sochiqni rom ustiga qo'ying."}
+      ],
+      "street": {
+        "title": "Uy ichida",
+        "items": [
+          {"en": "Where's the bathroom?", "uz": "Hammom qayerda?"},
+          {"en": "It's upstairs.", "uz": "Yuqori qavatda."},
+          {"en": "The door is open.", "uz": "Eshik ochiq."},
+          {"en": "Close the curtains, please.", "uz": "Iltimos, pardalarni yoping."},
+          {"en": "The tap is leaking.", "uz": "Jo'mrak oqyapti."}
+        ],
+        "note": "Amerikada faucet, Britaniyada tap — ikkisi ham \"jo'mrak\". \"Upstairs / downstairs\" — yuqori / pastki qavat."
+      },
+      "dialog": {
+        "title": "Mini dialog · Kvartirani ko'rish",
+        "lines": [
+          {"who": "A", "en": "Is your flat big?", "uz": "Kvartirangiz kattami?"},
+          {"who": "B", "en": "Not very. There's a living room, a bedroom, a kitchen and a small bathroom.", "uz": "Unchalik emas. Mehmonxona, yotoqxona, oshxona va kichik hammom bor."},
+          {"who": "A", "en": "Where do you keep your bike?", "uz": "Velosipedingizni qayerda saqlaysiz?"},
+          {"who": "B", "en": "In the garage, next to the gate.", "uz": "Garajda, darvoza yonida."},
+          {"who": "A", "en": "And is there a garden?", "uz": "Bog'i ham bormi?"},
+          {"who": "B", "en": "Yes, but it's small — just one tree in front of the window.", "uz": "Ha, lekin kichkina — deraza oldida bitta daraxt."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "The cat is ___ the table. (ostida)", "answer": "The cat is under the table."},
+          {"prompt": "The mirror is ___ the wall. (ustida)", "answer": "The mirror is on the wall."},
+          {"prompt": "The kitchen is ___ the living room. (yonida)", "answer": "The kitchen is next to the living room."},
+          {"prompt": "My room is ___ the second floor. (qavatda)", "answer": "My room is on the second floor."},
+          {"prompt": "The keys are ___ the box. (ichida)", "answer": "The keys are in the box."}
+        ],
+        "translate": [
+          {"uz": "Hammom yotoqxona yonida.", "en": "The bathroom is next to the bedroom."},
+          {"uz": "Mening xonam tom ostida.", "en": "My room is under the roof."},
+          {"uz": "Deraza oldida bitta daraxt bor.", "en": "There is a tree in front of the window."},
+          {"uz": "Vyklyuchatel eshik yonidagi devorda.", "en": "The switch is on the wall near the door."}
+        ],
+        "fix": [
+          {"wrong": "The cat is in the table.", "right": "The cat is on the table.", "why": "stol ustida — on, in emas"},
+          {"wrong": "There are a mirror on the wall.", "right": "There is a mirror on the wall.", "why": "birlik → is"},
+          {"wrong": "My room is in the second floor.", "right": "My room is on the second floor.", "why": "qavat — on"}
+        ]
+      },
+      "tip": "in / on / at farqi: <b>in</b> — ichida (in the room, in the box); <b>on</b> — yuzasida, tegib turadi (on the wall, on the floor); <b>at</b> — nuqta (at the door, at the bus stop)."
+    },
+    {
+      "n": 9,
+      "title": "Nima yoqadi? I like / I don't like",
+      "theme": "Oziq-ovqat I",
+      "goal": "Did va yoqtirish haqida gapirishni o'rganasiz: like / love / hate, savol va inkor. 25 ta asosiy oziq-ovqat so'zi.",
+      "frame": {
+        "name": "like + ot / fe'l-ing",
+        "formula": "I like fish.            I don't like pork.\nHe likes rice.          Does she like soup?\nI love it. / I hate it. / I don't mind it.",
+        "explain": "<p><b>like</b> dan keyin ot yoki fe'lning <b>-ing</b> shakli keladi: <em>I like fish</em>, <em>I like cooking</em>. Darajalar: <b>love</b> (juda yaxshi ko'raman) → <b>like</b> → <b>don't mind</b> (qarshi emasman) → <b>don't like</b> → <b>hate</b>.</p>",
+        "table": [
+          ["love", "juda yaxshi ko'rmoq"],
+          ["like", "yoqtirmoq"],
+          ["don't mind", "qarshi emasman"],
+          ["don't like", "yoqtirmayman"],
+          ["hate", "kuchli yoqtirmaslik"],
+          ["like + V-ing", "I like cooking."]
+        ]
+      },
+      "triad": {
+        "aff": ["I like fish.", "He likes rice."],
+        "neg": ["I don't like fish.", "He doesn't like rice."],
+        "q": ["Do you like fish?", "Does he like rice?"],
+        "short": ["Yes, I do. / No, I don't.", "Yes, he does. / No, he doesn't."]
+      },
+      "words": [
+        ["bread", "non", "fresh bread"],
+        ["butter", "sariyog'", "bread and butter"],
+        ["oil", "o'simlik yog'i", "a bottle of oil"],
+        ["cheese", "pishloq", "a piece of cheese"],
+        ["sausage", "kolbasa", "a sausage sandwich"],
+        ["ham", "vetchina", "ham and cheese"],
+        ["meat", "go'sht", "fresh meat"],
+        ["beef", "mol go'shti", "beef soup"],
+        ["pork", "cho'chqa go'shti", "pork with potatoes"],
+        ["lamb", "qo'y go'shti", "roast lamb"],
+        ["chicken", "tovuq go'shti", "chicken and rice"],
+        ["cutlet", "kotlet", "a meat cutlet"],
+        ["fish", "baliq", "fresh fish"],
+        ["egg", "tuxum", "two eggs"],
+        ["salad", "salat", "a green salad"],
+        ["mushroom", "qo'ziqorin", "mushroom soup"],
+        ["corn", "makkajo'xori", "sweet corn"],
+        ["porridge", "bo'tqa", "a bowl of porridge"],
+        ["oatmeal", "suli bo'tqasi", "oatmeal for breakfast"],
+        ["soup", "sho'rva", "hot soup"],
+        ["sandwich", "buterbrod", "a cheese sandwich"],
+        ["rice", "guruch", "rice with vegetables"],
+        ["noodles", "lag'mon", "a bowl of noodles"],
+        ["flour", "un", "a kilo of flour"],
+        ["food", "ovqat", "good food"]
+      ],
+      "examples": [
+        {"en": "I like bread with butter and cheese for breakfast.", "uz": "Nonushtaga sariyog' va pishloqli non yoqtiraman."},
+        {"en": "She doesn't like pork, but she likes chicken and lamb.", "uz": "U cho'chqa go'shtini yoqtirmaydi, lekin tovuq va qo'y go'shtini yaxshi ko'radi."},
+        {"en": "Do you like fish soup or meat soup?", "uz": "Baliq sho'rvami yoki go'sht sho'rvami yoqadi?"},
+        {"en": "My brother doesn't eat eggs, and he doesn't like salad.", "uz": "Akam tuxum yemaydi va salatni yoqtirmaydi."},
+        {"en": "We usually have rice with vegetables and a cutlet.", "uz": "Biz odatda sabzavotli guruch va kotlet yeymiz."},
+        {"en": "Is there any flour in the cabinet? I want to cook noodles.", "uz": "Shkafda un bormi? Lag'mon pishirmoqchiman."},
+        {"en": "He likes porridge and oatmeal in the morning.", "uz": "U ertalab bo'tqa va suli bo'tqasini yoqtiradi."},
+        {"en": "I don't like mushrooms, but I love corn and sandwiches.", "uz": "Qo'ziqorinni yoqtirmayman, lekin makkajo'xori va buterbrodni juda yaxshi ko'raman."}
+      ],
+      "street": {
+        "title": "Ovqat haqida",
+        "items": [
+          {"en": "What do you feel like eating?", "uz": "Nima yegingiz kelyapti?"},
+          {"en": "I'm starving.", "uz": "Juda och qoldim."},
+          {"en": "I'm full, thanks.", "uz": "To'ydim, rahmat."},
+          {"en": "It's delicious!", "uz": "Juda mazali!"},
+          {"en": "I don't eat meat.", "uz": "Men go'sht yemayman."}
+        ],
+        "note": "\"I'm starving\" — so'zlashuvda \"juda ochman\"; kitobiy shakli \"I'm very hungry\"."
+      },
+      "dialog": {
+        "title": "Mini dialog · Tushlik",
+        "lines": [
+          {"who": "A", "en": "What do you want for lunch?", "uz": "Tushlikka nima olasiz?"},
+          {"who": "B", "en": "I'd like chicken soup and a salad, please.", "uz": "Tovuqli sho'rva va salat olsam."},
+          {"who": "A", "en": "Do you like fish? We have fresh fish today.", "uz": "Baliq yoqadimi? Bugun yangi baliq bor."},
+          {"who": "B", "en": "No, I don't like fish, but I like beef.", "uz": "Yo'q, baliqni yoqtirmayman, lekin mol go'shtini yaxshi ko'raman."},
+          {"who": "A", "en": "Beef with rice or with potatoes?", "uz": "Mol go'shti guruch bilanmi yoki kartoshka bilan?"},
+          {"who": "B", "en": "With rice, please. And some bread.", "uz": "Guruch bilan, iltimos. Va bir oz non."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "I ___ like fish. (inkor)", "answer": "I don't like fish."},
+          {"prompt": "She ___ chicken. (like)", "answer": "She likes chicken."},
+          {"prompt": "___ you like soup? (do / does)", "answer": "Do you like soup?"},
+          {"prompt": "He ___ like pork. (inkor)", "answer": "He doesn't like pork."},
+          {"prompt": "We like ___ . (rice / rices)", "answer": "We like rice."}
+        ],
+        "translate": [
+          {"uz": "Men go'shtni yaxshi ko'raman.", "en": "I like meat."},
+          {"uz": "U (ayol) baliqni yoqtirmaydi.", "en": "She doesn't like fish."},
+          {"uz": "Siz qo'ziqorin yoqtirasizmi?", "en": "Do you like mushrooms?"},
+          {"uz": "Nonushtaga tuxum va non yeyman.", "en": "I eat eggs and bread for breakfast."}
+        ],
+        "fix": [
+          {"wrong": "I like not fish.", "right": "I don't like fish.", "why": "inkor yordamchi fe'l bilan yasaladi"},
+          {"wrong": "She like rice.", "right": "She likes rice.", "why": "she → -s"},
+          {"wrong": "Do he like soup?", "right": "Does he like soup?", "why": "he → does"}
+        ]
+      },
+      "tip": "Sanalmaydigan otlar: <b>bread, rice, meat, butter, milk, flour</b> — ularga a/an qo'yilmaydi va -s qo'shilmaydi. \"a bread\" emas — <b>some bread</b> yoki <b>a piece of bread</b>."
+    },
+    {
+      "n": 10,
+      "title": "Bir oz, bir nechta: some, any, no",
+      "theme": "Oziq-ovqat II",
+      "goal": "Miqdor so'zlarini o'zlashtirasiz va ziravor hamda sabzavot nomlarini o'rganasiz.",
+      "frame": {
+        "name": "some / any / no",
+        "formula": "I need some salt.                    → tasdiq\nDo we have any onions?               → savol\nNo, we don't have any onions.         → inkor\nThere is no garlic in the kitchen.",
+        "explain": "<p><b>some</b> — bir oz, bir nechta (tasdiq gaplarda). <b>any</b> — savol va inkor gaplarda. <b>no</b> — \"hech qanday\", inkor ma'nosini beradi, lekin gap tasdiq shaklida qoladi: <em>There is no garlic</em>. Ikkita inkorni bir gapda ishlatmang.</p>",
+        "table": [
+          ["some", "bir oz / bir nechta — tasdiq"],
+          ["any", "savol va inkor"],
+          ["no", "hech qanday — There is no ..."],
+          ["some + taklif", "Would you like some tea?"],
+          ["a lot of", "ko'p — hamma joyda"]
+        ]
+      },
+      "triad": {
+        "aff": ["I need some salt.", "There are some tomatoes."],
+        "neg": ["I don't need any salt.", "There aren't any tomatoes."],
+        "q": ["Do you need any salt?", "Are there any tomatoes?"],
+        "short": ["Yes, I do. / No, I don't.", "Yes, there are. / No, there aren't."]
+      },
+      "words": [
+        ["spice", "ziravor", "a hot spice"],
+        ["pepper", "murch", "salt and pepper"],
+        ["salt", "tuz", "a little salt"],
+        ["onion", "piyoz", "a red onion"],
+        ["garlic", "sarimsoq", "two cloves of garlic"],
+        ["sauce", "sous", "tomato sauce"],
+        ["vegetables", "sabzavotlar", "fresh vegetables"],
+        ["potatoes", "kartoshka", "boiled potatoes"],
+        ["carrot", "sabzi", "a sweet carrot"],
+        ["beet", "lavlagi", "beet salad"],
+        ["tomato", "pomidor", "a red tomato"],
+        ["cucumber", "bodring", "a fresh cucumber"],
+        ["cabbage", "karam", "cabbage soup"],
+        ["squash", "qovoq (patisson)", "fried squash"],
+        ["eggplant", "baqlajon", "an eggplant salad"],
+        ["beans", "loviya", "red beans"],
+        ["pea", "no'xat", "green peas"],
+        ["nut", "yong'oq", "a walnut"],
+        ["pumpkin", "qovoq", "pumpkin soup"],
+        ["greens", "ko'katlar", "fresh greens"],
+        ["parsley", "petrushka", "a little parsley"],
+        ["dill", "ukrop", "dill and parsley"],
+        ["radish", "rediska", "a red radish"],
+        ["turnip", "sholg'om", "a big turnip"],
+        ["lentil", "yasmiq", "lentil soup"]
+      ],
+      "examples": [
+        {"en": "I need some salt and a little pepper for the soup.", "uz": "Sho'rvaga bir oz tuz va murch kerak."},
+        {"en": "Do we have any onions?", "uz": "Piyoz bormi?"},
+        {"en": "There aren't any carrots in the fridge, but there are some potatoes.", "uz": "Muzlatgichda sabzi yo'q, lekin kartoshka bor."},
+        {"en": "He doesn't like garlic, so there is no garlic in the sauce.", "uz": "U sarimsoqni yoqtirmaydi, shuning uchun sousda sarimsoq yo'q."},
+        {"en": "Would you like some vegetables with your rice?", "uz": "Guruchingizga sabzavot olasizmi?"},
+        {"en": "My mother puts dill and parsley on the potatoes.", "uz": "Onam kartoshka ustiga ukrop va petrushka soladi."},
+        {"en": "There are beans, peas and lentils in this salad.", "uz": "Bu salatda loviya, no'xat va yasmiq bor."},
+        {"en": "Is there any pumpkin in the market today?", "uz": "Bugun bozorda qovoq bormi?"}
+      ],
+      "street": {
+        "title": "Bozorda",
+        "items": [
+          {"en": "How much is a kilo?", "uz": "Bir kilosi qancha?"},
+          {"en": "Give me two kilos of potatoes, please.", "uz": "Ikki kilo kartoshka bering, iltimos."},
+          {"en": "Is it fresh?", "uz": "Yangi mi?"},
+          {"en": "A little bit more.", "uz": "Bir oz ko'proq."},
+          {"en": "That's all, thanks.", "uz": "Hammasi shu, rahmat."}
+        ],
+        "note": "Bozorda \"a little bit more\" — \"bir oz ko'proq\" degani; \"a little\" sanalmaydigan narsalar bilan, \"a few\" sanaladiganlar bilan (11-dars)."
+      },
+      "dialog": {
+        "title": "Mini dialog · Kechki ovqat",
+        "lines": [
+          {"who": "A", "en": "Do we need any vegetables for dinner?", "uz": "Kechki ovqatga sabzavot kerakmi?"},
+          {"who": "B", "en": "Yes, buy some tomatoes and a cucumber.", "uz": "Ha, pomidor va bodring oling."},
+          {"who": "A", "en": "Is there any garlic at home?", "uz": "Uyda sarimsoq bormi?"},
+          {"who": "B", "en": "No, there isn't any. And we don't have any dill.", "uz": "Yo'q. Ukrop ham yo'q."},
+          {"who": "A", "en": "Do you want some nuts too?", "uz": "Yong'oq ham olasizmi?"},
+          {"who": "B", "en": "No, thanks. But buy some sweet pepper — it's good for salad.", "uz": "Yo'q, rahmat. Lekin bir oz shirin qalampir oling — salatga yaxshi."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "I need ___ salt. (some / any)", "answer": "I need some salt."},
+          {"prompt": "Do we have ___ onions? (some / any)", "answer": "Do we have any onions?"},
+          {"prompt": "There aren't ___ tomatoes. (some / any)", "answer": "There aren't any tomatoes."},
+          {"prompt": "There is ___ garlic in the sauce. (no / any)", "answer": "There is no garlic in the sauce."},
+          {"prompt": "Would you like ___ tea? (some / any)", "answer": "Would you like some tea?"}
+        ],
+        "translate": [
+          {"uz": "Menga bir oz murch kerak.", "en": "I need some pepper."},
+          {"uz": "Muzlatgichda sabzi bormi?", "en": "Are there any carrots in the fridge?"},
+          {"uz": "Uyda piyoz yo'q.", "en": "There is no onion at home."},
+          {"uz": "Bozorda yangi pomidor bormi?", "en": "Are there any fresh tomatoes at the market?"}
+        ],
+        "fix": [
+          {"wrong": "I need any salt.", "right": "I need some salt.", "why": "tasdiq gapda some"},
+          {"wrong": "There aren't some carrots.", "right": "There aren't any carrots.", "why": "inkorda any"},
+          {"wrong": "Do you have some onions?", "right": "Do you have any onions?", "why": "savolda odatda any"}
+        ]
+      },
+      "tip": "some savolda ham uchraydi, lekin ma'no o'zgaradi: <b>Do you have any onions?</b> — umuman bormi? <b>Would you like some tea?</b> — taklif, shuning uchun some."
+    }
+  ]
+}

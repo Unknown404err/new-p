@@ -1,0 +1,524 @@
+{
+  "lessons": [
+    {
+      "n": 11,
+      "title": "Qancha? much, many, a lot of",
+      "theme": "Mevalar",
+      "goal": "Miqdor haqida gapirishni o'rganasiz: much / many / a lot of / a few / a little va meva nomlari.",
+      "frame": {
+        "name": "much / many / a lot of",
+        "formula": "How many apples do you need?   — A few.\nHow much sugar do you want?    — A little.\nThere are a lot of grapes in the garden.",
+        "explain": "<p>Miqdor so'zi otning <b>sanaladigan</b> yoki <b>sanalmaydigan</b> ekaniga bog'liq. <b>apples</b> — sanaladi (many apples), <b>sugar</b> — sanalmaydi (much sugar). <b>a lot of</b> ikkisi bilan ham ishlatiladi va tasdiq gaplarda eng ko'p uchraydi.</p>",
+        "table": [
+          ["many + sanaladigan", "many apples, many people"],
+          ["much + sanalmaydigan", "much sugar, much water"],
+          ["a lot of", "ikkisi bilan ham: a lot of fruit"],
+          ["a few + ko'plik", "a few apples — bir nechta"],
+          ["a little + sanalmaydigan", "a little sugar — bir oz"]
+        ]
+      },
+      "triad": {
+        "aff": ["There are a lot of apples in the garden.", "There is a lot of sugar in the tea."],
+        "neg": ["There aren't many apples.", "There isn't much sugar."],
+        "q": ["Are there many apples?", "Is there much sugar?"],
+        "short": ["Yes, there are. / No, there aren't.", "Yes, there is. / No, there isn't."]
+      },
+      "words": [
+        ["apple", "olma", "a green apple"],
+        ["pear", "nok", "a sweet pear"],
+        ["banana", "banan", "a ripe banana"],
+        ["strawberry", "qulupnay", "fresh strawberries"],
+        ["raspberry", "malina", "raspberry jam"],
+        ["cherry", "gilos", "a kilo of cherries"],
+        ["plum", "olxo'ri", "a big plum"],
+        ["grape", "uzum", "a bunch of grapes"],
+        ["apricot", "o'rik", "dried apricots"],
+        ["peach", "shaftoli", "a soft peach"],
+        ["melon", "qovun", "a sweet melon"],
+        ["watermelon", "tarvuz", "a big watermelon"],
+        ["orange", "apelsin", "orange juice"],
+        ["mandarin", "mandarin", "a sweet mandarin"],
+        ["lemon", "limon", "a slice of lemon"],
+        ["pineapple", "ananas", "a fresh pineapple"],
+        ["fruit", "meva", "fresh fruit"],
+        ["berry", "rezavor meva", "a small berry"],
+        ["seed", "urug'", "an apple seed"],
+        ["tree", "daraxt", "an apple tree"],
+        ["ripe", "pishgan", "a ripe peach"],
+        ["fresh", "yangi", "fresh fruit"],
+        ["sour", "nordon", "a sour lemon"],
+        ["bunch", "boshoq, dasta", "a bunch of grapes"],
+        ["slice", "bo'lak, tilim", "a slice of watermelon"]
+      ],
+      "examples": [
+        {"en": "How many apples do you want? — A few, please.", "uz": "Nechta olma olasiz? — Bir nechta, iltimos."},
+        {"en": "There are a lot of grapes on the table, but there aren't many pears.", "uz": "Stolda ko'p uzum bor, lekin nok ko'p emas."},
+        {"en": "I need a little sugar and a few lemons for the tea.", "uz": "Choy uchun bir oz shakar va bir nechta limon kerak."},
+        {"en": "This watermelon is very sweet, and that melon is ripe too.", "uz": "Bu tarvuz juda shirin, anavi qovun ham pishgan."},
+        {"en": "Do we have any strawberries and raspberries in the fridge?", "uz": "Muzlatgichda qulupnay va malina bormi?"},
+        {"en": "She doesn't like bananas, but she loves peaches and apricots.", "uz": "U bananni yoqtirmaydi, lekin shaftoli va o'rikni yaxshi ko'radi."},
+        {"en": "There is a lot of fruit in the market in summer: cherries, plums, oranges and mandarins.", "uz": "Yozda bozorda ko'p meva bo'ladi: gilos, olxo'ri, apelsin va mandarin."},
+        {"en": "How much juice can you make from one pineapple?", "uz": "Bitta ananasdan qancha sharbat tayyorlash mumkin?"}
+      ],
+      "street": {
+        "title": "Meva bozorida",
+        "items": [
+          {"en": "How much are the cherries?", "uz": "Gilos qancha?"},
+          {"en": "Give me a kilo of apples.", "uz": "Bir kilo olma bering."},
+          {"en": "Are they sweet?", "uz": "Shirinmi?"},
+          {"en": "I'll take a bunch of grapes.", "uz": "Bir boshoq uzum olaman."},
+          {"en": "Just a little, thanks.", "uz": "Faqat bir oz, rahmat."}
+        ],
+        "note": "\"How much are the cherries?\" — narx so'rash; \"How many...?\" — sanash uchun: How many apples?"
+      },
+      "dialog": {
+        "title": "Mini dialog · Bozorda",
+        "lines": [
+          {"who": "A", "en": "How many watermelons do you need?", "uz": "Nechta tarvuz kerak?"},
+          {"who": "B", "en": "Just one, and a few peaches.", "uz": "Faqat bitta va bir nechta shaftoli."},
+          {"who": "A", "en": "How much are they?", "uz": "Qancha turadi?"},
+          {"who": "B", "en": "Ten thousand for the watermelon, and the peaches are cheap.", "uz": "Tarvuz o'n ming, shaftoli esa arzon."},
+          {"who": "A", "en": "Are there any ripe melons today?", "uz": "Bugun pishgan qovun bormi?"},
+          {"who": "B", "en": "Yes, a lot of them. They are very sweet.", "uz": "Ha, ko'p. Juda shirin."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "How ___ apples do you need? (much / many)", "answer": "How many apples do you need?"},
+          {"prompt": "How ___ sugar do you want? (much / many)", "answer": "How much sugar do you want?"},
+          {"prompt": "There are ___ grapes in the garden. (a lot of / much)", "answer": "There are a lot of grapes in the garden."},
+          {"prompt": "I need ___ lemons. (a few / a little)", "answer": "I need a few lemons."},
+          {"prompt": "There is ___ juice in the fridge. (a few / a little)", "answer": "There is a little juice in the fridge."}
+        ],
+        "translate": [
+          {"uz": "Menga bir nechta olma kerak.", "en": "I need a few apples."},
+          {"uz": "Stolda ko'p uzum bor.", "en": "There are a lot of grapes on the table."},
+          {"uz": "Choyda ko'p shakar yo'q.", "en": "There isn't much sugar in the tea."},
+          {"uz": "Bu qovun juda shirin.", "en": "This melon is very sweet."}
+        ],
+        "fix": [
+          {"wrong": "How much apples do you need?", "right": "How many apples do you need?", "why": "apples sanaladi → many"},
+          {"wrong": "I need a few sugar.", "right": "I need a little sugar.", "why": "sugar sanalmaydi → a little"},
+          {"wrong": "There are much fruit.", "right": "There is a lot of fruit.", "why": "fruit sanalmaydi → is + a lot of"}
+        ]
+      },
+      "tip": "Ovqat va ichimlik nomlari ko'pincha sanalmaydi: fruit, sugar, water, bread, meat, rice. Ular bilan <b>much / a little / a lot of</b> ishlatiladi."
+    },
+    {
+      "n": 12,
+      "title": "Taklif qilish: Would you like ...?",
+      "theme": "Ichimliklar va shirinliklar",
+      "goal": "Xushmuomala taklif va xohishni bildirishni o'rganasiz: would like, I'd like, Can I have ...?",
+      "frame": {
+        "name": "Would you like ...? / I'd like ...",
+        "formula": "Would you like some tea?     — Yes, please. / No, thank you.\nI'd like a cup of coffee.     (= I would like)\nCan I have some water, please?",
+        "explain": "<p><b>would like</b> — \"xohlayman\"ning xushmuomala shakli. <em>I'd like = I would like</em>. Taklif qilganda <b>Would you like ...?</b> ishlatiladi, javob esa <em>Yes, please</em> yoki <em>No, thank you</em>. Bu struktura kafe, mehmonxona va ish suhbatida eng kerakli strukturadir.</p>",
+        "table": [
+          ["Would you like ...?", "xushmuomala taklif"],
+          ["I'd like ...", "xushmuomala xohish"],
+          ["Yes, please.", "rozilik"],
+          ["No, thank you.", "rad etish"],
+          ["Can I have ...?", "so'rash (kafeda, do'konda)"]
+        ]
+      },
+      "triad": {
+        "aff": ["I'd like some tea.", "She'd like a cup of coffee."],
+        "neg": ["I wouldn't like cold tea.", "He wouldn't like hot soda."],
+        "q": ["Would you like some tea?", "Would she like a coffee?"],
+        "short": ["Yes, please. / No, thank you.", "Yes, please. / No, thanks."]
+      },
+      "words": [
+        ["water", "suv", "a glass of water"],
+        ["soda", "gazli ichimlik", "a cold soda"],
+        ["juice", "sharbat", "apple juice"],
+        ["wine", "vino", "a glass of wine"],
+        ["tea", "choy", "a cup of tea"],
+        ["coffee", "qahva", "black coffee"],
+        ["milk", "sut", "a glass of milk"],
+        ["cream", "qaymoq", "coffee with cream"],
+        ["yogurt", "yogurt", "a cup of yogurt"],
+        ["curd", "tvorog", "curd with honey"],
+        ["sugar", "shakar", "two spoons of sugar"],
+        ["honey", "asal", "tea with honey"],
+        ["jam", "murabbo", "raspberry jam"],
+        ["cake", "tort", "a piece of cake"],
+        ["bun", "bulochka", "a warm bun"],
+        ["cookie", "pechenye", "a chocolate cookie"],
+        ["pie", "pirog", "an apple pie"],
+        ["sweet", "konfet, shirinlik", "a box of sweets"],
+        ["ice-cream", "muzqaymoq", "vanilla ice-cream"],
+        ["chocolate", "shokolad", "hot chocolate"],
+        ["beer", "pivo", "a cold beer"],
+        ["lemonade", "limonad", "a glass of lemonade"],
+        ["mineral water", "mineral suv", "a bottle of mineral water"],
+        ["drink", "ichimlik; ichmoq", "a cold drink"],
+        ["thirsty", "chanqagan", "very thirsty"]
+      ],
+      "examples": [
+        {"en": "Would you like some tea or coffee?", "uz": "Choy yoki qahva olasizmi?"},
+        {"en": "I'd like a glass of mineral water, please.", "uz": "Bir stakan mineral suv olsam, iltimos."},
+        {"en": "She doesn't drink coffee, but she loves tea with honey.", "uz": "U qahva ichmaydi, lekin asalli choyni juda yaxshi ko'radi."},
+        {"en": "There is some milk and cream in the fridge, but there isn't any yogurt.", "uz": "Muzlatgichda sut va qaymoq bor, lekin yogurt yo'q."},
+        {"en": "Would you like a piece of cake with your tea?", "uz": "Choyingizga bir bo'lak tort olasizmi?"},
+        {"en": "Children drink juice and lemonade, and adults drink tea, coffee or wine.", "uz": "Bolalar sharbat va limonad ichadi, kattalar choy, qahva yoki vino ichadi."},
+        {"en": "I'm thirsty — can I have some water, please?", "uz": "Chanqadim — bir oz suv olsam bo'ladimi?"},
+        {"en": "He'd like a bun with jam and a cup of coffee.", "uz": "U murabboli bulochka va bir piyola qahva olmoqchi."}
+      ],
+      "street": {
+        "title": "Kafeda",
+        "items": [
+          {"en": "What can I get you?", "uz": "Nima olib beray?"},
+          {"en": "I'll have a coffee, please.", "uz": "Menga qahva bo'lsin, iltimos."},
+          {"en": "Anything else?", "uz": "Yana biror narsa?"},
+          {"en": "No, that's it, thanks.", "uz": "Yo'q, hammasi shu, rahmat."},
+          {"en": "Same for me.", "uz": "Menga ham o'sha."}
+        ],
+        "note": "\"I'll have ...\" — buyurtma berishning eng tabiiy shakli; \"I want ...\" to'g'ri, lekin qo'polroq eshitiladi."
+      },
+      "dialog": {
+        "title": "Mini dialog · Choyxona",
+        "lines": [
+          {"who": "A", "en": "What would you like to drink?", "uz": "Nima ichasiz?"},
+          {"who": "B", "en": "I'd like a cup of tea with honey, please.", "uz": "Asalli bir piyola choy olsam."},
+          {"who": "A", "en": "Would you like some cake too?", "uz": "Tort ham olasizmi?"},
+          {"who": "B", "en": "No, thank you. Just tea.", "uz": "Yo'q, rahmat. Faqat choy."},
+          {"who": "A", "en": "And for your son?", "uz": "O'g'lingizga-chi?"},
+          {"who": "B", "en": "He'd like some juice and an ice-cream.", "uz": "U sharbat va muzqaymoq olmoqchi."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "Would you like ___ tea? (some / any)", "answer": "Would you like some tea?"},
+          {"prompt": "I ___ like a glass of water. (would)", "answer": "I'd like a glass of water."},
+          {"prompt": "___ you like some coffee? (would / do)", "answer": "Would you like some coffee?"},
+          {"prompt": "She ___ drink coffee. (inkor)", "answer": "She doesn't drink coffee."},
+          {"prompt": "Can I ___ a cup of tea, please? (have / has)", "answer": "Can I have a cup of tea, please?"}
+        ],
+        "translate": [
+          {"uz": "Choy olasizmi?", "en": "Would you like some tea?"},
+          {"uz": "Men bir stakan suv olmoqchiman.", "en": "I'd like a glass of water."},
+          {"uz": "U (ayol) qahva ichmaydi.", "en": "She doesn't drink coffee."},
+          {"uz": "Choyingizga asal solasizmi?", "en": "Would you like some honey in your tea?"}
+        ],
+        "fix": [
+          {"wrong": "Do you would like some tea?", "right": "Would you like some tea?", "why": "would o'zi yordamchi fe'l, do kerak emas"},
+          {"wrong": "I like a coffee, please.", "right": "I'd like a coffee, please.", "why": "hozirgi xohish uchun would like"},
+          {"wrong": "Yes, please would.", "right": "Yes, please.", "why": "qisqa javobda would takrorlanmaydi"}
+        ]
+      },
+      "tip": "<b>Would you like?</b> — taklif (hozir). <b>Do you like?</b> — umuman yoqtirish: <em>Do you like coffee?</em> (umuman qahvani yoqtirasizmi?) / <em>Would you like a coffee?</em> (hozir qahva olasizmi?)."
+    },
+    {
+      "n": 13,
+      "title": "Buyruq va taklif: Pass me the salt / Let's ...",
+      "theme": "Idishlar va oshxona",
+      "goal": "Buyruq maylini (imperative), inkor buyruqni va \"let's\" taklifini o'rganasiz. Oshxona idishlari lug'ati.",
+      "frame": {
+        "name": "Imperative + Let's",
+        "formula": "Pass me the salt, please.\nDon't put the knife there.\nLet's have some tea.\nLet's not wait.",
+        "explain": "<p>Buyruq gapda ega yo'q, fe'l esa o'zak shaklda turadi: <b>Open the door</b>. Inkor: <b>Don't + fe'l</b>. Birgalikda biror ish qilishni taklif qilish uchun <b>Let's + fe'l</b> ishlatiladi. Xushmuomalalik uchun <b>please</b> qo'shiladi.</p>",
+        "table": [
+          ["Fe'l (o'zak)", "Pass the bread."],
+          ["Don't + fe'l", "Don't touch it."],
+          ["Let's + fe'l", "Let's cook together."],
+          ["Let's not + fe'l", "Let's not wait."],
+          ["please", "xushmuomalalik uchun"]
+        ]
+      },
+      "triad": {
+        "aff": ["Put the plate on the tray.", "Let's wash the dishes."],
+        "neg": ["Don't put the plate on the tray.", "Let's not wash the dishes now."],
+        "q": ["Can you pass me the fork?", "Shall we wash the dishes?"],
+        "short": ["Sure. / Here you are.", "Yes, let's. / No, later."]
+      },
+      "words": [
+        ["cup", "chashka", "a cup of tea"],
+        ["glass", "stakan", "a glass of water"],
+        ["mug", "krujka", "a big mug"],
+        ["plate", "likop", "a clean plate"],
+        ["spoon", "qoshiq", "a teaspoon"],
+        ["fork", "sanchqi", "a knife and fork"],
+        ["knife", "pichoq", "a sharp knife"],
+        ["saucer", "likopcha", "a cup and saucer"],
+        ["bottle", "shisha", "a bottle of water"],
+        ["napkin", "salfetka", "a paper napkin"],
+        ["pan", "qozon", "a big pan"],
+        ["frying pan", "tova", "a hot frying pan"],
+        ["kettle", "choynak (elektr)", "put the kettle on"],
+        ["bowl", "kosa", "a bowl of soup"],
+        ["teapot", "choydam", "tea in the teapot"],
+        ["tray", "patnis", "on the tray"],
+        ["cutting board", "kesish taxtasi", "a wooden cutting board"],
+        ["ladle", "cho'mich", "a soup ladle"],
+        ["whisk", "ko'pirtirgich", "a kitchen whisk"],
+        ["jar", "banka", "a jar of honey"],
+        ["can", "konserva bankasi", "a can of corn"],
+        ["lid", "qopqoq", "the lid of the pan"],
+        ["dish", "idish, taom", "wash the dishes"],
+        ["sink", "rakovina", "in the sink"],
+        ["cloth", "latta", "a clean cloth"]
+      ],
+      "examples": [
+        {"en": "Pass me the spoon, please.", "uz": "Iltimos, qoshiqni bering."},
+        {"en": "Don't put the hot pan on the table.", "uz": "Issiq qozonni stolga qo'ymang."},
+        {"en": "Let's have tea from these cups.", "uz": "Keling, choyni shu chashkalarda ichamiz."},
+        {"en": "Put the plates, forks and knives on the tray.", "uz": "Likoplar, sanchqilar va pichoqlarni patnisga qo'ying."},
+        {"en": "There is a bottle of water and a jar of honey on the table.", "uz": "Stolda bir shisha suv va bir banka asal bor."},
+        {"en": "Don't use this frying pan — it's dirty.", "uz": "Bu tovani ishlatmang — iflos."},
+        {"en": "Let's boil some water in the kettle and make tea in the teapot.", "uz": "Keling, choynakda suv qaynatib, choydamda choy damlaymiz."},
+        {"en": "Wash the dishes in the sink, please.", "uz": "Iltimos, idishlarni rakovinada yuving."}
+      ],
+      "street": {
+        "title": "Oshxonada",
+        "items": [
+          {"en": "Pass me the salt, please.", "uz": "Tuzni bering, iltimos."},
+          {"en": "Here you are.", "uz": "Mana, oling."},
+          {"en": "Careful, it's hot!", "uz": "Ehtiyot bo'ling, issiq!"},
+          {"en": "Can you give me a napkin?", "uz": "Salfetka bera olasizmi?"},
+          {"en": "Let's clean up.", "uz": "Keling, yig'ishtiramiz."}
+        ],
+        "note": "\"Here you are\" — biror narsa uzatganda aytiladigan standart jumla; \"Here it is\" — narsani topib ko'rsatganda."
+      },
+      "dialog": {
+        "title": "Mini dialog · Oshxonada",
+        "lines": [
+          {"who": "A", "en": "Pass me the knife, please.", "uz": "Pichoqni bering, iltimos."},
+          {"who": "B", "en": "Here you are. Do you need a cutting board?", "uz": "Mana. Kesish taxtasi kerakmi?"},
+          {"who": "A", "en": "Yes, and a plate for the bread.", "uz": "Ha, va non uchun likop."},
+          {"who": "B", "en": "Don't use that plate, it's dirty.", "uz": "U likopni ishlatmang, iflos."},
+          {"who": "A", "en": "OK. Let's wash the dishes after lunch.", "uz": "Mayli. Keling, tushlikdan keyin idishlarni yuvamiz."},
+          {"who": "B", "en": "Sure. And let's not forget the kettle.", "uz": "Albatta. Choynakni ham unutmaylik."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "___ me the salt, please. (pass)", "answer": "Pass me the salt, please."},
+          {"prompt": "___ put the hot pan on the table. (inkor)", "answer": "Don't put the hot pan on the table."},
+          {"prompt": "___ have some tea. (let's)", "answer": "Let's have some tea."},
+          {"prompt": "There is a ___ of honey on the table. (banka)", "answer": "There is a jar of honey on the table."},
+          {"prompt": "Wash the dishes in the ___ . (rakovina)", "answer": "Wash the dishes in the sink."}
+        ],
+        "translate": [
+          {"uz": "Iltimos, qoshiqni bering.", "en": "Pass me the spoon, please."},
+          {"uz": "Bu tovani ishlatmang.", "en": "Don't use this frying pan."},
+          {"uz": "Keling, choy ichamiz.", "en": "Let's have some tea."},
+          {"uz": "Idishlarni hozir yuvmaylik.", "en": "Let's not wash the dishes now."}
+        ],
+        "fix": [
+          {"wrong": "Pass me please the salt.", "right": "Pass me the salt, please.", "why": "please oxirida yoki boshida turadi"},
+          {"wrong": "Don't to put the knife here.", "right": "Don't put the knife here.", "why": "don't dan keyin to ishlatilmaydi"},
+          {"wrong": "Let's to have tea.", "right": "Let's have tea.", "why": "let's dan keyin fe'l o'zak shaklda"}
+        ]
+      },
+      "tip": "Buyruq ohangi qattiq eshitilmasligi uchun uchta usul bor: <b>please</b> qo'shish, gapni savol shaklida aytish (<em>Can you pass me the salt?</em>), yoki <b>Could you ...?</b> bilan boshlash."
+    },
+    {
+      "n": 14,
+      "title": "Qanday borasiz? by bus, on foot",
+      "theme": "Transport",
+      "goal": "Transport predloglarini o'zlashtirasiz: by / on / in, \"on foot\" va \"How do you get to ...?\" savoli.",
+      "frame": {
+        "name": "Transport predloglari",
+        "formula": "I go to work by bus.        by car / by train / by plane\nI go on foot.                → piyoda\nI'm in the car. / I'm on the bus.\nHow do you get to work?",
+        "explain": "<p>Transport turi haqida gapirganda <b>by</b> ishlatiladi va artikl qo'yilmaydi: <em>by bus, by train, by plane</em>. Piyoda yurish — <b>on foot</b>. Konkret mashina yoki avtobusda o'tirganda esa <b>in a car</b>, <b>on a bus</b> deyiladi.</p>",
+        "table": [
+          ["by bus / by train", "transport turi"],
+          ["on foot", "piyoda"],
+          ["in a car / in a taxi", "mashinada"],
+          ["on the bus / on the train", "avtobusda, poyezdda"],
+          ["How do you get to ...?", "qanday borasiz?"]
+        ]
+      },
+      "triad": {
+        "aff": ["I go to work by bus.", "She goes to school by tram."],
+        "neg": ["I don't go to work by bus.", "She doesn't go to school by tram."],
+        "q": ["Do you go to work by bus?", "How do you get to the airport?"],
+        "short": ["Yes, I do. / No, I don't.", "By taxi. / On foot."]
+      },
+      "words": [
+        ["plane", "samolyot", "by plane"],
+        ["car", "avtomobil", "a new car"],
+        ["tram", "tramvay", "take the tram"],
+        ["bus", "avtobus", "the number 12 bus"],
+        ["train", "poyezd", "a fast train"],
+        ["ship", "kema", "by ship"],
+        ["bicycle", "velosiped", "ride a bicycle"],
+        ["taxi", "taksi", "call a taxi"],
+        ["motorcycle", "mototsikl", "a fast motorcycle"],
+        ["truck", "yuk mashinasi", "a big truck"],
+        ["boat", "qayiq", "a small boat"],
+        ["subway", "metro", "take the subway"],
+        ["ticket", "chipta", "a train ticket"],
+        ["passenger", "yo'lovchi", "a passenger on the bus"],
+        ["seat", "o'rindiq", "a window seat"],
+        ["wheel", "g'ildirak", "the front wheel"],
+        ["traffic", "tirbandlik", "heavy traffic"],
+        ["fuel", "yonilg'i", "buy some fuel"],
+        ["journey", "safar", "a long journey"],
+        ["ride", "yurish, minish", "a short ride"],
+        ["fare", "yo'l haqi", "the bus fare"],
+        ["luggage", "yuk, bagaj", "my luggage"],
+        ["platform", "platforma", "on platform two"],
+        ["flight", "reys, parvoz", "a morning flight"],
+        ["passport", "pasport", "my passport"]
+      ],
+      "examples": [
+        {"en": "I go to work by bus, and my brother goes by bicycle.", "uz": "Men ishga avtobusda boraman, akam velosipedda."},
+        {"en": "How do you get to the airport — by taxi or by train?", "uz": "Aeroportga qanday borasiz — taksi bilanmi yoki poyezdda?"},
+        {"en": "There is a lot of traffic in the city center, so I often go on foot.", "uz": "Shahar markazida tirbandlik ko'p, shuning uchun ko'pincha piyoda boraman."},
+        {"en": "The train leaves from platform two, and the ticket costs fifty thousand.", "uz": "Poyezd ikkinchi platformadan jo'naydi, chipta ellik ming turadi."},
+        {"en": "She doesn't like planes, so she travels by ship or by train.", "uz": "U samolyotlarni yoqtirmaydi, shuning uchun kema yoki poyezdda yuradi."},
+        {"en": "Is there a subway station near the hotel?", "uz": "Mehmonxona yaqinida metro bekati bormi?"},
+        {"en": "Passengers must keep their luggage with them.", "uz": "Yo'lovchilar yukini o'zlari bilan olib yurishlari kerak."},
+        {"en": "We need some fuel for the car before the journey.", "uz": "Safardan oldin mashinaga yonilg'i kerak."}
+      ],
+      "street": {
+        "title": "Yo'lda",
+        "items": [
+          {"en": "How do I get to the station?", "uz": "Bekatga qanday borsam bo'ladi?"},
+          {"en": "Take the number 12 bus.", "uz": "12-avtobusga chiqing."},
+          {"en": "It's a ten-minute walk.", "uz": "O'n daqiqalik yo'l."},
+          {"en": "Is this seat free?", "uz": "Bu joy bo'shmi?"},
+          {"en": "I'm in a hurry.", "uz": "Shoshyapman."}
+        ],
+        "note": "\"It's a ten-minute walk\" — \"o'n daqiqalik yo'l\"; vaqt + ot birikmasi chiziqcha bilan yoziladi va ko'plikda -s olmaydi."
+      },
+      "dialog": {
+        "title": "Mini dialog · Ishga qanday borasiz?",
+        "lines": [
+          {"who": "A", "en": "How do you get to work every day?", "uz": "Har kuni ishga qanday borasiz?"},
+          {"who": "B", "en": "By metro, then by bus. It's faster than a taxi.", "uz": "Metroda, keyin avtobusda. Taksidan tezroq."},
+          {"who": "A", "en": "Is there a lot of traffic in the morning?", "uz": "Ertalab tirbandlik ko'pmi?"},
+          {"who": "B", "en": "Yes, very much. That's why I don't drive my car.", "uz": "Ha, juda. Shuning uchun mashinamni haydamayman."},
+          {"who": "A", "en": "Where do you buy tickets?", "uz": "Chiptalarni qayerdan olasiz?"},
+          {"who": "B", "en": "At the station, near the platform.", "uz": "Bekatda, platforma yonida."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "I go to work ___ bus. (by / on)", "answer": "I go to work by bus."},
+          {"prompt": "She goes to school ___ foot. (by / on)", "answer": "She goes to school on foot."},
+          {"prompt": "We are ___ the train. (in / on)", "answer": "We are on the train."},
+          {"prompt": "How do you ___ to the airport? (get)", "answer": "How do you get to the airport?"},
+          {"prompt": "I travel ___ plane. (by / in)", "answer": "I travel by plane."}
+        ],
+        "translate": [
+          {"uz": "Men ishga avtobusda boraman.", "en": "I go to work by bus."},
+          {"uz": "U (ayol) maktabga piyoda boradi.", "en": "She goes to school on foot."},
+          {"uz": "Aeroportga qanday borasiz?", "en": "How do you get to the airport?"},
+          {"uz": "Poyezd ikkinchi platformadan jo'naydi.", "en": "The train leaves from platform two."}
+        ],
+        "fix": [
+          {"wrong": "I go to work with bus.", "right": "I go to work by bus.", "why": "transport turi — by"},
+          {"wrong": "She goes on taxi.", "right": "She goes by taxi.", "why": "taksi bilan — by taxi (yoki in a taxi)"},
+          {"wrong": "How you get to the station?", "right": "How do you get to the station?", "why": "savolda yordamchi fe'l kerak"}
+        ]
+      },
+      "tip": "<b>by</b> dan keyin artikl yo'q: by bus, by car, by plane. Lekin <b>in a car</b>, <b>on a bus</b> — konkret mashina yoki avtobus haqida gapirganda ishlatiladi: <em>I'm in a taxi</em>."
+    },
+    {
+      "n": 15,
+      "title": "Vaqt: at, on, in",
+      "theme": "Vaqt, kun va soat",
+      "goal": "Vaqt predloglarini va vaqt haqidagi so'zlarni o'zlashtirasiz: at 7, on Monday, in July.",
+      "frame": {
+        "name": "Vaqt predloglari at / on / in",
+        "formula": "at 8 o'clock     at night\non Monday        on 5 May\nin the morning   in July   in 2026\nWhat time is it? — It's half past seven.",
+        "explain": "<p>Uch predlog uch xil vazifani bajaradi: <b>at</b> — aniq vaqt va tun; <b>on</b> — kun va sana; <b>in</b> — oy, yil, asr va kunning qismlari. Istisnolar: <em>at night</em>, <em>in the morning / afternoon / evening</em>.</p>",
+        "table": [
+          ["at", "at 7 o'clock, at night, at noon"],
+          ["on", "on Monday, on 5 May, on my birthday"],
+          ["in", "in the morning, in July, in 2026"],
+          ["in + oraliq", "in five minutes — besh daqiqadan keyin"],
+          ["What time ...?", "What time do you get up?"]
+        ]
+      },
+      "triad": {
+        "aff": ["I get up at seven o'clock.", "We go to the cinema on Fridays."],
+        "neg": ["I don't get up at seven o'clock.", "We don't go to the cinema on Fridays."],
+        "q": ["Do you get up at seven o'clock?", "What time does she start work?"],
+        "short": ["Yes, I do. / No, I don't.", "At nine. / In the morning."]
+      },
+      "words": [
+        ["minute", "daqiqa", "in five minutes"],
+        ["hour", "soat (davomiylik)", "two hours"],
+        ["week", "hafta", "next week"],
+        ["year", "yil", "this year"],
+        ["century", "asr", "the last century"],
+        ["yesterday", "kecha", "yesterday morning"],
+        ["today", "bugun", "today is Monday"],
+        ["tomorrow", "ertaga", "see you tomorrow"],
+        ["day before yesterday", "avvalgi kun", "the day before yesterday"],
+        ["day after tomorrow", "indinga", "the day after tomorrow"],
+        ["morning", "ertalab", "in the morning"],
+        ["afternoon", "tushdan keyin", "in the afternoon"],
+        ["evening", "kechqurun", "in the evening"],
+        ["night", "tun", "at night"],
+        ["time", "vaqt", "what time"],
+        ["day", "kun", "every day"],
+        ["month", "oy", "next month"],
+        ["date", "sana", "today's date"],
+        ["early", "erta", "get up early"],
+        ["late", "kech", "ten minutes late"],
+        ["now", "hozir", "right now"],
+        ["always", "doim", "always on time"],
+        ["never", "hech qachon", "never late"],
+        ["sometimes", "ba'zan", "sometimes on Sunday"],
+        ["usually", "odatda", "usually at six"]
+      ],
+      "examples": [
+        {"en": "I usually get up at seven in the morning.", "uz": "Men odatda ertalab yettida turaman."},
+        {"en": "She works from Monday to Friday, and she rests on Saturday.", "uz": "U dushanbadan jumagacha ishlaydi, shanba kuni dam oladi."},
+        {"en": "We don't work at night, so we go home at six in the evening.", "uz": "Biz tunda ishlamaymiz, shuning uchun kechqurun oltida uyga qaytamiz."},
+        {"en": "The day before yesterday was Sunday, and the day after tomorrow is Tuesday.", "uz": "Avvalgi kun yakshanba edi, indinga seshanba."},
+        {"en": "My grandfather was born in the last century, in 1950.", "uz": "Buam o'tgan asrda, 1950-yilda tug'ilgan."},
+        {"en": "I'm late today — I need five more minutes.", "uz": "Bugun kechikyapman — yana besh daqiqa kerak."},
+        {"en": "What time is it now? — It's a quarter past eight.", "uz": "Hozir soat necha? — Sakkizdan o'n besh daqiqa o'tdi."},
+        {"en": "He never works on Sunday, but he sometimes works late on Friday.", "uz": "U yakshanba kuni hech qachon ishlamaydi, lekin ba'zan juma kuni kechgacha ishlaydi."}
+      ],
+      "street": {
+        "title": "Vaqt haqida",
+        "items": [
+          {"en": "What time is it?", "uz": "Soat necha?"},
+          {"en": "I'm running late.", "uz": "Kechikyapman."},
+          {"en": "Give me a minute.", "uz": "Bir daqiqa bering."},
+          {"en": "See you in an hour.", "uz": "Bir soatdan keyin ko'rishamiz."},
+          {"en": "It's about time.", "uz": "Vaqti keldi."}
+        ],
+        "note": "\"I'm running late\" — hozir kechikyapman; \"I'm late\" — umumiy holat. \"Give me a minute\" — \"bir daqiqa kutib turing\"."
+      },
+      "dialog": {
+        "title": "Mini dialog · Ish jadvali",
+        "lines": [
+          {"who": "A", "en": "What time do you start work?", "uz": "Ishni soat nechada boshlaysiz?"},
+          {"who": "B", "en": "At nine in the morning, and I finish at six.", "uz": "Ertalab to'qqizda, oltida tugataman."},
+          {"who": "A", "en": "Do you work on Saturday?", "uz": "Shanba kuni ishlaysizmi?"},
+          {"who": "B", "en": "Sometimes, but usually not.", "uz": "Ba'zan, lekin odatda yo'q."},
+          {"who": "A", "en": "Are you free tomorrow evening?", "uz": "Ertaga kechqurun bo'shmisiz?"},
+          {"who": "B", "en": "Yes, I'm free after eight.", "uz": "Ha, sakkizdan keyin bo'shman."}
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {"prompt": "I get up ___ seven o'clock. (at / on / in)", "answer": "I get up at seven o'clock."},
+          {"prompt": "We meet ___ Friday. (at / on / in)", "answer": "We meet on Friday."},
+          {"prompt": "She rests ___ the afternoon. (at / on / in)", "answer": "She rests in the afternoon."},
+          {"prompt": "He was born ___ May. (at / on / in)", "answer": "He was born in May."},
+          {"prompt": "I work ___ night. (at / on / in)", "answer": "I work at night."}
+        ],
+        "translate": [
+          {"uz": "Men ertalab yettida turaman.", "en": "I get up at seven in the morning."},
+          {"uz": "U (ayol) shanba kuni ishlamaydi.", "en": "She doesn't work on Saturday."},
+          {"uz": "Hozir soat necha?", "en": "What time is it now?"},
+          {"uz": "Indinga seshanba.", "en": "The day after tomorrow is Tuesday."}
+        ],
+        "fix": [
+          {"wrong": "I get up in seven o'clock.", "right": "I get up at seven o'clock.", "why": "aniq vaqt — at"},
+          {"wrong": "We meet in Friday.", "right": "We meet on Friday.", "why": "kun — on"},
+          {"wrong": "She works in the night.", "right": "She works at night.", "why": "at night — istisno"}
+        ]
+      },
+      "tip": "Uchta istisnoni yodlab oling: <b>at night</b>, <b>in the morning / afternoon / evening</b>, <b>on Monday morning</b> (kun + kunning qismi birga kelsa — on)."
+    }
+  ]
+}

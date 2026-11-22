@@ -1,0 +1,1673 @@
+{
+  "lessons": [
+    {
+      "n": 36,
+      "title": "Rejalar: I'm going to / I'm gonna",
+      "theme": "San'at va madaniyat",
+      "goal": "Kelasi zamondagi rejalarni aytishni o'rganasiz: going to va uning so'zlashuv shakli gonna.",
+      "frame": {
+        "name": "going to / gonna + fe'l",
+        "formula": "I'm going to watch a film tonight.\nShe's going to sing at the concert.\nWe're gonna visit the exhibition.\nAre you going to buy a ticket?",
+        "explain": "<p><b>going to</b> — oldindan rejalashtirilgan niyat. So'zlashuvda u deyarli har doim <b>gonna</b> bo'lib aytiladi: <em>I'm gonna watch</em>. Yozuvda va rasmiy nutqda esa to'liq shakl ishlatiladi.</p>",
+        "table": [
+          [
+            "am / is / are going to + fe'l",
+            "I'm going to watch."
+          ],
+          [
+            "gonna (so'zlashuv)",
+            "I'm gonna watch."
+          ],
+          [
+            "inkor",
+            "I'm not going to watch."
+          ],
+          [
+            "savol",
+            "Are you going to watch?"
+          ],
+          [
+            "going to va will",
+            "reja — going to, hozirgi qaror — will"
+          ]
+        ]
+      },
+      "triad": {
+        "aff": [
+          "I'm going to watch a film.",
+          "She's going to sing at the concert."
+        ],
+        "neg": [
+          "I'm not going to watch a film.",
+          "She isn't going to sing at the concert."
+        ],
+        "q": [
+          "Are you going to watch a film?",
+          "Is she going to sing at the concert?"
+        ],
+        "short": [
+          "Yes, I am. / No, I'm not.",
+          "Yes, she is. / No, she isn't."
+        ]
+      },
+      "words": [
+        [
+          "music",
+          "musiqa",
+          "listen to music"
+        ],
+        [
+          "song",
+          "qo'shiq",
+          "a beautiful song"
+        ],
+        [
+          "literature",
+          "adabiyot",
+          "Uzbek literature"
+        ],
+        [
+          "story",
+          "hikoya",
+          "a short story"
+        ],
+        [
+          "movie",
+          "kino",
+          "a good movie"
+        ],
+        [
+          "film",
+          "film",
+          "watch a film"
+        ],
+        [
+          "sculpture",
+          "haykaltaroshlik",
+          "a stone sculpture"
+        ],
+        [
+          "picture",
+          "rasm, surat",
+          "draw a picture"
+        ],
+        [
+          "photo",
+          "surat",
+          "take a photo"
+        ],
+        [
+          "advertising",
+          "reklama",
+          "an advertising campaign"
+        ],
+        [
+          "concert",
+          "kontsert",
+          "at the concert"
+        ],
+        [
+          "band",
+          "guruh",
+          "a rock band"
+        ],
+        [
+          "singer",
+          "xonanda",
+          "a famous singer"
+        ],
+        [
+          "painting",
+          "rassomlik asari",
+          "an old painting"
+        ],
+        [
+          "novel",
+          "roman",
+          "read a novel"
+        ],
+        [
+          "poem",
+          "she'r",
+          "write a poem"
+        ],
+        [
+          "magazine",
+          "jurnal",
+          "a fashion magazine"
+        ],
+        [
+          "newspaper",
+          "gazeta",
+          "a daily newspaper"
+        ],
+        [
+          "radio",
+          "radio",
+          "listen to the radio"
+        ],
+        [
+          "culture",
+          "madaniyat",
+          "art and culture"
+        ],
+        [
+          "stage",
+          "sahna",
+          "on the stage"
+        ],
+        [
+          "audience",
+          "tomoshabinlar",
+          "a big audience"
+        ],
+        [
+          "exhibition",
+          "ko'rgazma",
+          "an art exhibition"
+        ],
+        [
+          "poster",
+          "afisha, plakat",
+          "a film poster"
+        ],
+        [
+          "festival",
+          "festival",
+          "a music festival"
+        ]
+      ],
+      "examples": [
+        {
+          "en": "I'm going to watch a new film tonight, and my sister is going to read a novel.",
+          "uz": "Bugun kechqurun yangi film ko'rmoqchiman, singlim esa roman o'qimoqchi."
+        },
+        {
+          "en": "She's going to sing at the concert, and the whole band is going to play.",
+          "uz": "U kontsertda qo'shiq aytmoqchi, butun guruh esa chalmoqchi."
+        },
+        {
+          "en": "We're gonna visit the art exhibition on Saturday — do you want to come?",
+          "uz": "Shanba kuni ko'rgazmaga bormoqchimiz — kelmoqchimisiz?"
+        },
+        {
+          "en": "Are you going to buy a ticket for the show?",
+          "uz": "Spektaklga chipta olmoqchimisiz?"
+        },
+        {
+          "en": "He isn't going to watch TV tonight; he's going to listen to the radio.",
+          "uz": "U bugun kechqurun televizor ko'rmoqchi emas; radio tinglamoqchi."
+        },
+        {
+          "en": "The museum is going to open a new exhibition of sculpture and painting.",
+          "uz": "Muzey haykaltaroshlik va rassomlik bo'yicha yangi ko'rgazma ochmoqchi."
+        },
+        {
+          "en": "I'm not going to read this magazine — the story is boring.",
+          "uz": "Bu jurnalni o'qimoqchi emasman — hikoya zerikarli."
+        },
+        {
+          "en": "They're gonna take a lot of photos at the festival.",
+          "uz": "Festivalda ko'p surat olmoqchilar."
+        }
+      ],
+      "street": {
+        "title": "Rejalar",
+        "items": [
+          {
+            "en": "What are you gonna do tonight?",
+            "uz": "Bugun kechqurun nima qilasiz?"
+          },
+          {
+            "en": "I'm gonna stay in.",
+            "uz": "Uyda qolaman."
+          },
+          {
+            "en": "Wanna come?",
+            "uz": "Kelmoqchimisiz?"
+          },
+          {
+            "en": "I'm in.",
+            "uz": "Men boraman."
+          },
+          {
+            "en": "Count me out.",
+            "uz": "Meni hisobga olmang."
+          }
+        ],
+        "note": "\"Wanna come?\" = \"Do you want to come?\"; \"I'm in\" — rozilik, \"Count me out\" — rad etish (norasmiy)."
+      },
+      "dialog": {
+        "title": "Mini dialog · Dam olish rejasi",
+        "lines": [
+          {
+            "who": "A",
+            "en": "What are you gonna do this weekend?",
+            "uz": "Bu dam olish kunlari nima qilasiz?"
+          },
+          {
+            "who": "B",
+            "en": "I'm going to see an exhibition at the museum.",
+            "uz": "Muzeydagi ko'rgazmaga bormoqchiman."
+          },
+          {
+            "who": "A",
+            "en": "What kind of art?",
+            "uz": "Qanday san'at?"
+          },
+          {
+            "who": "B",
+            "en": "Modern painting and sculpture. And then a concert in the park.",
+            "uz": "Zamonaviy rasm va haykaltaroshlik. Keyin bog'dagi kontsert."
+          },
+          {
+            "who": "A",
+            "en": "Is the band good?",
+            "uz": "Guruh yaxshimi?"
+          },
+          {
+            "who": "B",
+            "en": "They're great — the singer has an amazing voice.",
+            "uz": "Juda zo'r — xonandaning ovozi ajoyib."
+          }
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {
+            "prompt": "I ___ going to watch a film. (be)",
+            "answer": "I am going to watch a film."
+          },
+          {
+            "prompt": "She ___ going to sing. (be)",
+            "answer": "She is going to sing."
+          },
+          {
+            "prompt": "We ___ going to visit the museum. (be)",
+            "answer": "We are going to visit the museum."
+          },
+          {
+            "prompt": "___ you going to buy a ticket? (be)",
+            "answer": "Are you going to buy a ticket?"
+          },
+          {
+            "prompt": "He ___ going to read the magazine. (inkor)",
+            "answer": "He isn't going to read the magazine."
+          }
+        ],
+        "translate": [
+          {
+            "uz": "Film ko'rmoqchiman.",
+            "en": "I'm going to watch a film."
+          },
+          {
+            "uz": "Biz kontsertga bormoqchimiz.",
+            "en": "We're going to the concert."
+          },
+          {
+            "uz": "Chipta olmoqchimisiz?",
+            "en": "Are you going to buy a ticket?"
+          },
+          {
+            "uz": "U (ayol) qo'shiq aytmoqchi emas.",
+            "en": "She isn't going to sing."
+          }
+        ],
+        "fix": [
+          {
+            "wrong": "I going to watch a film.",
+            "right": "I'm going to watch a film.",
+            "why": "am tushib qolgan"
+          },
+          {
+            "wrong": "She going to sing.",
+            "right": "She's going to sing.",
+            "why": "she → is"
+          },
+          {
+            "wrong": "I'm going to watched a film.",
+            "right": "I'm going to watch a film.",
+            "why": "going to + o'zak fe'l"
+          }
+        ]
+      },
+      "tip": "<b>going to</b> — oldindan reja; <b>will</b> — gapirilayotganda qabul qilingan qaror: <em>I'm going to visit my parents</em> (reja bor) / <em>OK, I'll help you</em> (hozir qaror qildim)."
+    },
+    {
+      "n": 37,
+      "title": "Taqqoslash: bigger than, more expensive",
+      "theme": "Mamlakatlar va qiyoslash",
+      "goal": "Ikki narsani taqqoslashni o'rganasiz: -er / more + than. Mamlakat va geografiya lug'ati.",
+      "frame": {
+        "name": "Comparative: -er / more + than",
+        "formula": "Tashkent is bigger than Samarkand.\nThis road is longer than that one.\nEnglish is easier than Chinese.\nThis book is more interesting than that one.",
+        "explain": "<p>Qisqa sifatlarga <b>-er</b>, uzun sifatlar oldiga <b>more</b> qo'shiladi va keyin <b>than</b> keladi. Noto'g'ri shakllar: <em>good → better</em>, <em>bad → worse</em>, <em>far → further</em>.</p>",
+        "table": [
+          [
+            "big → bigger",
+            "qisqa sifat: -er"
+          ],
+          [
+            "easy → easier",
+            "-y → -ier"
+          ],
+          [
+            "expensive → more expensive",
+            "uzun sifat: more"
+          ],
+          [
+            "good → better / bad → worse",
+            "noto'g'ri shakllar"
+          ],
+          [
+            "much / a little + comparative",
+            "much bigger, a little cheaper"
+          ]
+        ]
+      },
+      "triad": {
+        "aff": [
+          "Tashkent is bigger than Samarkand.",
+          "This map is more useful than that one."
+        ],
+        "neg": [
+          "Tashkent isn't bigger than Samarkand.",
+          "This map isn't more useful than that one."
+        ],
+        "q": [
+          "Is Tashkent bigger than Samarkand?",
+          "Which country is bigger?"
+        ],
+        "short": [
+          "Yes, it is. / No, it isn't.",
+          "Russia is bigger."
+        ]
+      },
+      "words": [
+        [
+          "Russia",
+          "Rossiya",
+          "in Russia"
+        ],
+        [
+          "Great Britain",
+          "Buyuk Britaniya",
+          "to Great Britain"
+        ],
+        [
+          "England",
+          "Angliya",
+          "in England"
+        ],
+        [
+          "nation",
+          "millat",
+          "a big nation"
+        ],
+        [
+          "nationality",
+          "millat (fuqarolik)",
+          "what nationality"
+        ],
+        [
+          "foreign",
+          "chet el",
+          "a foreign language"
+        ],
+        [
+          "abroad",
+          "chet elda",
+          "live abroad"
+        ],
+        [
+          "border",
+          "chegara",
+          "cross the border"
+        ],
+        [
+          "map",
+          "xarita",
+          "on the map"
+        ],
+        [
+          "north",
+          "shimol",
+          "in the north"
+        ],
+        [
+          "south",
+          "janub",
+          "in the south"
+        ],
+        [
+          "east",
+          "sharq",
+          "in the east"
+        ],
+        [
+          "west",
+          "g'arb",
+          "in the west"
+        ],
+        [
+          "continent",
+          "qit'a",
+          "a large continent"
+        ],
+        [
+          "Europe",
+          "Yevropa",
+          "in Europe"
+        ],
+        [
+          "Asia",
+          "Osiyo",
+          "in Asia"
+        ],
+        [
+          "Africa",
+          "Afrika",
+          "in Africa"
+        ],
+        [
+          "America",
+          "Amerika",
+          "in America"
+        ],
+        [
+          "flag",
+          "bayroq",
+          "the national flag"
+        ],
+        [
+          "visa",
+          "viza",
+          "get a visa"
+        ],
+        [
+          "customs",
+          "bojxona",
+          "at customs"
+        ],
+        [
+          "embassy",
+          "elchixona",
+          "the embassy"
+        ],
+        [
+          "currency",
+          "valyuta",
+          "foreign currency"
+        ],
+        [
+          "distance",
+          "masofa",
+          "a long distance"
+        ],
+        [
+          "size",
+          "o'lcham",
+          "a big size"
+        ]
+      ],
+      "examples": [
+        {
+          "en": "Russia is the biggest country in the world, and it's much larger than England.",
+          "uz": "Rossiya dunyodagi eng katta mamlakat va Angliyadan ancha katta."
+        },
+        {
+          "en": "Great Britain is an island, so you can't travel there by train from Europe.",
+          "uz": "Buyuk Britaniya orol, shuning uchun Yevropadan u yerga poyezdda borib bo'lmaydi."
+        },
+        {
+          "en": "Is it easier to travel abroad with a visa or without one?",
+          "uz": "Chet elga viza bilan borish osonroqmi yoki vizasizmi?"
+        },
+        {
+          "en": "My map is older than yours, but it's still useful.",
+          "uz": "Mening xaritam siznikidan eski, lekin hali ham foydali."
+        },
+        {
+          "en": "The north of the country is colder than the south.",
+          "uz": "Mamlakat shimoli janubdan sovuqroq."
+        },
+        {
+          "en": "Asia is bigger than Europe, and Africa is bigger than both.",
+          "uz": "Osiyo Yevropadan katta, Afrika esa ikkisidan ham katta."
+        },
+        {
+          "en": "Foreign currency is more expensive at the airport than at the bank.",
+          "uz": "Chet el valyutasi aeroportda bankdagidan qimmatroq."
+        },
+        {
+          "en": "Her nationality is British, but she lives abroad and works at the embassy.",
+          "uz": "Uning millati britan, lekin chet elda yashaydi va elchixonada ishlaydi."
+        }
+      ],
+      "street": {
+        "title": "Chet elga sayohat",
+        "items": [
+          {
+            "en": "Have you been abroad?",
+            "uz": "Chet elda bo'lganmisiz?"
+          },
+          {
+            "en": "I need a visa.",
+            "uz": "Menga viza kerak."
+          },
+          {
+            "en": "Where's the embassy?",
+            "uz": "Elchixona qayerda?"
+          },
+          {
+            "en": "Do I have to declare this?",
+            "uz": "Buni bojxonada e'lon qilishim kerakmi?"
+          },
+          {
+            "en": "What's the currency here?",
+            "uz": "Bu yerda valyuta nima?"
+          }
+        ],
+        "note": "abroad so'zi bilan artikl va predlog ishlatilmaydi: go abroad, live abroad — \"in abroad\" xato."
+      },
+      "dialog": {
+        "title": "Mini dialog · Chet elga sayohat",
+        "lines": [
+          {
+            "who": "A",
+            "en": "Have you ever been abroad?",
+            "uz": "Chet elda bo'lganmisiz?"
+          },
+          {
+            "who": "B",
+            "en": "Yes, I travelled to England last year.",
+            "uz": "Ha, o'tgan yili Angliyaga borganman."
+          },
+          {
+            "who": "A",
+            "en": "Was it difficult to get a visa?",
+            "uz": "Viza olish qiyin bo'ldimi?"
+          },
+          {
+            "who": "B",
+            "en": "Not really, but it was more expensive than I expected.",
+            "uz": "Unchalik emas, lekin kutganimdan qimmatroq bo'ldi."
+          },
+          {
+            "who": "A",
+            "en": "Is England bigger than Russia?",
+            "uz": "Angliya Rossiyadan kattami?"
+          },
+          {
+            "who": "B",
+            "en": "No, it's much smaller — but the distances inside London are longer than you think.",
+            "uz": "Yo'q, ancha kichik — lekin London ichidagi masofalar o'ylaganingizdan uzunroq."
+          }
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {
+            "prompt": "Tashkent is ___ than Samarkand. (big)",
+            "answer": "Tashkent is bigger than Samarkand."
+          },
+          {
+            "prompt": "This book is ___ than that one. (interesting)",
+            "answer": "This book is more interesting than that one."
+          },
+          {
+            "prompt": "English is ___ than Chinese. (easy)",
+            "answer": "English is easier than Chinese."
+          },
+          {
+            "prompt": "My bag is ___ than yours. (good)",
+            "answer": "My bag is better than yours."
+          },
+          {
+            "prompt": "The north is ___ than the south. (cold)",
+            "answer": "The north is colder than the south."
+          }
+        ],
+        "translate": [
+          {
+            "uz": "Toshkent Samarqanddan katta.",
+            "en": "Tashkent is bigger than Samarkand."
+          },
+          {
+            "uz": "Bu kitob anavidan qiziqarliroq.",
+            "en": "This book is more interesting than that one."
+          },
+          {
+            "uz": "Rossiya Angliyadan katta.",
+            "en": "Russia is bigger than England."
+          },
+          {
+            "uz": "Chet elda bo'lganmisiz?",
+            "en": "Have you been abroad?"
+          }
+        ],
+        "fix": [
+          {
+            "wrong": "Tashkent is more big than Samarkand.",
+            "right": "Tashkent is bigger than Samarkand.",
+            "why": "qisqa sifat → -er"
+          },
+          {
+            "wrong": "This book is interestinger.",
+            "right": "This book is more interesting.",
+            "why": "uzun sifat → more"
+          },
+          {
+            "wrong": "He is more good than me.",
+            "right": "He is better than me.",
+            "why": "good → better"
+          }
+        ]
+      },
+      "tip": "Qisqa sifat (1 bo'g'in) → <b>-er</b>: big → bigger, cold → colder. Uzun sifat (2+ bo'g'in) → <b>more</b>: more expensive. Istisno: good → better, bad → worse, far → further."
+    },
+    {
+      "n": 38,
+      "title": "Eng: the biggest, the most expensive",
+      "theme": "Ravishlar va orttirma daraja",
+      "goal": "Orttirma darajani (the biggest / the most expensive) va ravishlarni (-ly) o'rganasiz.",
+      "frame": {
+        "name": "Superlative: the + -est / the most",
+        "formula": "This is the biggest city in the country.\nIt's the most expensive restaurant.\nShe speaks the most clearly.\nHe runs faster than me.",
+        "explain": "<p>Orttirma daraja: <b>the + sifat + est</b> yoki <b>the most + sifat</b>. Ravishlar ko'pincha <b>-ly</b> qo'shimchasi bilan yasaladi: <em>quiet → quietly</em>, <em>careful → carefully</em>. Istisnolar: <em>good → well</em>, <em>fast → fast</em>, <em>hard → hard</em>.</p>",
+        "table": [
+          [
+            "big → the biggest",
+            "qisqa sifat"
+          ],
+          [
+            "easy → the easiest",
+            "-y → -iest"
+          ],
+          [
+            "expensive → the most expensive",
+            "uzun sifat"
+          ],
+          [
+            "good → the best / bad → the worst",
+            "noto'g'ri"
+          ],
+          [
+            "quick → quickly",
+            "ravish: -ly qo'shimchasi"
+          ]
+        ]
+      },
+      "triad": {
+        "aff": [
+          "This is the biggest city in the country.",
+          "She speaks the most clearly."
+        ],
+        "neg": [
+          "This isn't the biggest city in the country.",
+          "She doesn't speak the most clearly."
+        ],
+        "q": [
+          "Is this the biggest city in the country?",
+          "Who speaks the most clearly?"
+        ],
+        "short": [
+          "Yes, it is. / No, it isn't.",
+          "She does."
+        ]
+      },
+      "words": [
+        [
+          "quickly",
+          "tez",
+          "walk quickly"
+        ],
+        [
+          "slowly",
+          "sekin",
+          "speak slowly"
+        ],
+        [
+          "easily",
+          "osongina",
+          "do it easily"
+        ],
+        [
+          "carefully",
+          "ehtiyotkorlik bilan",
+          "drive carefully"
+        ],
+        [
+          "quietly",
+          "sekin, ovozsiz",
+          "speak quietly"
+        ],
+        [
+          "loudly",
+          "baland ovozda",
+          "talk loudly"
+        ],
+        [
+          "badly",
+          "yomon",
+          "do badly"
+        ],
+        [
+          "well",
+          "yaxshi",
+          "work well"
+        ],
+        [
+          "fast",
+          "tez",
+          "run fast"
+        ],
+        [
+          "hard",
+          "qattiq, zo'r berib",
+          "work hard"
+        ],
+        [
+          "almost",
+          "deyarli",
+          "almost ready"
+        ],
+        [
+          "enough",
+          "yetarli",
+          "good enough"
+        ],
+        [
+          "too",
+          "juda (haddan ortiq)",
+          "too expensive"
+        ],
+        [
+          "quite",
+          "ancha, ancha-muncha",
+          "quite cold"
+        ],
+        [
+          "rather",
+          "birmuncha",
+          "rather difficult"
+        ],
+        [
+          "especially",
+          "ayniqsa",
+          "especially in summer"
+        ],
+        [
+          "probably",
+          "ehtimol",
+          "probably true"
+        ],
+        [
+          "certainly",
+          "albatta",
+          "certainly not"
+        ],
+        [
+          "actually",
+          "aslida",
+          "actually, no"
+        ],
+        [
+          "finally",
+          "oxir-oqibat",
+          "finally finished"
+        ],
+        [
+          "suddenly",
+          "birdan",
+          "suddenly stopped"
+        ],
+        [
+          "immediately",
+          "darhol",
+          "call immediately"
+        ],
+        [
+          "exactly",
+          "aynan",
+          "exactly right"
+        ],
+        [
+          "together",
+          "birga",
+          "work together"
+        ],
+        [
+          "alone",
+          "yolg'iz",
+          "live alone"
+        ]
+      ],
+      "examples": [
+        {
+          "en": "Tashkent is the biggest city in Central Asia, and the metro is the fastest way to travel there.",
+          "uz": "Toshkent Markaziy Osiyodagi eng katta shahar va metro u yerda borishning eng tez usuli."
+        },
+        {
+          "en": "She speaks quietly, but she explains everything very clearly.",
+          "uz": "U sekin gapiradi, lekin hamma narsani juda aniq tushuntiradi."
+        },
+        {
+          "en": "This is the most expensive restaurant in the city, but the food is the best.",
+          "uz": "Bu shahardagi eng qimmat restoran, lekin ovqat eng yaxshisi."
+        },
+        {
+          "en": "He drives carefully and never goes too fast.",
+          "uz": "U ehtiyotkorlik bilan haydaydi va hech qachon juda tez yurmaydi."
+        },
+        {
+          "en": "They suddenly stopped and immediately called the police.",
+          "uz": "Ular birdan to'xtashdi va darhol politsiyaga qo'ng'iroq qilishdi."
+        },
+        {
+          "en": "I almost forgot your birthday — I'm really sorry.",
+          "uz": "Tug'ilgan kuningizni deyarli unutdim — juda kechirasiz."
+        },
+        {
+          "en": "Finally, we did the task together, and it wasn't hard at all.",
+          "uz": "Oxir-oqibat vazifani birga bajardik va bu umuman qiyin bo'lmadi."
+        },
+        {
+          "en": "It's quite cold today, and it's probably going to rain.",
+          "uz": "Bugun ancha sovuq va yomg'ir yog'ishi ehtimol."
+        }
+      ],
+      "street": {
+        "title": "Baholash",
+        "items": [
+          {
+            "en": "It's the best!",
+            "uz": "Bu eng zo'ri!"
+          },
+          {
+            "en": "That's the worst idea.",
+            "uz": "Bu eng yomon fikr."
+          },
+          {
+            "en": "He did it well.",
+            "uz": "U buni yaxshi bajardi."
+          },
+          {
+            "en": "Do it quickly, please.",
+            "uz": "Iltimos, tez qiling."
+          },
+          {
+            "en": "I'm almost ready.",
+            "uz": "Deyarli tayyorman."
+          }
+        ],
+        "note": "\"the best\" — good ning orttirma darajasi; \"well\" uning ravishi: <em>He is a good driver</em> / <em>He drives well</em>."
+      },
+      "dialog": {
+        "title": "Mini dialog · Eng tez yo'l",
+        "lines": [
+          {
+            "who": "A",
+            "en": "What's the fastest way to the airport?",
+            "uz": "Aeroportga eng tez yo'l qanday?"
+          },
+          {
+            "who": "B",
+            "en": "By metro, probably. It's the cheapest too.",
+            "uz": "Metro bo'lsa kerak. Eng arzoni ham."
+          },
+          {
+            "who": "A",
+            "en": "Is it the most comfortable?",
+            "uz": "Eng qulayimi?"
+          },
+          {
+            "who": "B",
+            "en": "No, a taxi is more comfortable, but it's the most expensive.",
+            "uz": "Yo'q, taksi qulayroq, lekin eng qimmati."
+          },
+          {
+            "who": "A",
+            "en": "OK, let's go by metro. We need to leave immediately.",
+            "uz": "Mayli, metroda boramiz. Darhol chiqishimiz kerak."
+          },
+          {
+            "who": "B",
+            "en": "I'm almost ready. Just give me a minute.",
+            "uz": "Deyarli tayyorman. Bir daqiqa bering."
+          }
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {
+            "prompt": "This is the ___ city in the country. (big)",
+            "answer": "This is the biggest city in the country."
+          },
+          {
+            "prompt": "She is the ___ student in the class. (good)",
+            "answer": "She is the best student in the class."
+          },
+          {
+            "prompt": "It's the ___ restaurant in the city. (expensive)",
+            "answer": "It's the most expensive restaurant in the city."
+          },
+          {
+            "prompt": "He speaks ___ . (quiet → ravish)",
+            "answer": "He speaks quietly."
+          },
+          {
+            "prompt": "She drives ___ . (careful → ravish)",
+            "answer": "She drives carefully."
+          }
+        ],
+        "translate": [
+          {
+            "uz": "Bu shahardagi eng katta bino.",
+            "en": "This is the biggest building in the city."
+          },
+          {
+            "uz": "U eng yaxshi talaba.",
+            "en": "He is the best student."
+          },
+          {
+            "uz": "Bu eng qimmat restoran.",
+            "en": "This is the most expensive restaurant."
+          },
+          {
+            "uz": "Ular darhol qo'ng'iroq qilishdi.",
+            "en": "They called immediately."
+          }
+        ],
+        "fix": [
+          {
+            "wrong": "This is the most big city.",
+            "right": "This is the biggest city.",
+            "why": "qisqa sifat → -est"
+          },
+          {
+            "wrong": "He is the bestest.",
+            "right": "He is the best.",
+            "why": "best allaqachon orttirma daraja"
+          },
+          {
+            "wrong": "She speaks quiet.",
+            "right": "She speaks quietly.",
+            "why": "ravish kerak: quietly"
+          }
+        ]
+      },
+      "tip": "Ravish va sifat farqi: <b>quiet</b> — sokin (sifat: <em>a quiet room</em>), <b>quietly</b> — sekin (ravish: <em>he speaks quietly</em>). \"He speaks quiet\" — xato."
+    },
+    {
+      "n": 39,
+      "title": "Kelasi zamon va pul: I will / I'll pay",
+      "theme": "Pul va katta sonlar",
+      "goal": "will orqali kelasi zamon, va'da va qarorni bildirishni o'rganasiz. Pul va xarid lug'ati.",
+      "frame": {
+        "name": "will + fe'l",
+        "formula": "I will help you.        → I'll help you.\nShe will call you tomorrow.\nWe won't be late.\nWill you come?   — Yes, I will.\nIt costs five hundred thousand — I'll pay in cash.",
+        "explain": "<p><b>will + o'zak fe'l</b> — kelasi zamon, va'da va hozirgi qaror. Qisqargan shakli <b>'ll</b>, inkori <b>won't</b>. Barcha shaxslar uchun bir xil: <em>I will, she will, they will</em>. Bu darsda katta sonlar va pul so'zlarini ham mustahkamlaymiz.</p>",
+        "table": [
+          [
+            "will + fe'l",
+            "I will help."
+          ],
+          [
+            "'ll",
+            "I'll help."
+          ],
+          [
+            "won't = will not",
+            "I won't be late."
+          ],
+          [
+            "savol",
+            "Will you come?"
+          ],
+          [
+            "katta sonlar",
+            "fifty, hundred, thousand, million, billion"
+          ]
+        ]
+      },
+      "triad": {
+        "aff": [
+          "I will help you.",
+          "She'll call you tomorrow."
+        ],
+        "neg": [
+          "I won't help you.",
+          "She won't call you tomorrow."
+        ],
+        "q": [
+          "Will you help me?",
+          "Will she call me tomorrow?"
+        ],
+        "short": [
+          "Yes, I will. / No, I won't.",
+          "Yes, she will. / No, she won't."
+        ]
+      },
+      "words": [
+        [
+          "thirty",
+          "o'ttiz",
+          "thirty days"
+        ],
+        [
+          "forty",
+          "qirq",
+          "forty minutes"
+        ],
+        [
+          "fifty",
+          "ellik",
+          "fifty thousand"
+        ],
+        [
+          "sixty",
+          "oltmish",
+          "sixty years"
+        ],
+        [
+          "seventy",
+          "yetmish",
+          "seventy percent"
+        ],
+        [
+          "eighty",
+          "sakson",
+          "eighty people"
+        ],
+        [
+          "ninety",
+          "to'qson",
+          "ninety dollars"
+        ],
+        [
+          "hundred",
+          "yuz",
+          "two hundred"
+        ],
+        [
+          "thousand",
+          "ming",
+          "ten thousand"
+        ],
+        [
+          "million",
+          "million",
+          "two million"
+        ],
+        [
+          "billion",
+          "milliard",
+          "one billion"
+        ],
+        [
+          "money",
+          "pul",
+          "save money"
+        ],
+        [
+          "cash",
+          "naqd pul",
+          "pay in cash"
+        ],
+        [
+          "card",
+          "karta",
+          "pay by card"
+        ],
+        [
+          "price",
+          "narx",
+          "a high price"
+        ],
+        [
+          "cheap",
+          "arzon",
+          "a cheap ticket"
+        ],
+        [
+          "expensive",
+          "qimmat",
+          "an expensive car"
+        ],
+        [
+          "discount",
+          "chegirma",
+          "a ten percent discount"
+        ],
+        [
+          "bill",
+          "hisob, chek",
+          "pay the bill"
+        ],
+        [
+          "wallet",
+          "hamyon",
+          "in my wallet"
+        ],
+        [
+          "receipt",
+          "chek (kvitansiya)",
+          "keep the receipt"
+        ],
+        [
+          "customer",
+          "mijoz",
+          "a happy customer"
+        ],
+        [
+          "refund",
+          "pulni qaytarish",
+          "ask for a refund"
+        ],
+        [
+          "debt",
+          "qarz",
+          "get into debt"
+        ],
+        [
+          "loan",
+          "kredit",
+          "a bank loan"
+        ]
+      ],
+      "examples": [
+        {
+          "en": "This phone costs four hundred thousand, and that one costs ninety.",
+          "uz": "Bu telefon to'rt yuz ming turadi, anavisi esa to'qson."
+        },
+        {
+          "en": "I'll pay in cash, and I'll keep the receipt.",
+          "uz": "Naqd pulda to'layman va chekni saqlab qo'yaman."
+        },
+        {
+          "en": "Will you pay by card or in cash?",
+          "uz": "Karta bilan to'laysizmi yoki naqd?"
+        },
+        {
+          "en": "There is a ten percent discount, so the price is lower than last year.",
+          "uz": "O'n foiz chegirma bor, shuning uchun narx o'tganga qaraganda past."
+        },
+        {
+          "en": "It will cost fifty thousand, and you can pay by card.",
+          "uz": "Ellik ming turadi, karta bilan to'lasangiz bo'ladi."
+        },
+        {
+          "en": "I need a loan from the bank; I don't want to get into debt.",
+          "uz": "Menga bankdan kredit kerak; qarzga botishni xohlamayman."
+        },
+        {
+          "en": "If the product is broken, the customer can ask for a refund.",
+          "uz": "Agar mahsulot buzuq bo'lsa, mijoz pulini qaytarishni so'rashi mumkin."
+        },
+        {
+          "en": "The company sold two million dollars of goods in sixty days.",
+          "uz": "Kompaniya oltmish kunda ikki million dollarlik mahsulot sotdi."
+        }
+      ],
+      "street": {
+        "title": "Pul haqida",
+        "items": [
+          {
+            "en": "How much is it all together?",
+            "uz": "Hammasi qancha?"
+          },
+          {
+            "en": "Can I pay by card?",
+            "uz": "Karta bilan to'lasam bo'ladimi?"
+          },
+          {
+            "en": "Keep the change.",
+            "uz": "Qaytimni o'zingizga oling."
+          },
+          {
+            "en": "I'll take it.",
+            "uz": "Buni olaman."
+          },
+          {
+            "en": "I'd like a refund.",
+            "uz": "Pulimni qaytarib olmoqchiman."
+          }
+        ],
+        "note": "\"I'll take it\" — xarid paytida \"bunisini olaman\" degan tabiiy ibora; \"Keep the change\" — qaytimni qoldirish."
+      },
+      "dialog": {
+        "title": "Mini dialog · Kassada",
+        "lines": [
+          {
+            "who": "A",
+            "en": "How much is it all together?",
+            "uz": "Hammasi qancha?"
+          },
+          {
+            "who": "B",
+            "en": "Three hundred thousand. Will you pay by card or in cash?",
+            "uz": "Uch yuz ming. Karta bilan to'laysizmi yoki naqd?"
+          },
+          {
+            "who": "A",
+            "en": "By card. Is there a discount?",
+            "uz": "Karta bilan. Chegirma bormi?"
+          },
+          {
+            "who": "B",
+            "en": "Yes, ten percent. And the price is the same all year.",
+            "uz": "Ha, o'n foiz. Va narx butun yil bir xil."
+          },
+          {
+            "who": "A",
+            "en": "Great. Can I have a receipt, please?",
+            "uz": "Zo'r. Chek bera olasizmi?"
+          },
+          {
+            "who": "B",
+            "en": "Of course. Here you are.",
+            "uz": "Albatta. Mana."
+          }
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {
+            "prompt": "I ___ help you. (will)",
+            "answer": "I will help you."
+          },
+          {
+            "prompt": "She ___ call you tomorrow. (will)",
+            "answer": "She will call you tomorrow."
+          },
+          {
+            "prompt": "We ___ be late. (inkor)",
+            "answer": "We won't be late."
+          },
+          {
+            "prompt": "___ you come? (Will)",
+            "answer": "Will you come?"
+          },
+          {
+            "prompt": "I'll pay in ___ . (naqd)",
+            "answer": "I'll pay in cash."
+          },
+          {
+            "prompt": "This phone ___ four hundred thousand. (cost)",
+            "answer": "This phone costs four hundred thousand."
+          }
+        ],
+        "translate": [
+          {
+            "uz": "Men sizga yordam beraman.",
+            "en": "I will help you."
+          },
+          {
+            "uz": "U ertaga qo'ng'iroq qiladi.",
+            "en": "She will call tomorrow."
+          },
+          {
+            "uz": "Biz kechikmaymiz.",
+            "en": "We won't be late."
+          },
+          {
+            "uz": "Karta bilan to'lasam bo'ladimi?",
+            "en": "Can I pay by card?"
+          }
+        ],
+        "fix": [
+          {
+            "wrong": "I will to help you.",
+            "right": "I will help you.",
+            "why": "will dan keyin to ishlatilmaydi"
+          },
+          {
+            "wrong": "She wills call you.",
+            "right": "She will call you.",
+            "why": "will hamma shaxsda bir xil"
+          },
+          {
+            "wrong": "I won't to be late.",
+            "right": "I won't be late.",
+            "why": "won't + o'zak fe'l"
+          }
+        ]
+      },
+      "tip": "Katta sonlar uchga bo'linadi: <b>1,000,000</b> — one million. O'zbekchada \"bir yarim million\" bo'lsa, inglizchada <em>one and a half million</em> yoki <em>1.5 million</em> deyiladi."
+    },
+    {
+      "n": 40,
+      "title": "Agar ... bo'lsa: if va when",
+      "theme": "Umumiy takrorlash",
+      "goal": "Birinchi shart gapni o'zlashtirasiz va butun kitobning asosiy strukturalarini birgalikda mashq qilasiz.",
+      "frame": {
+        "name": "If / when + Present, ... will",
+        "formula": "If it rains, I will stay at home.\nIf you need help, call me.\nWhen I finish work, I'll go home.\nIf I were you, I'd ...",
+        "explain": "<p>Birinchi shart gap: <b>if + Present Simple</b>, keyin <b>will</b> yoki buyruq. Muhim qoida: <b>if va when dan keyin will ishlatilmaydi</b>. Maslahat uchun esa <em>If I were you, I'd ...</em> strukturasidan foydalaning.</p>",
+        "table": [
+          [
+            "If + Present, will + fe'l",
+            "If it rains, I'll stay."
+          ],
+          [
+            "If + Present, buyruq",
+            "If you need help, call me."
+          ],
+          [
+            "When + Present",
+            "When I finish, I'll call."
+          ],
+          [
+            "if = agar / when = qachon",
+            "ma'no farqi"
+          ],
+          [
+            "If I were you, I'd ...",
+            "maslahat berish"
+          ]
+        ]
+      },
+      "triad": {
+        "aff": [
+          "If it rains, I will stay at home.",
+          "When she comes, we will eat."
+        ],
+        "neg": [
+          "If it doesn't rain, I won't stay at home.",
+          "When she doesn't come, we won't wait."
+        ],
+        "q": [
+          "What will you do if it rains?",
+          "Will you call me when you arrive?"
+        ],
+        "short": [
+          "I'll stay at home.",
+          "Yes, I will."
+        ]
+      },
+      "words": [
+        [
+          "maybe",
+          "balki",
+          "maybe tomorrow"
+        ],
+        [
+          "perhaps",
+          "ehtimol",
+          "perhaps later"
+        ],
+        [
+          "possible",
+          "mumkin",
+          "it's possible"
+        ],
+        [
+          "impossible",
+          "imkonsiz",
+          "almost impossible"
+        ],
+        [
+          "sure",
+          "ishonchi komil",
+          "I'm sure"
+        ],
+        [
+          "certain",
+          "aniq, ishonchli",
+          "absolutely certain"
+        ],
+        [
+          "different",
+          "boshqacha",
+          "a different idea"
+        ],
+        [
+          "same",
+          "bir xil",
+          "the same day"
+        ],
+        [
+          "similar",
+          "o'xshash",
+          "a similar problem"
+        ],
+        [
+          "another",
+          "yana bir",
+          "another way"
+        ],
+        [
+          "other",
+          "boshqa",
+          "other people"
+        ],
+        [
+          "both",
+          "ikkisi ham",
+          "both answers"
+        ],
+        [
+          "every",
+          "har bir",
+          "every day"
+        ],
+        [
+          "each",
+          "har biri",
+          "each student"
+        ],
+        [
+          "nothing",
+          "hech narsa",
+          "nothing new"
+        ],
+        [
+          "something",
+          "nimadir",
+          "something important"
+        ],
+        [
+          "anything",
+          "hech narsa (savol/inkor)",
+          "anything else"
+        ],
+        [
+          "everything",
+          "hamma narsa",
+          "everything is ready"
+        ],
+        [
+          "someone",
+          "kimdir",
+          "someone is here"
+        ],
+        [
+          "anyone",
+          "hech kim (savol/inkor)",
+          "anyone can join"
+        ],
+        [
+          "everyone",
+          "hamma",
+          "everyone knows"
+        ],
+        [
+          "nobody",
+          "hech kim",
+          "nobody came"
+        ],
+        [
+          "else",
+          "boshqa, yana",
+          "anything else"
+        ],
+        [
+          "somebody",
+          "kimdir",
+          "somebody called"
+        ],
+        [
+          "otherwise",
+          "aks holda",
+          "otherwise, no"
+        ]
+      ],
+      "examples": [
+        {
+          "en": "If it rains tomorrow, we will stay at home and watch a film.",
+          "uz": "Agar ertaga yomg'ir yog'sa, uyda qolamiz va film ko'ramiz."
+        },
+        {
+          "en": "If you need anything, just call me — I'm always ready to help.",
+          "uz": "Agar biror narsa kerak bo'lsa, menga qo'ng'iroq qiling — doim yordamga tayyorman."
+        },
+        {
+          "en": "When I finish this project, I will take a long holiday.",
+          "uz": "Bu loyihani tugatganimda uzoq ta'tilga chiqaman."
+        },
+        {
+          "en": "Maybe he will come, but I'm not sure — everything is possible.",
+          "uz": "Balki u keladi, lekin ishonchim komil emas — hamma narsa mumkin."
+        },
+        {
+          "en": "Everyone has a different opinion, but we are working together on the same goal.",
+          "uz": "Har kimning fikri boshqacha, lekin biz bir maqsad uchun birga ishlaymiz."
+        },
+        {
+          "en": "If something is impossible, try another way — there is always a solution.",
+          "uz": "Agar biror narsa imkonsiz bo'lsa, boshqa usulni sinab ko'ring — har doim yechim bor."
+        },
+        {
+          "en": "Nobody knows the answer, so each of us will check one part.",
+          "uz": "Hech kim javobni bilmaydi, shuning uchun har birimiz bir qismini tekshiramiz."
+        },
+        {
+          "en": "If I were you, I would ask someone else — you can't do everything alone.",
+          "uz": "Sizning o'rningizda bo'lsam, boshqa birovdan so'rardim — hamma narsani yolg'iz qila olmaysiz."
+        }
+      ],
+      "street": {
+        "title": "Kelishuv",
+        "items": [
+          {
+            "en": "If you want, we can meet later.",
+            "uz": "Xohlasangiz, keyinroq uchrashamiz."
+          },
+          {
+            "en": "I'm not sure yet.",
+            "uz": "Hali ishonchim komil emas."
+          },
+          {
+            "en": "Let me know.",
+            "uz": "Xabar bering."
+          },
+          {
+            "en": "See what happens.",
+            "uz": "Nima bo'lishini ko'ramiz."
+          },
+          {
+            "en": "Either way, it's fine.",
+            "uz": "Qanday bo'lsa ham, yaxshi."
+          }
+        ],
+        "note": "\"Let me know\" — \"xabar bering\", eng ko'p ishlatiladigan iboralardan biri; \"Either way\" — \"qanday bo'lsa ham\"."
+      },
+      "dialog": {
+        "title": "Mini dialog · Uchrashuv",
+        "lines": [
+          {
+            "who": "A",
+            "en": "Will you come to the meeting tomorrow?",
+            "uz": "Ertaga yig'ilishga kelasizmi?"
+          },
+          {
+            "who": "B",
+            "en": "Maybe. If my train arrives on time, I'll be there.",
+            "uz": "Balki. Agar poyezdim o'z vaqtida kelsa, bo'laman."
+          },
+          {
+            "who": "A",
+            "en": "When will you know?",
+            "uz": "Qachon aniq bo'ladi?"
+          },
+          {
+            "who": "B",
+            "en": "I'll call you in the morning. If I don't call, it means I'm coming.",
+            "uz": "Ertalab qo'ng'iroq qilaman. Agar qo'ng'iroq qilmasam, kelaman degani."
+          },
+          {
+            "who": "A",
+            "en": "OK. And if nobody comes?",
+            "uz": "Mayli. Hech kim kelmasa-chi?"
+          },
+          {
+            "who": "B",
+            "en": "Then we'll do it online — everything is possible these days.",
+            "uz": "Unda onlayn qilamiz — hozir hamma narsa mumkin."
+          }
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {
+            "prompt": "If it ___ , I will stay at home. (rain)",
+            "answer": "If it rains, I will stay at home."
+          },
+          {
+            "prompt": "If you need help, ___ me. (call)",
+            "answer": "If you need help, call me."
+          },
+          {
+            "prompt": "When I ___ work, I'll go home. (finish)",
+            "answer": "When I finish work, I'll go home."
+          },
+          {
+            "prompt": "If he comes, we ___ eat together. (will)",
+            "answer": "If he comes, we will eat together."
+          },
+          {
+            "prompt": "I'm not ___ about it. (sure)",
+            "answer": "I'm not sure about it."
+          }
+        ],
+        "translate": [
+          {
+            "uz": "Agar yomg'ir yog'sa, uyda qolaman.",
+            "en": "If it rains, I will stay at home."
+          },
+          {
+            "uz": "Agar yordam kerak bo'lsa, qo'ng'iroq qiling.",
+            "en": "If you need help, call me."
+          },
+          {
+            "uz": "Ishni tugatganimda uyga ketaman.",
+            "en": "When I finish work, I will go home."
+          },
+          {
+            "uz": "Balki u keladi.",
+            "en": "Maybe he will come."
+          }
+        ],
+        "fix": [
+          {
+            "wrong": "If it will rain, I will stay.",
+            "right": "If it rains, I will stay.",
+            "why": "if dan keyin will ishlatilmaydi"
+          },
+          {
+            "wrong": "If I will be you...",
+            "right": "If I were you...",
+            "why": "maslahat strukturasida were"
+          },
+          {
+            "wrong": "When I will finish, I'll call.",
+            "right": "When I finish, I'll call.",
+            "why": "when dan keyin ham Present Simple"
+          }
+        ]
+      },
+      "tip": "Bu bilan 40 struktura tugadi. Endi eng muhim mashq: har bir struktura bilan <b>o'zingiz haqingizda</b> bitta gap tuzing. Misol: <em>If I have time tomorrow, I'll read ten pages.</em>"
+    }
+  ]
+}

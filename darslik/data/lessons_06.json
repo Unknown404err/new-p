@@ -1,0 +1,1681 @@
+{
+  "lessons": [
+    {
+      "n": 26,
+      "title": "Mening kunim: I get up at seven",
+      "theme": "Fe'llar II — kundalik hayot",
+      "goal": "Kun tartibingizni gapirib berishni o'rganasiz: 25 ta kundalik fe'l va Present Simple + vaqt.",
+      "frame": {
+        "name": "Present Simple + kun tartibi",
+        "formula": "I get up at seven.\nShe gets up at six.\nThen I wash my face and put on my clothes.\nI don't work on Sunday.",
+        "explain": "<p>Kun tartibi — Present Simple uchun eng yaxshi mavzu, chunki har kuni bir xil ish takrorlanadi. Fe'llar odatda <b>phrasal</b> bo'ladi: <em>get up</em> (turmoq), <em>put on</em> (kiyib olmoq), <em>take off</em> (yechmoq). Ularni bo'laklarga ajratmasdan, birikma sifatida yodlang.</p>",
+        "table": [
+          [
+            "get up / wake up",
+            "turmoq / uyg'onmoq"
+          ],
+          [
+            "put on / take off",
+            "kiyib olmoq / yechmoq"
+          ],
+          [
+            "wear",
+            "kiyib yurmoq"
+          ],
+          [
+            "have breakfast / lunch / dinner",
+            "nonushta / tushlik / kechki ovqat"
+          ],
+          [
+            "go to bed",
+            "uxlashga yotmoq"
+          ]
+        ]
+      },
+      "triad": {
+        "aff": [
+          "I get up at seven.",
+          "She wears a uniform at work."
+        ],
+        "neg": [
+          "I don't get up at seven.",
+          "She doesn't wear a uniform at work."
+        ],
+        "q": [
+          "Do you get up at seven?",
+          "Does she wear a uniform at work?"
+        ],
+        "short": [
+          "Yes, I do. / No, I don't.",
+          "Yes, she does. / No, she doesn't."
+        ]
+      },
+      "words": [
+        [
+          "get up",
+          "turmoq (karavotdan)",
+          "get up early"
+        ],
+        [
+          "wake",
+          "uyg'onmoq",
+          "wake up at six"
+        ],
+        [
+          "wash",
+          "yuvmoq",
+          "wash your hands"
+        ],
+        [
+          "shave",
+          "soqol olmoq",
+          "shave every morning"
+        ],
+        [
+          "wear",
+          "kiyib yurmoq",
+          "wear a suit"
+        ],
+        [
+          "put on",
+          "kiyib olmoq",
+          "put on a coat"
+        ],
+        [
+          "take off",
+          "yechmoq",
+          "take off your shoes"
+        ],
+        [
+          "sleep",
+          "uxlamoq",
+          "sleep eight hours"
+        ],
+        [
+          "eat",
+          "yemoq",
+          "eat breakfast"
+        ],
+        [
+          "clean",
+          "tozalamoq",
+          "clean the room"
+        ],
+        [
+          "cook",
+          "ovqat pishirmoq",
+          "cook dinner"
+        ],
+        [
+          "bake",
+          "non/tort yopmoq",
+          "bake bread"
+        ],
+        [
+          "live",
+          "yashamoq",
+          "live in Tashkent"
+        ],
+        [
+          "work",
+          "ishlamoq",
+          "work at an office"
+        ],
+        [
+          "study",
+          "o'qimoq",
+          "study English"
+        ],
+        [
+          "learn",
+          "o'rganmoq",
+          "learn new words"
+        ],
+        [
+          "play",
+          "o'ynamoq",
+          "play football"
+        ],
+        [
+          "walk",
+          "yurmoq",
+          "walk to work"
+        ],
+        [
+          "run",
+          "yugurmoq",
+          "run in the park"
+        ],
+        [
+          "sit",
+          "o'tirmoq",
+          "sit down"
+        ],
+        [
+          "stand",
+          "turmoq",
+          "stand up"
+        ],
+        [
+          "open",
+          "ochmoq",
+          "open the window"
+        ],
+        [
+          "close",
+          "yopmoq",
+          "close the door"
+        ],
+        [
+          "watch",
+          "tomosha qilmoq",
+          "watch TV"
+        ],
+        [
+          "keep",
+          "saqlamoq",
+          "keep it in the fridge"
+        ]
+      ],
+      "examples": [
+        {
+          "en": "I get up at seven, wash my face and put on my clothes.",
+          "uz": "Yettida turaman, yuzimni yuvaman va kiyinaman."
+        },
+        {
+          "en": "She wakes up early, drinks a cup of coffee and starts work at nine.",
+          "uz": "U erta uyg'onadi, bir piyola qahva ichadi va to'qqizda ishni boshlaydi."
+        },
+        {
+          "en": "He doesn't shave every day, and he doesn't wear a tie at work.",
+          "uz": "U har kuni soqol olmaydi va ishda galstuk taqmaydi."
+        },
+        {
+          "en": "We eat together in the evening and then walk in the park.",
+          "uz": "Kechqurun birga ovqatlanamiz, keyin bog'da yuramiz."
+        },
+        {
+          "en": "My mother cooks and bakes on Sundays, and we keep the food in the fridge.",
+          "uz": "Onam yakshanba kunlari ovqat pishiradi va non yopadi, ovqatni muzlatgichda saqlaymiz."
+        },
+        {
+          "en": "Take off your shoes, sit down and open your book, please.",
+          "uz": "Iltimos, oyoq kiyimingizni yeching, o'tiring va kitobingizni oching."
+        },
+        {
+          "en": "They study at the university and work in a shop at the weekend.",
+          "uz": "Ular universitetda o'qiydi va dam olish kunlari do'konda ishlaydi."
+        },
+        {
+          "en": "He runs in the morning, and his sister plays tennis after work.",
+          "uz": "U ertalab yuguradi, singlisi esa ishdan keyin tennis o'ynaydi."
+        }
+      ],
+      "street": {
+        "title": "Kundalik hayot",
+        "items": [
+          {
+            "en": "I'm off to work.",
+            "uz": "Ishga ketyapman."
+          },
+          {
+            "en": "I'm on my way.",
+            "uz": "Yo'ldaman."
+          },
+          {
+            "en": "I overslept.",
+            "uz": "Uxlab qoldim."
+          },
+          {
+            "en": "I'll be right back.",
+            "uz": "Hozir qaytaman."
+          },
+          {
+            "en": "Let's call it a day.",
+            "uz": "Keling, bugungi ishni tugatamiz."
+          }
+        ],
+        "note": "\"I'm off to work\" — \"ishga ketyapman\" (norasmiy); \"Let's call it a day\" — ishni tugatishni taklif qilish."
+      },
+      "dialog": {
+        "title": "Mini dialog · Kun tartibi",
+        "lines": [
+          {
+            "who": "A",
+            "en": "What time do you get up?",
+            "uz": "Soat nechada turasiz?"
+          },
+          {
+            "who": "B",
+            "en": "At six. I run for twenty minutes, then I wash and have breakfast.",
+            "uz": "Oltida. Yigirma daqiqa yuguraman, keyin yuvinaman va nonushta qilaman."
+          },
+          {
+            "who": "A",
+            "en": "Do you cook breakfast yourself?",
+            "uz": "Nonushtani o'zingiz pishirasizmi?"
+          },
+          {
+            "who": "B",
+            "en": "Yes, I cook eggs and make tea. My wife bakes bread on Sundays.",
+            "uz": "Ha, tuxum pishiraman va choy qilaman. Xotinim yakshanba kuni non yopadi."
+          },
+          {
+            "who": "A",
+            "en": "And what time do you start work?",
+            "uz": "Ishni soat nechada boshlaysiz?"
+          },
+          {
+            "who": "B",
+            "en": "At nine. I open the office and check my email.",
+            "uz": "To'qqizda. Ofisni ochaman va pochtamni tekshiraman."
+          }
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {
+            "prompt": "She ___ up at six. (get)",
+            "answer": "She gets up at six."
+          },
+          {
+            "prompt": "I ___ my face every morning. (wash)",
+            "answer": "I wash my face every morning."
+          },
+          {
+            "prompt": "He ___ a suit at work. (wear)",
+            "answer": "He wears a suit at work."
+          },
+          {
+            "prompt": "They ___ work on Sunday. (inkor)",
+            "answer": "They don't work on Sunday."
+          },
+          {
+            "prompt": "___ you cook dinner? (do / does)",
+            "answer": "Do you cook dinner?"
+          }
+        ],
+        "translate": [
+          {
+            "uz": "Men yettida turaman.",
+            "en": "I get up at seven."
+          },
+          {
+            "uz": "U (ayol) har kuni qahva ichadi.",
+            "en": "She drinks coffee every day."
+          },
+          {
+            "uz": "Kiyimingizni yeching va o'tiring.",
+            "en": "Take off your coat and sit down."
+          },
+          {
+            "uz": "Ular dam olish kunlari ishlamaydi.",
+            "en": "They don't work at the weekend."
+          }
+        ],
+        "fix": [
+          {
+            "wrong": "He get up at six.",
+            "right": "He gets up at six.",
+            "why": "he → gets"
+          },
+          {
+            "wrong": "She don't wear a tie.",
+            "right": "She doesn't wear a tie.",
+            "why": "she → doesn't"
+          },
+          {
+            "wrong": "Do he cook dinner?",
+            "right": "Does he cook dinner?",
+            "why": "he → does"
+          }
+        ]
+      },
+      "tip": "<b>wake up</b> — uyg'onmoq (ko'z ochish), <b>get up</b> — turmoq (karavotdan chiqish). <b>put on</b> — kiyib olmoq (harakat), <b>wear</b> — kiyib yurmoq (holat): <em>I put on my coat</em> / <em>I wear a coat in winter</em>."
+    },
+    {
+      "n": 27,
+      "title": "Xohish va iltimos: I want to ...",
+      "theme": "Fe'llar III — istak va his",
+      "goal": "Xohish, umid, qaror va minnatdorchilikni bildirishni o'rganasiz: want to, would like to, enjoy + V-ing.",
+      "frame": {
+        "name": "want to / would like to / enjoy + V-ing",
+        "formula": "I want to ask you a question.\nShe wants to buy a new phone.\nI'd like to thank you.\nI like reading books.",
+        "explain": "<p><b>want, need, decide, try, hope</b> fe'llaridan keyin <b>to + fe'l</b> keladi. <b>enjoy, like, hate</b> dan keyin esa <b>fe'l + ing</b>. Xushmuomala xohish uchun <b>would like to</b> ishlatiladi: <em>I'd like to ask</em>.</p>",
+        "table": [
+          [
+            "want / need + to",
+            "I want to sleep."
+          ],
+          [
+            "decide / try / hope + to",
+            "I hope to see you."
+          ],
+          [
+            "would like to",
+            "I'd like to ask."
+          ],
+          [
+            "enjoy / like + V-ing",
+            "I enjoy reading."
+          ],
+          [
+            "thank / excuse",
+            "Thank you. Excuse me."
+          ]
+        ]
+      },
+      "triad": {
+        "aff": [
+          "I want to ask a question.",
+          "She wants to learn English."
+        ],
+        "neg": [
+          "I don't want to ask a question.",
+          "She doesn't want to learn English."
+        ],
+        "q": [
+          "Do you want to ask a question?",
+          "Does she want to learn English?"
+        ],
+        "short": [
+          "Yes, I do. / No, I don't.",
+          "Yes, she does. / No, she doesn't."
+        ]
+      },
+      "words": [
+        [
+          "want",
+          "xohlamoq",
+          "want to go"
+        ],
+        [
+          "like",
+          "yoqtirmoq",
+          "like reading"
+        ],
+        [
+          "wish",
+          "tilamoq",
+          "wish you luck"
+        ],
+        [
+          "dream",
+          "orzu qilmoq",
+          "dream of travelling"
+        ],
+        [
+          "hope",
+          "umid qilmoq",
+          "hope to see you"
+        ],
+        [
+          "expect",
+          "kutmoq, umid qilmoq",
+          "expect a call"
+        ],
+        [
+          "wait",
+          "kutmoq",
+          "wait for me"
+        ],
+        [
+          "enjoy",
+          "zavqlanmoq",
+          "enjoy the film"
+        ],
+        [
+          "feel",
+          "his qilmoq",
+          "feel good"
+        ],
+        [
+          "believe",
+          "ishonmoq",
+          "believe in people"
+        ],
+        [
+          "thank",
+          "minnatdorchilik bildirmoq",
+          "thank you for your help"
+        ],
+        [
+          "excuse",
+          "uzr so'ramoq",
+          "excuse me"
+        ],
+        [
+          "remember",
+          "eslab qolmoq",
+          "remember his name"
+        ],
+        [
+          "remind",
+          "eslatmoq",
+          "remind me later"
+        ],
+        [
+          "forget",
+          "unutmoq",
+          "forget the password"
+        ],
+        [
+          "forgive",
+          "kechirmoq",
+          "forgive me"
+        ],
+        [
+          "try",
+          "urinmoq, harakat qilmoq",
+          "try again"
+        ],
+        [
+          "decide",
+          "qaror qilmoq",
+          "decide now"
+        ],
+        [
+          "choose",
+          "tanlamoq",
+          "choose a colour"
+        ],
+        [
+          "agree",
+          "rozilik bildirmoq",
+          "agree with you"
+        ],
+        [
+          "appreciate",
+          "qadrlamoq",
+          "appreciate your help"
+        ],
+        [
+          "approve",
+          "ma'qullamoq",
+          "approve the plan"
+        ],
+        [
+          "persuade",
+          "ishontirmoq",
+          "persuade a client"
+        ],
+        [
+          "introduce",
+          "tanishtirmoq",
+          "introduce a friend"
+        ],
+        [
+          "explain",
+          "tushuntirmoq",
+          "explain the rule"
+        ]
+      ],
+      "examples": [
+        {
+          "en": "I want to ask you a question about the project.",
+          "uz": "Sizga loyiha haqida bir savol bermoqchiman."
+        },
+        {
+          "en": "She wants to learn English because she hopes to work abroad.",
+          "uz": "U ingliz tilini o'rganmoqchi, chunki chet elda ishlashga umid qiladi."
+        },
+        {
+          "en": "I'd like to thank you for your help.",
+          "uz": "Yordamingiz uchun sizga minnatdorchilik bildirmoqchiman."
+        },
+        {
+          "en": "Excuse me, I don't remember your name — can you remind me?",
+          "uz": "Kechirasiz, ismingizni eslay olmayapman — eslatib yubora olasizmi?"
+        },
+        {
+          "en": "My sister dreams of a big house, and she hopes to buy one next year.",
+          "uz": "Singlim katta uyni orzu qiladi va kelasi yil sotib olishga umid qiladi."
+        },
+        {
+          "en": "We enjoy watching films together, and my brother likes cooking.",
+          "uz": "Biz birga film ko'rishdan zavqlanamiz, akam esa ovqat pishirishni yoqtiradi."
+        },
+        {
+          "en": "He persuaded me to stay, and I agreed with him.",
+          "uz": "U meni qolishga ishontirdi va men u bilan rozi bo'ldim."
+        },
+        {
+          "en": "Let me introduce my colleague and explain our idea.",
+          "uz": "Hamkasbimni tanishtiray va g'oyamizni tushuntiraymi."
+        }
+      ],
+      "street": {
+        "title": "Istak va iltimos",
+        "items": [
+          {
+            "en": "I'd like to ask you something.",
+            "uz": "Sizdan bir narsa so'ramoqchiman."
+          },
+          {
+            "en": "Can I have a word?",
+            "uz": "Bir gap gaplashsak bo'ladimi?"
+          },
+          {
+            "en": "I wish you good luck.",
+            "uz": "Sizga omad tilayman."
+          },
+          {
+            "en": "Let me introduce myself.",
+            "uz": "O'zimni tanishtiray."
+          },
+          {
+            "en": "Please forgive me.",
+            "uz": "Iltimos, kechiring."
+          }
+        ],
+        "note": "\"Can I have a word?\" — \"ikki og'iz gap gaplashsak bo'ladimi?\"; norasmiy suhbatda juda ko'p ishlatiladi."
+      },
+      "dialog": {
+        "title": "Mini dialog · Yangi loyiha",
+        "lines": [
+          {
+            "who": "A",
+            "en": "Excuse me, can I ask you a question?",
+            "uz": "Kechirasiz, bir savol bersam bo'ladimi?"
+          },
+          {
+            "who": "B",
+            "en": "Sure, go ahead.",
+            "uz": "Albatta, marhamat."
+          },
+          {
+            "who": "A",
+            "en": "I want to introduce myself. My name is Aziz, I'm the new designer.",
+            "uz": "O'zimni tanishtirmoqchiman. Men Aziz, yangi dizaynerman."
+          },
+          {
+            "who": "B",
+            "en": "Nice to meet you! Do you want to explain your idea at the meeting?",
+            "uz": "Tanishganimdan xursandman! G'oyangizni yig'ilishda tushuntirmoqchimisiz?"
+          },
+          {
+            "who": "A",
+            "en": "Yes, I'd like to show some examples.",
+            "uz": "Ha, bir nechta misol ko'rsatmoqchiman."
+          },
+          {
+            "who": "B",
+            "en": "Great. I hope the team agrees with us.",
+            "uz": "Zo'r. Jamoa biz bilan rozi bo'ladi deb umid qilaman."
+          }
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {
+            "prompt": "I want ___ ask a question. (to / —)",
+            "answer": "I want to ask a question."
+          },
+          {
+            "prompt": "She wants ___ learn English. (to / —)",
+            "answer": "She wants to learn English."
+          },
+          {
+            "prompt": "I enjoy ___ . (read / reading)",
+            "answer": "I enjoy reading."
+          },
+          {
+            "prompt": "He decided ___ stay. (to / —)",
+            "answer": "He decided to stay."
+          },
+          {
+            "prompt": "I'd like ___ thank you. (to / —)",
+            "answer": "I'd like to thank you."
+          }
+        ],
+        "translate": [
+          {
+            "uz": "Sizdan bir savol bermoqchiman.",
+            "en": "I want to ask you a question."
+          },
+          {
+            "uz": "U (ayol) ingliz tilini o'rganmoqchi.",
+            "en": "She wants to learn English."
+          },
+          {
+            "uz": "Men o'qishdan zavqlanaman.",
+            "en": "I enjoy reading."
+          },
+          {
+            "uz": "Iltimos, kechiring.",
+            "en": "Please forgive me."
+          }
+        ],
+        "fix": [
+          {
+            "wrong": "I want ask you.",
+            "right": "I want to ask you.",
+            "why": "want + to + fe'l"
+          },
+          {
+            "wrong": "She enjoy reading.",
+            "right": "She enjoys reading.",
+            "why": "she → enjoys"
+          },
+          {
+            "wrong": "I want that you help me.",
+            "right": "I want you to help me.",
+            "why": "want + kim + to + fe'l"
+          }
+        ]
+      },
+      "tip": "<b>want / need / decide / hope / try</b> + to + fe'l, <b>enjoy / like / hate</b> + fe'l-ing. \"I want that you help me\" — o'zbekchadan so'zma-so'z tarjima, xato. To'g'risi: <em>I want you to help me</em>."
+    },
+    {
+      "n": 28,
+      "title": "Kecha nima qildingiz? Past Simple (-ed)",
+      "theme": "Fe'llar IV — ijtimoiy hayot",
+      "goal": "O'tgan zamonda gapirishni boshlaysiz: to'g'ri fe'llar (-ed) va did / didn't.",
+      "frame": {
+        "name": "Past Simple: to'g'ri fe'llar",
+        "formula": "I worked yesterday.\nShe visited her parents.\nWe didn't stay at home.\nDid you call him?",
+        "explain": "<p>O'tgan zamonda to'g'ri fe'llarga <b>-ed</b> qo'shiladi. Muhim qoida: <b>did</b> paydo bo'lsa (savol yoki inkorda), fe'l o'zak shaklga qaytadi: <em>Did you work?</em>, <em>I didn't work</em>.</p>",
+        "table": [
+          [
+            "+ed",
+            "work → worked"
+          ],
+          [
+            "+d (e bilan tugasa)",
+            "like → liked"
+          ],
+          [
+            "-y → -ied",
+            "study → studied"
+          ],
+          [
+            "qisqa unli + undosh",
+            "stop → stopped"
+          ],
+          [
+            "savol / inkor",
+            "Did you work? / didn't work"
+          ]
+        ]
+      },
+      "triad": {
+        "aff": [
+          "I called my friend yesterday.",
+          "She visited her parents."
+        ],
+        "neg": [
+          "I didn't call my friend yesterday.",
+          "She didn't visit her parents."
+        ],
+        "q": [
+          "Did you call your friend?",
+          "Did she visit her parents?"
+        ],
+        "short": [
+          "Yes, I did. / No, I didn't.",
+          "Yes, she did. / No, she didn't."
+        ]
+      },
+      "words": [
+        [
+          "meet",
+          "uchrashmoq",
+          "meet a friend"
+        ],
+        [
+          "visit",
+          "tashrif buyurmoq",
+          "visit parents"
+        ],
+        [
+          "call",
+          "qo'ng'iroq qilmoq",
+          "call me later"
+        ],
+        [
+          "order",
+          "buyurtma bermoq",
+          "order pizza"
+        ],
+        [
+          "pay",
+          "to'lamoq",
+          "pay by card"
+        ],
+        [
+          "buy",
+          "sotib olmoq",
+          "buy a ticket"
+        ],
+        [
+          "spend",
+          "sarflamoq",
+          "spend money"
+        ],
+        [
+          "lend",
+          "qarz bermoq",
+          "lend me a pen"
+        ],
+        [
+          "send",
+          "yubormoq",
+          "send a message"
+        ],
+        [
+          "bring",
+          "olib kelmoq",
+          "bring some water"
+        ],
+        [
+          "receive",
+          "qabul qilib olmoq",
+          "receive a letter"
+        ],
+        [
+          "provide",
+          "ta'minlamoq",
+          "provide a service"
+        ],
+        [
+          "offer",
+          "taklif qilmoq",
+          "offer help"
+        ],
+        [
+          "help",
+          "yordam bermoq",
+          "help a friend"
+        ],
+        [
+          "collect",
+          "yig'moq",
+          "collect money"
+        ],
+        [
+          "show",
+          "ko'rsatmoq",
+          "show me the way"
+        ],
+        [
+          "describe",
+          "tasvirlamoq",
+          "describe the place"
+        ],
+        [
+          "complain",
+          "shikoyat qilmoq",
+          "complain about noise"
+        ],
+        [
+          "argue",
+          "bahslashmoq",
+          "argue about money"
+        ],
+        [
+          "solve",
+          "hal qilmoq",
+          "solve a problem"
+        ],
+        [
+          "count",
+          "sanamoq",
+          "count the money"
+        ],
+        [
+          "check",
+          "tekshirmoq",
+          "check the email"
+        ],
+        [
+          "travel",
+          "sayohat qilmoq",
+          "travel by train"
+        ],
+        [
+          "worry",
+          "tashvishlanmoq",
+          "don't worry"
+        ],
+        [
+          "joke",
+          "hazillashmoq",
+          "joke about it"
+        ]
+      ],
+      "examples": [
+        {
+          "en": "Yesterday I called my friend, and we met in a cafe near the office.",
+          "uz": "Kecha do'stimga qo'ng'iroq qildim va ofis yaqinidagi kafeda uchrashdik."
+        },
+        {
+          "en": "She visited her parents at the weekend and helped them in the garden.",
+          "uz": "U dam olish kunlari ota-onasinikiga bordi va bog'da yordam berdi."
+        },
+        {
+          "en": "We ordered pizza, paid by card and watched a film at home.",
+          "uz": "Biz pitsa buyurtma qildik, karta bilan to'ladik va uyda film ko'rdik."
+        },
+        {
+          "en": "I didn't buy anything because the shop was closed.",
+          "uz": "Hech narsa sotib olmadim, chunki do'kon yopiq edi."
+        },
+        {
+          "en": "He travelled to Samarkand last month and showed me a lot of photos.",
+          "uz": "U o'tgan oy Samarqandga sayohat qildi va menga ko'p surat ko'rsatdi."
+        },
+        {
+          "en": "Did you receive my letter, or did you only check the email?",
+          "uz": "Xatimni oldingizmi yoki faqat elektron pochtani tekshirdingizmi?"
+        },
+        {
+          "en": "The company provided a car and offered a good salary.",
+          "uz": "Kompaniya mashina berdi va yaxshi maosh taklif qildi."
+        },
+        {
+          "en": "They argued about the plan and didn't solve the problem.",
+          "uz": "Ular reja haqida bahslashdilar va muammoni hal qilmadilar."
+        }
+      ],
+      "street": {
+        "title": "Kecha nima qildingiz?",
+        "items": [
+          {
+            "en": "What did you do yesterday?",
+            "uz": "Kecha nima qildingiz?"
+          },
+          {
+            "en": "Nothing special.",
+            "uz": "Hech qanday alohida narsa."
+          },
+          {
+            "en": "I stayed at home.",
+            "uz": "Uyda qoldim."
+          },
+          {
+            "en": "It was fun.",
+            "uz": "Qiziqarli bo'ldi."
+          },
+          {
+            "en": "I missed you.",
+            "uz": "Sizni sog'indim."
+          }
+        ],
+        "note": "\"Nothing special\" — \"hech qanday alohida narsa emas\", savolga eng tabiiy qisqa javoblardan biri."
+      },
+      "dialog": {
+        "title": "Mini dialog · Dam olish kuni",
+        "lines": [
+          {
+            "who": "A",
+            "en": "What did you do at the weekend?",
+            "uz": "Dam olish kunlari nima qildingiz?"
+          },
+          {
+            "who": "B",
+            "en": "I visited my parents and helped my father in the garage.",
+            "uz": "Ota-onamnikiga bordim va dadamga garajda yordam berdim."
+          },
+          {
+            "who": "A",
+            "en": "Did you travel anywhere?",
+            "uz": "Biror joyga sayohat qildingizmi?"
+          },
+          {
+            "who": "B",
+            "en": "No, I didn't. I stayed at home and watched films.",
+            "uz": "Yo'q. Uyda qoldim va film ko'rdim."
+          },
+          {
+            "who": "A",
+            "en": "Did you call your brother?",
+            "uz": "Akangizga qo'ng'iroq qildingizmi?"
+          },
+          {
+            "who": "B",
+            "en": "Yes, we talked for an hour and joked a lot.",
+            "uz": "Ha, bir soat gaplashdik va ko'p hazillashdik."
+          }
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {
+            "prompt": "I ___ my friend yesterday. (call)",
+            "answer": "I called my friend yesterday."
+          },
+          {
+            "prompt": "She ___ her parents. (visit)",
+            "answer": "She visited her parents."
+          },
+          {
+            "prompt": "We ___ at home. (not / stay)",
+            "answer": "We didn't stay at home."
+          },
+          {
+            "prompt": "___ you receive my letter? (Did)",
+            "answer": "Did you receive my letter?"
+          },
+          {
+            "prompt": "He ___ his car last week. (wash)",
+            "answer": "He washed his car last week."
+          }
+        ],
+        "translate": [
+          {
+            "uz": "Kecha do'stimga qo'ng'iroq qildim.",
+            "en": "I called my friend yesterday."
+          },
+          {
+            "uz": "U (ayol) ota-onasinikiga bordi.",
+            "en": "She visited her parents."
+          },
+          {
+            "uz": "Biz uyda qoldik.",
+            "en": "We stayed at home."
+          },
+          {
+            "uz": "Siz xatimni oldingizmi?",
+            "en": "Did you receive my letter?"
+          }
+        ],
+        "fix": [
+          {
+            "wrong": "I did called him.",
+            "right": "I called him.",
+            "why": "tasdiq gapda did va -ed birga kelmaydi"
+          },
+          {
+            "wrong": "Did you called him?",
+            "right": "Did you call him?",
+            "why": "did dan keyin o'zak shakl"
+          },
+          {
+            "wrong": "She studyed English.",
+            "right": "She studied English.",
+            "why": "undosh + y → -ied"
+          }
+        ]
+      },
+      "tip": "<b>did</b> ishlatilganda fe'l o'zak shaklda qoladi: <em>Did you work?</em> / <em>I didn't work.</em> Faqat tasdiq gapda <b>-ed</b> qo'shiladi: <em>I worked</em>."
+    },
+    {
+      "n": 29,
+      "title": "Noto'g'ri fe'llar: I went, I saw, I bought",
+      "theme": "Fe'llar V — harakat",
+      "goal": "Eng kerakli noto'g'ri fe'llarning 2-shaklini o'zlashtirasiz va harakat fe'llari lug'atini kengaytirasiz.",
+      "frame": {
+        "name": "Past Simple: noto'g'ri fe'llar",
+        "formula": "go → went        I went home.\nbuy → bought     She bought a car.\nsee → saw        We saw a film.\ninkor: He didn't go home.",
+        "explain": "<p>Noto'g'ri fe'llar <b>-ed</b> olmaydi — ularning o'z 2-shakli bor. Ularni jadval bo'lib yodlash eng samarali usul. Inkor va savolda esa hammasi bir xil: <b>didn't + o'zak</b>, <b>Did ... + o'zak</b>.</p>",
+        "table": [
+          [
+            "become → became",
+            "bo'ldi"
+          ],
+          [
+            "begin → began",
+            "boshlandi"
+          ],
+          [
+            "break → broke",
+            "sindi"
+          ],
+          [
+            "bring → brought",
+            "olib keldi"
+          ],
+          [
+            "build → built",
+            "qurdi"
+          ],
+          [
+            "fly → flew",
+            "uchdi"
+          ],
+          [
+            "grow → grew",
+            "o'sdi"
+          ],
+          [
+            "win → won",
+            "yutdi"
+          ]
+        ]
+      },
+      "triad": {
+        "aff": [
+          "He broke the window.",
+          "They built a new house."
+        ],
+        "neg": [
+          "He didn't break the window.",
+          "They didn't build a new house."
+        ],
+        "q": [
+          "Did he break the window?",
+          "Did they build a new house?"
+        ],
+        "short": [
+          "Yes, he did. / No, he didn't.",
+          "Yes, they did. / No, they didn't."
+        ]
+      },
+      "words": [
+        [
+          "find",
+          "topmoq",
+          "find the keys"
+        ],
+        [
+          "hold",
+          "ushlab turmoq",
+          "hold my bag"
+        ],
+        [
+          "win",
+          "yutmoq",
+          "win a prize"
+        ],
+        [
+          "fall",
+          "yiqilmoq",
+          "fall from a bike"
+        ],
+        [
+          "throw",
+          "uloqtirmoq",
+          "throw the ball"
+        ],
+        [
+          "catch",
+          "tutib olmoq",
+          "catch the bus"
+        ],
+        [
+          "jump",
+          "sakramoq",
+          "jump high"
+        ],
+        [
+          "lift",
+          "ko'tarmoq",
+          "lift the box"
+        ],
+        [
+          "carry",
+          "olib yurmoq",
+          "carry a bag"
+        ],
+        [
+          "drop",
+          "tushirib yubormoq",
+          "drop the phone"
+        ],
+        [
+          "turn",
+          "burilmoq, aylantirmoq",
+          "turn left"
+        ],
+        [
+          "move",
+          "ko'chmoq, harakatlanmoq",
+          "move to a new flat"
+        ],
+        [
+          "fly",
+          "uchmoq",
+          "fly to Istanbul"
+        ],
+        [
+          "swim",
+          "suzmoq",
+          "swim in the sea"
+        ],
+        [
+          "sing",
+          "kuylamoq",
+          "sing a song"
+        ],
+        [
+          "dance",
+          "raqsga tushmoq",
+          "dance all night"
+        ],
+        [
+          "draw",
+          "chizmoq",
+          "draw a picture"
+        ],
+        [
+          "cut",
+          "kesmoq",
+          "cut the bread"
+        ],
+        [
+          "break",
+          "sindirmoq",
+          "break a window"
+        ],
+        [
+          "build",
+          "qurmoq",
+          "build a house"
+        ],
+        [
+          "hit",
+          "urmoq",
+          "hit the ball"
+        ],
+        [
+          "fight",
+          "kurashmoq, janjallashmoq",
+          "fight for your dream"
+        ],
+        [
+          "blow",
+          "esmoq, puflamoq",
+          "the wind blows"
+        ],
+        [
+          "grow",
+          "o'smoq, o'stirmoq",
+          "grow vegetables"
+        ],
+        [
+          "ring",
+          "jiringlamoq, qo'ng'iroq qilmoq",
+          "the phone rings"
+        ]
+      ],
+      "examples": [
+        {
+          "en": "I found my keys under the table and picked them up.",
+          "uz": "Kalitlarimni stol ostidan topdim va oldim."
+        },
+        {
+          "en": "She won the competition last year and moved to another city.",
+          "uz": "U o'tgan yili musobaqada yutdi va boshqa shaharga ko'chdi."
+        },
+        {
+          "en": "The child fell from the bicycle, but he didn't break his arm.",
+          "uz": "Bola velosipeddan yiqildi, lekin qo'lini sindirmadi."
+        },
+        {
+          "en": "We flew to Istanbul, swam in the sea and sang songs in the evening.",
+          "uz": "Biz Istanbulga uchdik, dengizda suzdik va kechqurun qo'shiq aytdik."
+        },
+        {
+          "en": "He grew vegetables in the garden and sold them at the market.",
+          "uz": "U bog'da sabzavot o'stirdi va ularni bozorda sotdi."
+        },
+        {
+          "en": "She drew a picture of the mountains and hung it on the wall.",
+          "uz": "U tog'lar tasvirini chizdi va devorga osdi."
+        },
+        {
+          "en": "They argued about money, but then they found a solution.",
+          "uz": "Ular pul haqida janjallashdi, keyin yechim topdilar."
+        },
+        {
+          "en": "The wind blew all night and broke a big tree in the yard.",
+          "uz": "Butun tun shamol esdi va hovlidagi katta daraxtni sindirdi."
+        }
+      ],
+      "street": {
+        "title": "Nima bo'ldi?",
+        "items": [
+          {
+            "en": "What happened?",
+            "uz": "Nima bo'ldi?"
+          },
+          {
+            "en": "I lost my keys.",
+            "uz": "Kalitlarimni yo'qotdim."
+          },
+          {
+            "en": "We had a great time.",
+            "uz": "Ajoyib vaqt o'tkazdik."
+          },
+          {
+            "en": "He got the job!",
+            "uz": "U ishga qabul qilindi!"
+          },
+          {
+            "en": "It didn't work.",
+            "uz": "Ishlamadi."
+          }
+        ],
+        "note": "lose → lost, have a good time → had a great time — bu birikmalar kundalik nutqda eng ko'p uchraydigan noto'g'ri fe'llardan."
+      },
+      "dialog": {
+        "title": "Mini dialog · Musobaqa",
+        "lines": [
+          {
+            "who": "A",
+            "en": "What happened at the competition?",
+            "uz": "Musobaqada nima bo'ldi?"
+          },
+          {
+            "who": "B",
+            "en": "My brother won the first prize!",
+            "uz": "Akam birinchi o'rinni oldi!"
+          },
+          {
+            "who": "A",
+            "en": "That's great! Did he train a lot?",
+            "uz": "Zo'r! Ko'p mashq qildimi?"
+          },
+          {
+            "who": "B",
+            "en": "Yes, he ran every morning and swam twice a week.",
+            "uz": "Ha, har kuni ertalab yugurdi va haftada ikki marta suzdi."
+          },
+          {
+            "who": "A",
+            "en": "Did you go with him?",
+            "uz": "Siz u bilan bordingizmi?"
+          },
+          {
+            "who": "B",
+            "en": "Yes, we flew together, and I took a lot of photos.",
+            "uz": "Ha, birga uchdik va men ko'p surat oldim."
+          }
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {
+            "prompt": "I ___ my keys under the table. (find)",
+            "answer": "I found my keys under the table."
+          },
+          {
+            "prompt": "She ___ the competition. (win)",
+            "answer": "She won the competition."
+          },
+          {
+            "prompt": "He ___ the window. (not / break)",
+            "answer": "He didn't break the window."
+          },
+          {
+            "prompt": "We ___ to Istanbul. (fly)",
+            "answer": "We flew to Istanbul."
+          },
+          {
+            "prompt": "They ___ a new house last year. (build)",
+            "answer": "They built a new house last year."
+          }
+        ],
+        "translate": [
+          {
+            "uz": "Kalitlarimni topdim.",
+            "en": "I found my keys."
+          },
+          {
+            "uz": "U musobaqada yutdi.",
+            "en": "She won the competition."
+          },
+          {
+            "uz": "Biz Istanbulga uchdik.",
+            "en": "We flew to Istanbul."
+          },
+          {
+            "uz": "U qo'lini sindirmadi.",
+            "en": "He didn't break his arm."
+          }
+        ],
+        "fix": [
+          {
+            "wrong": "I finded my keys.",
+            "right": "I found my keys.",
+            "why": "find — noto'g'ri fe'l: found"
+          },
+          {
+            "wrong": "She winned the game.",
+            "right": "She won the game.",
+            "why": "win → won"
+          },
+          {
+            "wrong": "Did he broke the window?",
+            "right": "Did he break the window?",
+            "why": "did dan keyin o'zak shakl"
+          }
+        ]
+      },
+      "tip": "Noto'g'ri fe'llarni uch shaklda yodlang: <em>go – went – gone</em>, <em>see – saw – seen</em>, <em>break – broke – broken</em>. Ikkinchi shakl o'tgan zamon uchun, uchinchisi esa <b>have</b> bilan (31-dars) ishlatiladi."
+    },
+    {
+      "n": 30,
+      "title": "Savol va inkor o'tgan zamonda: Did you ...?",
+      "theme": "Fe'llar VI — mavhum fe'llar",
+      "goal": "O'tgan zamonda savol berish va inkor qilishni mustahkamlaysiz: did, didn't, so'roq so'zlari.",
+      "frame": {
+        "name": "Did / didn't + o'zak fe'l",
+        "formula": "Did you see him?      — Yes, I did.\nWhere did you go?\nI didn't see him.\nShe didn't tell me.",
+        "explain": "<p>O'tgan zamondagi savol va inkor faqat <b>did</b> orqali yasaladi. <b>did</b> dan keyin fe'l hech qachon 2-shaklda kelmaydi: <em>Did you saw?</em> — xato, <em>Did you see?</em> — to'g'ri. So'roq so'zi bo'lsa, u eng oldinda turadi.</p>",
+        "table": [
+          [
+            "Did + ega + fe'l?",
+            "Did you go?"
+          ],
+          [
+            "didn't + fe'l",
+            "I didn't go."
+          ],
+          [
+            "so'roq so'zi + did + ega",
+            "Where did you go?"
+          ],
+          [
+            "qisqa javob",
+            "Yes, I did. / No, I didn't."
+          ],
+          [
+            "did dan keyin 2-shakl yo'q",
+            "Did you see? ✓ / Did you saw? ✗"
+          ]
+        ]
+      },
+      "triad": {
+        "aff": [
+          "He became a manager.",
+          "They celebrated the wedding."
+        ],
+        "neg": [
+          "He didn't become a manager.",
+          "They didn't celebrate the wedding."
+        ],
+        "q": [
+          "Did he become a manager?",
+          "Did they celebrate the wedding?"
+        ],
+        "short": [
+          "Yes, he did. / No, he didn't.",
+          "Yes, they did. / No, they didn't."
+        ]
+      },
+      "words": [
+        [
+          "become",
+          "bo'lmoq (o'zgarmoq)",
+          "become a teacher"
+        ],
+        [
+          "lead",
+          "boshchilik qilmoq",
+          "lead a team"
+        ],
+        [
+          "feed",
+          "boqmoq",
+          "feed the cat"
+        ],
+        [
+          "lie",
+          "yotmoq",
+          "lie on the sofa"
+        ],
+        [
+          "lay",
+          "qo'yib qo'ymoq",
+          "lay the table"
+        ],
+        [
+          "begin",
+          "boshlamoq",
+          "begin the lesson"
+        ],
+        [
+          "burn",
+          "yonmoq, kuymoq",
+          "burn the paper"
+        ],
+        [
+          "leave",
+          "ketmoq, tashlab ketmoq",
+          "leave home"
+        ],
+        [
+          "cost",
+          "turmoq (narx)",
+          "it costs a lot"
+        ],
+        [
+          "let",
+          "ruxsat bermoq",
+          "let me help"
+        ],
+        [
+          "save",
+          "tejamoq, saqlab qolmoq",
+          "save money"
+        ],
+        [
+          "return",
+          "qaytmoq",
+          "return home"
+        ],
+        [
+          "avoid",
+          "chetlab o'tmoq",
+          "avoid mistakes"
+        ],
+        [
+          "disturb",
+          "bezovta qilmoq",
+          "don't disturb me"
+        ],
+        [
+          "punish",
+          "jazolamoq",
+          "punish a child"
+        ],
+        [
+          "intend",
+          "niyat qilmoq",
+          "intend to go"
+        ],
+        [
+          "influence",
+          "ta'sir qilmoq",
+          "influence people"
+        ],
+        [
+          "support",
+          "qo'llab-quvvatlamoq",
+          "support a friend"
+        ],
+        [
+          "match",
+          "mos kelmoq",
+          "the colours match"
+        ],
+        [
+          "die",
+          "o'lmoq",
+          "the plant died"
+        ],
+        [
+          "celebrate",
+          "nishonlamoq",
+          "celebrate a birthday"
+        ],
+        [
+          "smoke",
+          "chekmoq",
+          "smoke outside"
+        ],
+        [
+          "shout",
+          "baqirmoq",
+          "don't shout"
+        ],
+        [
+          "smell",
+          "hidlamoq",
+          "it smells good"
+        ],
+        [
+          "boil",
+          "qaynatmoq",
+          "boil some water"
+        ]
+      ],
+      "examples": [
+        {
+          "en": "Did you celebrate your birthday at home or in a restaurant?",
+          "uz": "Tug'ilgan kuningizni uyda nishonladingizmi yoki restoranda?"
+        },
+        {
+          "en": "Where did you buy this table? It cost a lot, I think.",
+          "uz": "Bu stolni qayerdan oldingiz? Qimmatga tushgan bo'lsa kerak."
+        },
+        {
+          "en": "He didn't let me pay, and he didn't want to disturb anyone.",
+          "uz": "U menga to'lashga ruxsat bermadi va hech kimni bezovta qilishni xohlamadi."
+        },
+        {
+          "en": "The ship sank near the island, but nobody died.",
+          "uz": "Kema orol yaqinida cho'kdi, lekin hech kim halok bo'lmadi."
+        },
+        {
+          "en": "I didn't intend to argue — I only wanted to support your idea.",
+          "uz": "Men bahslashmoqchi emasdim — faqat g'oyangizni qo'llab-quvvatlamoqchi edim."
+        },
+        {
+          "en": "Did the medicine help? — My throat stopped hurting after I boiled some water with honey.",
+          "uz": "Dori yordam berdimi? — Asalli suv qaynatganimdan keyin tomog'im og'rimay qo'ydi."
+        },
+        {
+          "en": "She fed the cat, saved some money and returned home late.",
+          "uz": "U mushukni boqdi, bir oz pul tejadi va kech uyga qaytdi."
+        },
+        {
+          "en": "His words influenced me, and I avoided that mistake.",
+          "uz": "Uning so'zlari menga ta'sir qildi va men o'sha xatodan qochdim."
+        }
+      ],
+      "street": {
+        "title": "Savol-javob",
+        "items": [
+          {
+            "en": "Did you get my message?",
+            "uz": "Xabarimni oldingizmi?"
+          },
+          {
+            "en": "Yes, I did. Sorry, I forgot to answer.",
+            "uz": "Ha. Kechirasiz, javob berishni unutdim."
+          },
+          {
+            "en": "Where did you put it?",
+            "uz": "Uni qayerga qo'ydingiz?"
+          },
+          {
+            "en": "I didn't mean to.",
+            "uz": "Men xohlamagan edim."
+          },
+          {
+            "en": "It doesn't matter.",
+            "uz": "Muhim emas."
+          }
+        ],
+        "note": "\"I didn't mean to\" — bilmasdan xato qilganda aytiladigan eng tabiiy uzr."
+      },
+      "dialog": {
+        "title": "Mini dialog · Yangi yil",
+        "lines": [
+          {
+            "who": "A",
+            "en": "Did you celebrate New Year with your family?",
+            "uz": "Yangi yilni oilangiz bilan nishonladingizmi?"
+          },
+          {
+            "who": "B",
+            "en": "Yes, we did. We cooked a lot and my mother baked a cake.",
+            "uz": "Ha. Ko'p ovqat tayyorladik, onam tort yopdi."
+          },
+          {
+            "who": "A",
+            "en": "Did anyone come late?",
+            "uz": "Kimdir kechikdimi?"
+          },
+          {
+            "who": "B",
+            "en": "My uncle came after ten, but he didn't disturb us.",
+            "uz": "Tog'am o'ndan keyin keldi, lekin bizni bezovta qilmadi."
+          },
+          {
+            "who": "A",
+            "en": "And what did you do after dinner?",
+            "uz": "Kechki ovqatdan keyin nima qildingiz?"
+          },
+          {
+            "who": "B",
+            "en": "We sang songs and my father told funny stories.",
+            "uz": "Qo'shiq aytdik, dadam kulgili voqealarni aytib berdi."
+          }
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {
+            "prompt": "___ you see him yesterday? (Did)",
+            "answer": "Did you see him yesterday?"
+          },
+          {
+            "prompt": "I ___ him. (not / see)",
+            "answer": "I didn't see him."
+          },
+          {
+            "prompt": "Where ___ you go? (did)",
+            "answer": "Where did you go?"
+          },
+          {
+            "prompt": "___ she celebrate her birthday? (Did)",
+            "answer": "Did she celebrate her birthday?"
+          },
+          {
+            "prompt": "He ___ me pay. (not / let)",
+            "answer": "He didn't let me pay."
+          }
+        ],
+        "translate": [
+          {
+            "uz": "Kecha uni ko'rdingizmi?",
+            "en": "Did you see him yesterday?"
+          },
+          {
+            "uz": "Men uni ko'rmadim.",
+            "en": "I didn't see him."
+          },
+          {
+            "uz": "Qayerga bordingiz?",
+            "en": "Where did you go?"
+          },
+          {
+            "uz": "U menga to'lashga ruxsat bermadi.",
+            "en": "He didn't let me pay."
+          }
+        ],
+        "fix": [
+          {
+            "wrong": "Did you saw him?",
+            "right": "Did you see him?",
+            "why": "did dan keyin o'zak shakl"
+          },
+          {
+            "wrong": "I didn't went home.",
+            "right": "I didn't go home.",
+            "why": "didn't dan keyin o'zak shakl"
+          },
+          {
+            "wrong": "Where you did go?",
+            "right": "Where did you go?",
+            "why": "so'roq so'zi + did + ega"
+          }
+        ]
+      },
+      "tip": "<b>did</b> — o'tgan zamonning yordamchisi. U paydo bo'lsa, fe'l o'zak shaklga qaytadi: <em>Did you go?</em> / <em>I didn't go</em>. Faqat tasdiq gapda fe'l 2-shaklda turadi: <em>I went</em>."
+    }
+  ]
+}

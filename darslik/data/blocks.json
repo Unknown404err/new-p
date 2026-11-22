@@ -1,0 +1,52 @@
+{
+  "blocks": [
+    {
+      "from": 1,
+      "to": 5,
+      "title": "Tanishuv: odam, kasb, oila, joy",
+      "desc": "Birinchi gaplar: kim ekanini aytish, ega bo'lishni bildirish, narsa borligini aytish, oddiy hozirgi zamon."
+    },
+    {
+      "from": 6,
+      "to": 10,
+      "title": "Shahar, uy va dasturxon",
+      "desc": "Savol berish, inkor qilish, joy predloglari, xohish bildirish va sanaladigan/sanalmaydigan otlar."
+    },
+    {
+      "from": 11,
+      "to": 15,
+      "title": "Meva, ichimlik, idish, transport",
+      "desc": "Miqdor so'zlari, taklif qilish, buyruq mayli va transport predloglari."
+    },
+    {
+      "from": 16,
+      "to": 20,
+      "title": "Vaqt, ob-havo, tabiat va sifatlar",
+      "desc": "Vaqt predloglari, hozirgi davomiy zamon, sifat tartibi va ta'riflash."
+    },
+    {
+      "from": 21,
+      "to": 25,
+      "title": "Tana, salomatlik, hissiyot",
+      "desc": "Egalik, og'riq va holat haqida gapirish, his-tuyg'ularni ifodalash."
+    },
+    {
+      "from": 26,
+      "to": 30,
+      "title": "Fe'llar: harakat, o'tgan zamon, perfect",
+      "desc": "Fe'l boyligini kengaytirish va uch asosiy zamonni mustahkamlash."
+    },
+    {
+      "from": 31,
+      "to": 35,
+      "title": "Modallar, ko'cha tili, raqamlar, savollar",
+      "desc": "Majburiyat va maslahat, so'zlashuv qatlami, sonlar va savol so'zlari."
+    },
+    {
+      "from": 36,
+      "to": 40,
+      "title": "San'at, taqqoslash, kelasi zamon, takrorlash",
+      "desc": "Tajriba haqida savol, qiyoslash, kelasi zamon va butun kitobning umumiy takrori."
+    }
+  ]
+}

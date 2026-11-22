@@ -1,0 +1,322 @@
+{
+  "title": "1000 so'z — 1000 gap",
+  "subtitle": "Ingliz tilini so'z boyligi va gap strukturasi orqali o'rganish darsligi",
+  "chapters": [
+    {
+      "id": "q1",
+      "kicker": "1-qism · Uslub",
+      "title": "Bu darslik qanday ishlaydi",
+      "body": [
+        "<p class='lead'>Ko'pchilik ingliz tilini so'z yodlashdan boshlaydi va 500–1000 so'z bilsa ham gap tuza olmaydi. Sababi bitta: so'z — g'isht, struktura — poydevor. Bu darslik ikkalasini birga beradi.</p>",
+        "<p>Asos qilib uchta manba olindi: <b>1000 ta asosiy inglizcha so'z</b> ro'yxati (mavzular bo'yicha), <b>ko'cha iboralari</b> to'plami va <b>gotta / gonna</b> strukturalari varaqasi. Ikkinchi va uchinchi manbadan gaplarning o'zi emas, <em>tuzilish uslubi</em> olindi: bitta struktura oilasi → uning tasdiq, inkor va savol shakllari → jonli so'zlashuv varianti. Shu uslub butun kitobning o'zagidir.</p>",
+        "<h4>Har bir dars 7 qismdan iborat</h4>",
+        "<table class='grid'><thead><tr><th>Qism</th><th>Nima beradi</th></tr></thead><tbody><tr><td><b>Struktura</b></td><td>Kunning formasi: bitta aniq formula va uning qoidasi.</td></tr><tr><td><b>Tasdiq · Inkor · Savol</b></td><td>Bitta strukturadan uch xil gap qurish mashqi.</td></tr><tr><td><b>25 so'z</b></td><td>Mavzuga mos so'zlar: tarjima + tayyor birikma.</td></tr><tr><td><b>Namuna gaplar</b></td><td>8 gap: yangi struktura + o'sha 25 so'z.</td></tr><tr><td><b>Ko'cha varianti</b></td><td>Xuddi shu fikrning so'zlashuvdagi shakli.</td></tr><tr><td><b>Mini dialog</b></td><td>Struktura jonli suhbatda qanday ishlaydi.</td></tr><tr><td><b>3 xil mashq</b></td><td>Almashtirish, tarjima, xato topish — javoblari bilan.</td></tr></tbody></table>",
+        "<h4>Qanday o'qish kerak</h4>",
+        "<p>Bir kunda bitta dars. 25 so'zni yodlab qolishga urinmang — ularni <em>gap ichida</em> uchratib, o'zingizni eshitib o'rganasiz. Eng muhimi: har bir namunani <b>ovoz chiqarib</b> o'qing. Ko'z bilan o'qilgan gap passiv bilim bo'lib qoladi; ovoz chiqarib aytilgan gap tilga aylanadi.</p>",
+        "<div class='tip'><div><b>40 kunlik reja.</b> Kuniga 25 so'z va 1 struktura: 40 kunda 1000 so'z va 40 ta tayyor formula. Vaqtingiz kam bo'lsa, darsni ikki kunga bo'ling — lekin <b>hech bir darsni o'tkazib yubormang</b>: har bir struktura keyingisiga tayanadi.</div></div>",
+        "<h4>Kitobning tuzilishi</h4>",
+        "<p><b>1-qism</b> — gap qurish mexanikasi (6 bob): o'zbek tilidan farq qiladigan joylar, tasdiq–inkor–savol mashinasi, olmoshlar jadvali, so'zlashuv qatlami va yodlash tizimi. <b>2-qism</b> — 40 ta dars. <b>3-qism</b> — ko'cha iboralari banki: mavzu bo'yicha guruhlangan 15 oila, qachon va qanday ishlatish izohi bilan. <b>4-qism</b> — 40 strukturaning bir varaqli xulosasi va 1000 so'zning alifbo indeksi (so'z → tarjima → dars raqami).</p>"
+      ]
+    },
+    {
+      "id": "q2",
+      "kicker": "1-qism · Mexanika",
+      "title": "Gap qurish mexanikasi: uchta blok",
+      "body": [
+        "<p class='lead'>Ingliz tilida gap o'zbek tilidagidan sodda tuziladi: <b>ega — fe'l — to'ldiruvchi</b>. Fe'l gapning o'rtasida turadi va o'z o'rnini hech qachon o'zgartirmaydi.</p>",
+        "<formula>EGA  +  FE'L  +  TO'LDIRUVCHI\nI     +  like  +  tea.          → Men choyni yaxshi ko'raman.\nShe   +  reads +  books.        → U kitob o'qiydi.\nWe    +  bought + a new car.    → Biz yangi mashina sotib oldik.</formula>",
+        "<p>O'zbek tilida fe'l gap oxirida keladi va biz «men choyni yaxshi ko'raman» deganda so'z tartibiga e'tibor bermaymiz. Ingliz tilida tartib — grammatikaning bir qismi: <em>I like tea</em> to'g'ri, <em>I tea like</em> esa xato.</p>",
+        "<h4>Uchta blok</h4>",
+        "<table class='grid'><thead><tr><th>Blok</th><th>Vazifasi</th><th>Misollar</th></tr></thead><tbody><tr><td><b>1. Ega</b></td><td>Kim? Nima?</td><td>I, you, he, she, it, we, they, my brother, the teacher</td></tr><tr><td><b>2. Fe'l</b></td><td>Nima qilyapti? Qanday holatda?</td><td>am, work, works, worked, have done, can go</td></tr><tr><td><b>3. To'ldiruvchi</b></td><td>Kimni? Nimani? Qayerda? Qachon?</td><td>tea, books, at home, on Monday, very fast</td></tr></tbody></table>",
+        "<h4>Blokni almashtirish — asosiy mashq</h4>",
+        "<p>Gapni yodlamang, <b>ramkani</b> yodlang. Ramka ichidagi bo'laklarni almashtirsangiz, yangi gap o'zingizdan chiqadi:</p>",
+        "<formula>I have got a ___ .        → a cat / a car / a sister / a question\nI ___ every morning.      → work / run / read / cook\nCan I ___ ?               → come in / sit here / ask you / pay by card</formula>",
+        "<p>Shu sababli har bir darsda avval struktura, keyin so'zlar beriladi. Bitta ramka + 25 so'z = o'nlab gap. 40 ramka + 1000 so'z = sizning kundalik suhbat bazangiz.</p>",
+        "<div class='tip'><div><b>Qoida.</b> Yangi so'zni yolg'iz yodlamang. Har doim <b>so'z + birikma</b> shaklida yodlang: <em>apple</em> emas — <em>a green apple</em>; <em>decide</em> emas — <em>decide now</em>. Miya birikmani eslab qoladi, yakka so'zni esa tez unutadi.</div></div>"
+      ]
+    },
+    {
+      "id": "q3",
+      "kicker": "1-qism · Mexanika",
+      "title": "Bitta strukturadan uchta gap: tasdiq → inkor → savol",
+      "body": [
+        "<p class='lead'>Bu darslikning eng muhim g'oyasi: har qanday gapning <b>uch shakli</b> bor va ularni alohida yodlash shart emas. Bitta o'zgartirish qoidasi yetarli.</p>",
+        "<h4>Ikki qoida — hammasi shu</h4>",
+        "<table class='grid'><thead><tr><th>Shakl</th><th>Qoida</th><th>Misol</th></tr></thead><tbody><tr><td><b>Inkor</b></td><td>Yordamchi fe'ldan keyin <b>not</b> qo'yiladi (yordamchi bo'lmasa — <em>do/does/did</em> chaqiriladi).</td><td>I <b>am not</b> tired. · She <b>does not</b> work here. · We <b>didn't</b> see it.</td></tr><tr><td><b>Savol</b></td><td>Yordamchi fe'l eganing <b>oldiga</b> chiqadi (yo'q bo'lsa — <em>do/does/did</em> qo'shiladi).</td><td><b>Am</b> I late? · <b>Does</b> she work here? · <b>Did</b> you see it?</td></tr></tbody></table>",
+        "<p>Qolgan hamma narsa — shu ikki qoidaning turli zamonlardagi ko'rinishi:</p>",
+        "<table class='grid'><thead><tr><th>Zamon</th><th>Tasdiq</th><th>Inkor</th><th>Savol</th></tr></thead><tbody><tr><td>to be (hozir)</td><td>He is ready.</td><td>He isn't ready.</td><td>Is he ready?</td></tr><tr><td>Present Simple</td><td>You work here.</td><td>You don't work here.</td><td>Do you work here?</td></tr><tr><td>Present Continuous</td><td>She is working.</td><td>She isn't working.</td><td>Is she working?</td></tr><tr><td>Past Simple</td><td>They left.</td><td>They didn't leave.</td><td>Did they leave?</td></tr><tr><td>Present Perfect</td><td>I have finished.</td><td>I haven't finished.</td><td>Have you finished?</td></tr><tr><td>Future (will)</td><td>We will come.</td><td>We won't come.</td><td>Will you come?</td></tr><tr><td>Modal (can)</td><td>I can swim.</td><td>I can't swim.</td><td>Can you swim?</td></tr></tbody></table>",
+        "<h4>Qisqa javoblar</h4>",
+        "<p>Savolga to'liq gap bilan javob berish shart emas. Ingliz tilida qisqa javob savolning <b>yordamchi fe'lini</b> takrorlaydi:</p>",
+        "<formula>Do you work here?   → Yes, I do.      / No, I don't.\nIs she ready?        → Yes, she is.    / No, she isn't.\nHave you finished?   → Yes, I have.    / No, I haven't.\nDid they leave?      → Yes, they did.  / No, they didn't.</formula>",
+        "<div class='tip'><div><b>Mashq usuli.</b> Har bir namunani uch marta ayting: tasdiq → inkor → savol. <em>I like tea. I don't like tea. Do you like tea?</em> Shu tarzda 8 gap = 24 mashq. Bu usul «street phrases» varaqasidagi guruhlash uslubidan olingan: iboralar yakka holda emas, <b>oila</b> bo'lib yodlanadi.</div></div>"
+      ]
+    },
+    {
+      "id": "q4",
+      "kicker": "1-qism · Mexanika",
+      "title": "Olmoshlar va fe'l shakllari: bir varaqli jadval",
+      "body": [
+        "<p class='lead'>Quyidagi jadvalni yodlab olsangiz, 40 darsning yarmi o'z-o'zidan tushunarli bo'ladi. Har bir darsda shu jadvalning bir qatori ishlatiladi.</p>",
+        "<h4>1. Shaxs olmoshlari</h4>",
+        "<table class='grid'><thead><tr><th>O'zbekcha</th><th>Ega</th><th>To'ldiruvchi</th><th>Egalik</th><th>to be (hozir)</th><th>to be (o'tgan)</th></tr></thead><tbody><tr><td>men</td><td>I</td><td>me</td><td>my</td><td>am</td><td>was</td></tr><tr><td>sen / siz</td><td>you</td><td>you</td><td>your</td><td>are</td><td>were</td></tr><tr><td>u (erkak)</td><td>he</td><td>him</td><td>his</td><td>is</td><td>was</td></tr><tr><td>u (ayol)</td><td>she</td><td>her</td><td>her</td><td>is</td><td>was</td></tr><tr><td>u (narsa)</td><td>it</td><td>it</td><td>its</td><td>is</td><td>was</td></tr><tr><td>biz</td><td>we</td><td>us</td><td>our</td><td>are</td><td>were</td></tr><tr><td>ular</td><td>they</td><td>them</td><td>their</td><td>are</td><td>were</td></tr></tbody></table>",
+        "<p><b>Muhim:</b> ingliz tilida «sen» va «siz» bitta so'z — <em>you</em>. Hurmat ohangi so'z tanlashda (please, sir, excuse me) va ovoz ohangida ko'rinadi, olmoshda emas.</p>",
+        "<h4>2. Yordamchi fe'llar</h4>",
+        "<table class='grid'><thead><tr><th>Fe'l</th><th>Qachon</th><th>Shakllari</th></tr></thead><tbody><tr><td><b>to be</b></td><td>holat, kasb, joy, sifat</td><td>am / is / are · was / were · been</td></tr><tr><td><b>do</b></td><td>Present Simple savol-inkor</td><td>do / does · did · done</td></tr><tr><td><b>have</b></td><td>ega bo'lish, Present Perfect</td><td>have / has · had</td></tr><tr><td><b>will</b></td><td>kelasi zamon</td><td>will / won't</td></tr><tr><td><b>can</b></td><td>qobiliyat, ruxsat</td><td>can / can't / could</td></tr></tbody></table>","<h4>3. Fe'lning uch shakli (eng kerakli 20 tasi)</h4>",
+        "<table class='grid'><thead><tr><th>1-shakl</th><th>2-shakl (o'tgan)</th><th>3-shakl (perfect)</th><th>Tarjima</th></tr></thead><tbody><tr><td>be</td><td>was / were</td><td>been</td><td>bo'lish</td></tr><tr><td>go</td><td>went</td><td>gone</td><td>bormoq</td></tr><tr><td>do</td><td>did</td><td>done</td><td>qilmoq</td></tr><tr><td>have</td><td>had</td><td>had</td><td>ega bo'lmoq</td></tr><tr><td>get</td><td>got</td><td>got</td><td>olmoq</td></tr><tr><td>make</td><td>made</td><td>made</td><td>yasamoq</td></tr><tr><td>take</td><td>took</td><td>taken</td><td>olmoq</td></tr><tr><td>give</td><td>gave</td><td>given</td><td>bermoq</td></tr><tr><td>come</td><td>came</td><td>come</td><td>kelmoq</td></tr><tr><td>see</td><td>saw</td><td>seen</td><td>ko'rmoq</td></tr><tr><td>speak</td><td>spoke</td><td>spoken</td><td>gapirmoq</td></tr><tr><td>read</td><td>read</td><td>read</td><td>o'qimoq</td></tr><tr><td>write</td><td>wrote</td><td>written</td><td>yozmoq</td></tr><tr><td>buy</td><td>bought</td><td>bought</td><td>sotib olmoq</td></tr><tr><td>eat</td><td>ate</td><td>eaten</td><td>yemoq</td></tr><tr><td>drink</td><td>drank</td><td>drunk</td><td>ichmoq</td></tr><tr><td>sleep</td><td>slept</td><td>slept</td><td>uxlamoq</td></tr><tr><td>think</td><td>thought</td><td>thought</td><td>o'ylamoq</td></tr><tr><td>know</td><td>knew</td><td>known</td><td>bilmoq</td></tr><tr><td>leave</td><td>left</td><td>left</td><td>ketmoq</td></tr></tbody></table>",
+        "<div class='tip'><div><b>Bitta qoida.</b> <em>He / she / it</em> bilan Present Simple'da fe'lga <b>-s</b> qo'shiladi: <em>he work<b>s</b>, she go<b>es</b>, it rain<b>s</b></em>. Savol va inkorda esa -s yordamchi fe'lga o'tadi: <em>does he work?</em> — <em>he works</em> emas.</div></div>"
+      ]
+    },
+    {
+      "id": "q5",
+      "kicker": "1-qism · Uslub",
+      "title": "So'zlashuv qatlami: gonna, gotta, wanna, ain't",
+      "body": [
+        "<p class='lead'>Ikkinchi va uchinchi manba varaqalarida gaplar aynan ko'cha tilida berilgan: <em>I'm gonna sleep, you gotta work hard, i ain't got question</em>. Bu — kitobiy ingliz tili emas, <b>og'zaki nutq</b>. Uni bilish kerak, lekin qayerda ishlatishni ham bilish kerak.</p>",
+        "<h4>Qisqarishlar jadvali</h4>",
+        "<table class='grid'><thead><tr><th>Ko'cha shakli</th><th>To'liq shakl</th><th>Ma'nosi</th><th>Misol</th></tr></thead><tbody><tr><td><b>gonna</b></td><td>going to</td><td>...moqchi / bo'lajak niyat</td><td>I'm gonna sleep. — Men uxlamoqchiman.</td></tr><tr><td><b>gotta</b></td><td>have got to / have to</td><td>shart, majburiyat</td><td>I gotta go. — Ketishim kerak.</td></tr><tr><td><b>wanna</b></td><td>want to</td><td>xohlamoq</td><td>I wanna ask. — So'ramoqchiman.</td></tr><tr><td><b>gotta / don't gotta</b></td><td>don't have to</td><td>shart emas</td><td>You don't gotta wait. — Kutishing shart emas.</td></tr><tr><td><b>ain't</b></td><td>am not / isn't / aren't / haven't</td><td>inkor (so'zlashuv)</td><td>I ain't ready. — Men tayyor emasman.</td></tr><tr><td><b>ya'll</b></td><td>you all</td><td>sizlar (ko'plik)</td><td>How ya'll doing? — Qalaysizlar?</td></tr><tr><td><b>lemme / gimme</b></td><td>let me / give me</td><td>ruxsat bering / bering</td><td>Lemme check. — Tekshirib ko'ray.</td></tr><tr><td><b>dunno</b></td><td>don't know</td><td>bilmayman</td><td>I dunno. — Bilmayman.</td></tr><tr><td><b>kinda / sorta</b></td><td>kind of / sort of</td><td>bir oz, qandaydir</td><td>It's kinda late. — Bir oz kech bo'ldi.</td></tr></tbody></table>",
+        "<h4>Uch qatlam: qachon nimani ishlatish kerak</h4>",
+        "<table class='grid'><thead><tr><th>Qatlam</th><th>Qayerda</th><th>Namuna</th></tr></thead><tbody><tr><td><b>Rasmiy</b></td><td>ish suhbati, xat, hujjat, mehmonxona</td><td>I am going to leave. · I have to go. · I do not have any questions.</td></tr><tr><td><b>Neytral</b></td><td>do'stlar, hamkasblar, kundalik nutq</td><td>I'm going to leave. · I have to go. · I don't have questions.</td></tr><tr><td><b>Ko'cha</b></td><td>do'stlar orasida, norasmiy suhbat, film, qo'shiq</td><td>I'm gonna leave. · I gotta go. · I ain't got questions.</td></tr></tbody></table>",
+        "<div class='tip'><div><b>Ogohlantirish.</b> <em>Ain't</em> va <em>gonna/gotta</em> — norasmiy. Ish suhbatida, rasmiy xatda yoki imtihonda yozma ishda ishlatmang. Shuningdek, ikkinchi varaqadagi ba'zi iboralar (<em>this shit is dope, don't do that shit</em>) qo'pol hisoblanadi: ularni faqat tushunish uchun bilib qo'ying, o'zingiz birinchi bo'lib ishlatmang. Darslikda bunday iboralar <b>⚠ belgisi</b> bilan beriladi.</div></div>",
+        "<h4>Nutqni tabiiy qiladigan yana uch narsa</h4>",
+        "<p><b>1. Bog'lovchi so'zlar:</b> <em>well, you know, I mean, actually, anyway, by the way</em> — ular ma'no qo'shmaydi, lekin nutqni jonlantiradi. <b>2. Qisqa javoblar:</b> <em>Yeah, sure, right, exactly, no way</em>. <b>3. To'ldiruvchi savollar:</b> <em>right? really? you sure?</em> — suhbatni davom ettiradi.</p>"
+      ]
+    },
+    {
+      "id": "q6",
+      "kicker": "1-qism · Uslub",
+      "title": "Yodlash tizimi: 6 qadam va 4 takrorlash",
+      "body": [
+        "<p class='lead'>So'zni bir marta ko'rish — uni bilish emas. Quyidagi tizim oddiy, lekin izchillik talab qiladi: kuniga 25 so'z, 6 qadam, 4 marta takrorlash.</p>",
+        "<h4>Bitta dars ustida ishlash: 6 qadam</h4>",
+        "<table class='grid'><thead><tr><th>#</th><th>Qadam</th><th>Vaqt</th><th>Nima qilasiz</th></tr></thead><tbody><tr><td>1</td><td><b>Ko'rish</b></td><td>3 daq.</td><td>Struktura va 25 so'zni bir marta o'qib chiqasiz. Yodlashga urinmang.</td></tr><tr><td>2</td><td><b>Eshitish</b></td><td>5 daq.</td><td>8 namuna gapni ovoz chiqarib o'qiysiz. Har birini 3 marta.</td></tr><tr><td>3</td><td><b>Almashtirish</b></td><td>7 daq.</td><td>Ramkadagi bo'lakni o'zgartirib, 10 ta yangi gap tuzasiz.</td></tr><tr><td>4</td><td><b>Tarjima</b></td><td>5 daq.</td><td>O'zbekcha gapdan inglizchaga o'girasiz — yozma.</td></tr><tr><td>5</td><td><b>Xato topish</b></td><td>4 daq.</td><td>Noto'g'ri gapni tuzatasiz: bu eng chuqur o'rganish usuli.</td></tr><tr><td>6</td><td><b>O'zim haqimda</b></td><td>5 daq.</td><td>Struktura bilan o'zingiz haqingizda 3 gap yozasiz va aytasiz.</td></tr></tbody></table>",
+        "<h4>Takrorlash jadvali</h4>",
+        "<p>Yangi darsni o'rgandingiz. Uni qachon qayta ko'rish kerak? Miya unutishga moslashgan, shuning uchun takrorlash <b>unutish arafasida</b> bo'lishi kerak:</p>",
+        "<formula>1-kun: yangi dars  →  2-kun: qayta o'qish  →  4-kun: mashqlarni takrorlash\n→  8-kun: ovoz chiqarib aytish  →  15-kun: o'zingizdan gap tuzish</formula>",
+        "<p>Har kuni yangi darsdan oldin <b>kechagi darsning 8 gapini</b> ovoz chiqarib ayting. Bu 5 daqiqa butun kitobning samarasini ikki barobar oshiradi.</p>",
+        "<h4>Daftar usuli</h4>",
+        "<p>Uch ustunli daftar tuting: <b>so'z</b> · <b>birikma</b> · <b>mening gapim</b>. Uchinchi ustun eng muhimi — u yerda faqat sizning hayotingiz haqidagi gaplar bo'ladi: <em>My brother is a driver. I have got two sisters. I want to buy a new phone.</em> Shaxsiy gap esda qoladi, kitobdagi gap esa yo'q.</p>",
+        "<div class='tip'><div><b>Realistik maqsad.</b> Bir oyda 1000 so'zni «bilish» emas, <b>300 so'zni ishlatish</b> — katta natija. Darslikdagi 1000 so'z passiv zaxirangiz, 40 struktura esa aktiv qurolingiz bo'ladi.</div></div>"
+      ]
+    }
+  ],
+  "bank": [
+    {
+      "title": "Ruxsat so'rash",
+      "use": "Kimnidir uyga kiritish, chekish, o'tirish, biror narsani olish yoki qilish uchun ruxsat so'raganda. Uch daraja: oddiy (can), xushmuomala (may), ehtiyotkor (is it OK if / do you mind if).",
+      "rows": [
+        ["Can I come in?", "Kirsam maylimi?"],
+        ["Can I use your phone?", "Telefoningizdan foydalansam maylimi?"],
+        ["May I sit here?", "Shu yerga o'tirsam maylimi?"],
+        ["May I ask a question?", "Savol so'rasam maylimi?"],
+        ["Is it OK if I open the window?", "Derazani ochsam maylimi?"],
+        ["Is it OK if I pay by card?", "Karta bilan to'lasam maylimi?"],
+        ["Do you mind if I smoke here?", "Shu yerda cheksаm qarshimisiz?"],
+        ["Would you mind if I called you later?", "Keyinroq qo'ng'iroq qilsam qarshimisiz?"]
+      ],
+      "note": "Javob: Sure. / Go ahead. / Of course. — rad etish: Sorry, no. / I'd rather you didn't. “Do you mind...?” savoliga “Yes” desangiz — qarshiman degani, ehtiyot bo'ling."
+    },
+    {
+      "title": "Tushundingizmi? — tushunishni tekshirish",
+      "use": "Aytgan gapingiz tushunilganini bilish uchun. Bu iboralar suhbatda eng ko'p ishlatiladiganlar qatorida: ular savol emas, tekshiruv.",
+      "rows": [
+        ["Do you understand?", "Tushundingizmi?"],
+        ["Are we clear?", "Hammasi tushunarli mi?"],
+        ["You know what I mean?", "Nima demoqchi ekanimni tushunyapsizmi?"],
+        ["Did you get it?", "Tushundingizmi?"],
+        ["You feel me?", "Men aytayotganimni his qilyapsizmi?"],
+        ["See what I mean?", "Nima demoqchi ekanimni ko'ryapsizmi?"],
+        ["Is that clear?", "Aniqmi?"]
+      ],
+      "note": "“You feel me?” — juda norasmiy, tengdoshlar orasida. Ish muhitida “Is that clear?” yoki “Does that make sense?” ishlating."
+    },
+    {
+      "title": "Tushundim — rozilik bildirish",
+      "use": "Javoban qisqa tasdiq. Har biri bir xil ma'noni beradi, lekin ohangi har xil: neytraldan norasmiygacha.",
+      "rows": [
+        ["I got it.", "Tushundim."],
+        ["Got it, thanks.", "Tushundim, rahmat."],
+        ["I got you.", "Tushundim, tashvishlanmang."],
+        ["Yeah, I see.", "Ha, tushundim."],
+        ["Noted.", "E'tiborga oldim."],
+        ["Roger that.", "Qabul qildim."],
+        ["I feel you.", "Sizni tushunaman."],
+        ["That makes sense.", "Mantiqli gap."]
+      ],
+      "note": "“Roger that” — radio aloqa uslubi, hazil yoki ish muhitida ishlatiladi. “I got this” — “men hal qilaman” ma'nosida: I got this, don't worry."
+    },
+    {
+      "title": "Tugatish va holat",
+      "use": "Ish, vazifa yoki suhbat tugaganini bilish uchun.",
+      "rows": [
+        ["Are you done?", "Tugatdingizmi?"],
+        ["Have you finished?", "Tugatdingizmi?"],
+        ["Did you finish it?", "Buni tugatdingizmi?"],
+        ["Is that all?", "Hammasi shumi?"],
+        ["That's it.", "Hammasi shu."],
+        ["Almost done.", "Deyarli tugadi."],
+        ["Still working on it.", "Hali ustida ishlayapman."],
+        ["It's done.", "Bajarildi."]
+      ],
+      "note": "“Done” sifatdan kelgan qisqa javob: “Done.” = “Bo'ldi/Tugadi.” Norasmiy nutqda juda ko'p uchraydi."
+    },
+    {
+      "title": "Kelasi zamon: gonna va rejalar",
+      "use": "Oldindan rejalashtirilgan niyat. So'zlashuvda “going to” deyarli har doim “gonna” bo'lib aytiladi.",
+      "rows": [
+        ["I'm gonna sleep.", "Men uxlamoqchiman."],
+        ["I'm gonna call you tonight.", "Bugun kechqurun qo'ng'iroq qilaman."],
+        ["We're gonna work tomorrow.", "Ertaga ishlaymiz."],
+        ["He's gonna buy a new car.", "U yangi mashina olmoqchi."],
+        ["They're gonna move next month.", "Ular keyingi oy ko'chib o'tadi."],
+        ["I'm gonna be late.", "Kechikaman."],
+        ["What are you gonna do?", "Nima qilmoqchisiz?"],
+        ["I'm not gonna lie.", "Yolg'on gapirmayman."]
+      ],
+      "note": "Yozuvda “gonna” ishlatilmaydi (faqat norasmiy chatda). Rasmiy: I am going to sleep."
+    },
+    {
+      "title": "Majburiyat: gotta va have to",
+      "use": "Biror narsa shart yoki majburiy bo'lganda. “Gotta” = “have got to”, “don't gotta” = “don't have to” (shart emas).",
+      "rows": [
+        ["I gotta go.", "Ketishim kerak."],
+        ["I gotta sleep, I'm tired.", "Uxlashim kerak, charchadim."],
+        ["We gotta run, we're late.", "Yugurishimiz kerak, kechikdik."],
+        ["You gotta work hard.", "Ko'p ishlashing kerak."],
+        ["I don't gotta work today.", "Bugun ishlashim shart emas."],
+        ["You don't gotta wait for me.", "Meni kutishing shart emas."],
+        ["Do I gotta pay now?", "Hozir to'lashim kerakmi?"],
+        ["He's gotta be kidding.", "U hazillashayotgan bo'lsa kerak."]
+      ],
+      "note": "E'tibor: “must” = kuchli majburiyat (qoida), “have to” = tashqi sabab, “gotta” = o'sha “have to”ning so'zlashuv shakli."
+    },
+    {
+      "title": "Xohish: wanna, I'd like, I feel like",
+      "use": "Xohishni bildirish. Uch daraja: norasmiy (wanna), neytral (want to), xushmuomala (would like to).",
+      "rows": [
+        ["I wanna ask you something.", "Sizdan bir narsa so'ramoqchiman."],
+        ["I wanna go home.", "Uyga ketgim kelyapti."],
+        ["What do you wanna eat?", "Nima yegingiz kelyapti?"],
+        ["I'd like a cup of tea, please.", "Bir piyola choy olsam bo'ladimi."],
+        ["We'd like to book a table.", "Stol band qilmoqchi edik."],
+        ["I feel like sleeping.", "Uxshagim kelyapti."],
+        ["I don't feel like going out.", "Ko'chaga chiqishni xohlamayapman."]
+      ],
+      "note": "“Wanna” dan keyin har doim fe'l keladi: wanna go, wanna eat. Ot bilan “want” ishlatiladi: I want a coffee."
+    },
+    {
+      "title": "Norasmiy savollar (so'z tartibi tushib qoladi)",
+      "use": "Ko'cha tilida yordamchi fe'l tushib qoladi yoki savol ohang bilan beriladi. Grammatik jihatdan “xato”, lekin jonli nutqda me'yor.",
+      "rows": [
+        ["What you need?", "Nima kerak?"],
+        ["You got a question?", "Savolingiz bormi?"],
+        ["You need help?", "Yordam kerakmi?"],
+        ["Where you at?", "Qayerdasiz?"],
+        ["What you doing?", "Nima qilyapsiz?"],
+        ["You coming or not?", "Kelyapsizmi yo yo'qmi?"],
+        ["Got a minute?", "Bir daqiqa bo'ladimi?"]
+      ],
+      "note": "Bu shakllar faqat og'zaki nutqda. Yozma ishda: Do you have a question? / Where are you?"
+    },
+    {
+      "title": "Suhbatni boshlash va hol so'rash",
+      "use": "Tanish yoki notanish odam bilan suhbatni boshlash. “How are you?” dan ko'ra ko'proq ishlatiladigan variantlar.",
+      "rows": [
+        ["What's up?", "Nima gap?"],
+        ["How's it going?", "Ishlar qalay?"],
+        ["How you doing?", "Qalaysiz?"],
+        ["How have you been?", "Qaladingiz, ko'rishmayli?"],
+        ["Long time no see!", "Qanchadan beri ko'rishmadik!"],
+        ["What's new?", "Nima yangilik?"],
+        ["How was your day?", "Kuningiz qanday o'tdi?"]
+      ],
+      "note": "“What's up?” savoliga to'liq javob berish shart emas: “Not much.” / “Nothing special.” deb qo'yiladi."
+    },
+    {
+      "title": "Rozilik, inkor va ishonch",
+      "use": "Qisqa javoblar. Ular suhbatni tez va tabiiy qiladi.",
+      "rows": [
+        ["Yeah, sure.", "Ha, albatta."],
+        ["Exactly.", "Aynan shunday."],
+        ["For sure.", "Albatta."],
+        ["No way!", "Yo'q, bo'lishi mumkin emas!"],
+        ["Nah, I don't think so.", "Yo'q, o'ylamayman."],
+        ["I'm not sure about that.", "Bunga ishonchim komil emas."],
+        ["Deal.", "Kelishdik."],
+        ["You got it.", "Bo'ldi, qildim."]
+      ],
+      "note": "“Nah” — “no” ning norasmiy shakli, “no” dan yumshoqroq eshitiladi."
+    },
+    {
+      "title": "Baholash: dope, sucks, rip-off",
+      "use": "Biror narsaga baho berish. Bu qatlam juda norasmiy, ko'pincha yoshlar orasida ishlatiladi.",
+      "rows": [
+        ["That's dope!", "Bu juda zo'r!"],
+        ["That's awesome.", "Bu ajoyib."],
+        ["That sucks.", "Bu juda yomon bo'ldi."],
+        ["That's a rip-off.", "Bu juda qimmat, o'g'irlik."],
+        ["It's not worth it.", "Bunga arzimaydi."],
+        ["It's fine, I guess.", "Yomon emas, o'ylaymanki."],
+        ["It's better than nothing.", "Hech narsadan yaxshi."]
+      ],
+      "note": "⚠ Ikkinchi varaqadagi “this shit is dope” kabi iboralar qo'pol: ma'nosini biling, lekin rasmiy muhitda “That's awesome” deng."
+    },
+    {
+      "title": "Xato tan olish va uzr",
+      "use": "Xato qilganingizda. “Sorry” dan ko'ra aniqroq va samimiyroq variantlar.",
+      "rows": [
+        ["My bad.", "Mening xatom."],
+        ["I screwed up.", "Men xato qildim, buzib qo'ydim."],
+        ["I made a mistake.", "Men xato qildim."],
+        ["It's my fault.", "Bu mening aybim."],
+        ["I didn't mean to.", "Men buni xohlamagan edim."],
+        ["I'm so sorry about that.", "Buning uchun juda uzr so'rayman."],
+        ["It won't happen again.", "Bu boshqa takrorlanmaydi."]
+      ],
+      "note": "“My bad” — juda norasmiy. Ishda “I apologize for the mistake” yoki “That was my mistake” deng."
+    },
+    {
+      "title": "Minnatdorchilik va javob",
+      "use": "Rahmat aytish va unga javob berish. “You are welcome” dan tashqari ko'p variantlar bor.",
+      "rows": [
+        ["Thanks a lot!", "Katta rahmat!"],
+        ["Thank you so much.", "Juda katta rahmat."],
+        ["I really appreciate it.", "Buni juda qadrlayman."],
+        ["No problem.", "Muammo emas."],
+        ["Don't mention it.", "Gapingiz bo'lmasin."],
+        ["Anytime.", "Har doim xizmatdaman."],
+        ["My pleasure.", "Mamnuniyat bilan."]
+      ],
+      "note": "“You are welcome” to'g'ri, lekin biroz kitobiy. Kundalik nutqda “No problem” va “Anytime” ko'proq eshitiladi."
+    },
+    {
+      "title": "Xayrlashuv",
+      "use": "Suhbat oxirida. Ohang bo'yicha tanlang: neytral, iliq yoki norasmiy.",
+      "rows": [
+        ["See you later.", "Keyin ko'rishguncha."],
+        ["See you around.", "Yana ko'rishamiz."],
+        ["Take care.", "O'zingizni ehtiyot qiling."],
+        ["Have a good day!", "Kuningiz yaxshi o'tsin!"],
+        ["Catch you later.", "Keyin gaplashamiz."],
+        ["Talk soon.", "Tez orada gaplashamiz."],
+        ["Bye for now.", "Hozircha xayr."],
+        ["Peace.", "Xayr."]
+      ],
+      "note": "“Peace” — juda norasmiy, yoshlar orasida. Rasmiy xatda “Best regards” yoziladi."
+    },
+    {
+      "title": "Hissiyot va munosabat bildirish",
+      "use": "Suhbatdoshning gapiga hissiy javob: hayrat, hamdardlik, quvonch.",
+      "rows": [
+        ["Really? That's great!", "Rostdanmi? Zo'r bo'ldi!"],
+        ["I'm so happy for you.", "Siz uchun juda xursandman."],
+        ["That's a pity.", "Juda achinarii."],
+        ["I'm sorry to hear that.", "Buni eshitib afsuslandim."],
+        ["Don't worry about it.", "Bu haqda tashvishlanmang."],
+        ["Calm down, it's fine.", "Tinchlaning, hammasi joyida."],
+        ["You can do it!", "Siz buni uddalaysiz!"],
+        ["Good luck!", "Omad!"]
+      ],
+      "note": "“That's a pity” — “what a pity” ning jonli varianti. Hamdardlikda “I see” emas, “I'm sorry to hear that” ishlating."
+    }
+  ]
+}

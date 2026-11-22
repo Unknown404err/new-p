@@ -1,0 +1,1669 @@
+{
+  "lessons": [
+    {
+      "n": 21,
+      "title": "Tana a'zolari: My head hurts",
+      "theme": "Tana a'zolari I",
+      "goal": "Egalik olmoshlarini va og'riq haqida gapirishni o'rganasiz: my head hurts, her eyes are brown.",
+      "frame": {
+        "name": "Egalik + tana a'zosi + hurt",
+        "formula": "My head hurts.\nHis eyes are brown.\nHer hair is long.\nWhat's wrong?  — My stomach hurts.",
+        "explain": "<p>Egalik olmoshlari (my, your, his, her, our, their) tana a'zosidan oldin turadi: <b>my head</b> — mening boshim. Og'riq uchun <b>hurt</b> fe'li ishlatiladi: bitta a'zo bo'lsa <b>hurts</b>, ko'plik bo'lsa <b>hurt</b>.</p>",
+        "table": [
+          [
+            "my / your / his / her",
+            "mening / sening / uning"
+          ],
+          [
+            "our / their",
+            "bizning / ularning"
+          ],
+          [
+            "My head hurts.",
+            "Boshim og'riyapti."
+          ],
+          [
+            "My eyes hurt.",
+            "Ko'zlarim og'riyapti."
+          ],
+          [
+            "What's wrong?",
+            "Nima bo'ldi?"
+          ]
+        ]
+      },
+      "triad": {
+        "aff": [
+          "My head hurts.",
+          "His eyes hurt."
+        ],
+        "neg": [
+          "My head doesn't hurt.",
+          "His eyes don't hurt."
+        ],
+        "q": [
+          "Does your head hurt?",
+          "Do his eyes hurt?"
+        ],
+        "short": [
+          "Yes, it does. / No, it doesn't.",
+          "Yes, they do. / No, they don't."
+        ]
+      },
+      "words": [
+        [
+          "head",
+          "bosh",
+          "my head hurts"
+        ],
+        [
+          "face",
+          "yuz",
+          "a happy face"
+        ],
+        [
+          "forehead",
+          "peshona",
+          "a hot forehead"
+        ],
+        [
+          "nose",
+          "burun",
+          "a small nose"
+        ],
+        [
+          "ear",
+          "quloq",
+          "my left ear"
+        ],
+        [
+          "mouth",
+          "og'iz",
+          "close your mouth"
+        ],
+        [
+          "throat",
+          "tomoq",
+          "a sore throat"
+        ],
+        [
+          "eye",
+          "ko'z",
+          "blue eyes"
+        ],
+        [
+          "eyebrow",
+          "qosh",
+          "thick eyebrows"
+        ],
+        [
+          "lips",
+          "lablar",
+          "dry lips"
+        ],
+        [
+          "tooth",
+          "tish",
+          "a white tooth"
+        ],
+        [
+          "hair",
+          "soch",
+          "long black hair"
+        ],
+        [
+          "moustache",
+          "mo'ylov",
+          "a small moustache"
+        ],
+        [
+          "cheek",
+          "yonoq",
+          "red cheeks"
+        ],
+        [
+          "chin",
+          "iyak",
+          "a short beard on his chin"
+        ],
+        [
+          "neck",
+          "bo'yin",
+          "a long neck"
+        ],
+        [
+          "shoulder",
+          "yelka",
+          "wide shoulders"
+        ],
+        [
+          "chest",
+          "ko'krak",
+          "on his chest"
+        ],
+        [
+          "heart",
+          "yurak",
+          "a strong heart"
+        ],
+        [
+          "stomach",
+          "qorin",
+          "my stomach hurts"
+        ],
+        [
+          "back",
+          "orqa, bel",
+          "my back hurts"
+        ],
+        [
+          "wrist",
+          "bilak",
+          "a thin wrist"
+        ],
+        [
+          "hand",
+          "qo'l (panja)",
+          "warm hands"
+        ],
+        [
+          "finger",
+          "barmoq",
+          "a long finger"
+        ],
+        [
+          "nail",
+          "tirnoq",
+          "clean nails"
+        ]
+      ],
+      "examples": [
+        {
+          "en": "My head hurts and my eyes are tired.",
+          "uz": "Boshim og'riyapti, ko'zlarim charchagan."
+        },
+        {
+          "en": "She has long black hair and big brown eyes.",
+          "uz": "Uning uzun qora sochi va katta jigarrang ko'zlari bor."
+        },
+        {
+          "en": "What's wrong? — My throat hurts and I can't speak.",
+          "uz": "Nima bo'ldi? — Tomog'im og'riyapti, gapira olmayapman."
+        },
+        {
+          "en": "He has a small nose and a short beard on his chin.",
+          "uz": "Uning kichkina burni va iyagida kalta soqoli bor."
+        },
+        {
+          "en": "Put your hand on your chest and breathe slowly.",
+          "uz": "Qo'lingizni ko'kragingizga qo'ying va sekin nafas oling."
+        },
+        {
+          "en": "Her lips are dry, and her cheeks are red because it's cold.",
+          "uz": "Lablari quruq, yonoqlari esa sovuqdan qizil."
+        },
+        {
+          "en": "My tooth hurts, so I need to see a doctor.",
+          "uz": "Tishim og'riyapti, shuning uchun shifokorga borishim kerak."
+        },
+        {
+          "en": "Your neck and shoulders look tired — sit straight.",
+          "uz": "Bo'yiningiz va yelkangiz charchagan ko'rinadi — tik o'tiring."
+        }
+      ],
+      "street": {
+        "title": "Shifokorda va tashqi ko'rinish haqida",
+        "items": [
+          {
+            "en": "What's wrong?",
+            "uz": "Nima bo'ldi?"
+          },
+          {
+            "en": "My back hurts.",
+            "uz": "Belim og'riyapti."
+          },
+          {
+            "en": "It hurts here.",
+            "uz": "Shu yer og'riyapti."
+          },
+          {
+            "en": "He has a nice smile.",
+            "uz": "Uning tabassumi chiroyli."
+          },
+          {
+            "en": "She looks just like her mother.",
+            "uz": "U onasiga o'xshaydi."
+          }
+        ],
+        "note": "\"It hurts here\" — shifokorga og'riq joyini ko'rsatganda aytiladi; \"it hurts\" — \"og'riyapti\"."
+      },
+      "dialog": {
+        "title": "Mini dialog · O'zimni yomon his qilyapman",
+        "lines": [
+          {
+            "who": "A",
+            "en": "What's wrong with you?",
+            "uz": "Sizga nima bo'ldi?"
+          },
+          {
+            "who": "B",
+            "en": "My head hurts and my throat is dry.",
+            "uz": "Boshim og'riyapti va tomog'im quruq."
+          },
+          {
+            "who": "A",
+            "en": "Do your eyes hurt too?",
+            "uz": "Ko'zlaringiz ham og'riyaptimi?"
+          },
+          {
+            "who": "B",
+            "en": "Yes, a little. And my nose is running.",
+            "uz": "Ha, bir oz. Va burnim oqyapti."
+          },
+          {
+            "who": "A",
+            "en": "You should rest at home today.",
+            "uz": "Bugun uyda dam olishingiz kerak."
+          },
+          {
+            "who": "B",
+            "en": "You're right. I'll call the doctor.",
+            "uz": "To'g'ri aytasiz. Shifokorga qo'ng'iroq qilaman."
+          }
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {
+            "prompt": "___ head hurts. (men)",
+            "answer": "My head hurts."
+          },
+          {
+            "prompt": "___ eyes are blue. (u, ayol)",
+            "answer": "Her eyes are blue."
+          },
+          {
+            "prompt": "___ hair is short. (u, erkak)",
+            "answer": "His hair is short."
+          },
+          {
+            "prompt": "___ hands are cold. (ular)",
+            "answer": "Their hands are cold."
+          },
+          {
+            "prompt": "___ tooth hurts. (sen)",
+            "answer": "Your tooth hurts."
+          }
+        ],
+        "translate": [
+          {
+            "uz": "Boshim og'riyapti.",
+            "en": "My head hurts."
+          },
+          {
+            "uz": "Uning ko'zlari jigarrang.",
+            "en": "His eyes are brown."
+          },
+          {
+            "uz": "Tomog'ingiz og'riyaptimi?",
+            "en": "Does your throat hurt?"
+          },
+          {
+            "uz": "Qo'llarim sovuq.",
+            "en": "My hands are cold."
+          }
+        ],
+        "fix": [
+          {
+            "wrong": "My head hurt.",
+            "right": "My head hurts.",
+            "why": "bitta a'zo → hurts"
+          },
+          {
+            "wrong": "Her eyes is brown.",
+            "right": "Her eyes are brown.",
+            "why": "ko'plik → are"
+          },
+          {
+            "wrong": "My hair are long.",
+            "right": "My hair is long.",
+            "why": "hair sanalmaydi → is"
+          }
+        ]
+      },
+      "tip": "<b>hurts / hurt</b>: bitta a'zo — <em>My head hurts</em>; ko'plik — <em>My eyes hurt</em>. \"My head is pain\" xato: <b>My head hurts</b> yoki <b>I have a headache</b> deng."
+    },
+    {
+      "n": 22,
+      "title": "Tashqi ko'rinish: a man with a beard",
+      "theme": "Tana a'zolari II va harakat",
+      "goal": "Odamni ta'riflashni o'rganasiz: with / in predloglari va tana harakatlari lug'ati.",
+      "frame": {
+        "name": "with / in + ta'rif",
+        "formula": "He is a tall man with a beard.\nShe is a girl with long hair.\nThe man in the black coat is my father.\nI've got a pain in my leg.",
+        "explain": "<p>Odamni ta'riflashda <b>with</b> — \"…li\" ma'nosini beradi (<em>a man with a beard</em> — soqolli odam), <b>in</b> esa kiyimni ko'rsatadi (<em>the man in a black coat</em> — qora paltodagi kishi). Og'riq joyi uchun <b>in</b>: <em>a pain in my leg</em>.</p>",
+        "table": [
+          [
+            "with + ot",
+            "a man with a beard"
+          ],
+          [
+            "with + sifat + ot",
+            "a girl with long hair"
+          ],
+          [
+            "in + kiyim",
+            "a man in a black coat"
+          ],
+          [
+            "have got + og'riq",
+            "I've got a pain in my leg"
+          ],
+          [
+            "hurt",
+            "My knee hurts."
+          ]
+        ]
+      },
+      "triad": {
+        "aff": [
+          "My leg hurts.",
+          "He has got a pain in his knee."
+        ],
+        "neg": [
+          "My leg doesn't hurt.",
+          "He hasn't got a pain in his knee."
+        ],
+        "q": [
+          "Does your leg hurt?",
+          "Has he got a pain in his knee?"
+        ],
+        "short": [
+          "Yes, it does. / No, it doesn't.",
+          "Yes, he has. / No, he hasn't."
+        ]
+      },
+      "words": [
+        [
+          "elbow",
+          "tirsak",
+          "a sharp elbow"
+        ],
+        [
+          "leg",
+          "oyoq",
+          "my left leg"
+        ],
+        [
+          "knee",
+          "tizza",
+          "a sore knee"
+        ],
+        [
+          "foot",
+          "oyoq (panja)",
+          "my right foot"
+        ],
+        [
+          "heel",
+          "tovon",
+          "a cut on my heel"
+        ],
+        [
+          "toe",
+          "oyoq barmog'i",
+          "a small toe"
+        ],
+        [
+          "beard",
+          "soqol",
+          "a short beard"
+        ],
+        [
+          "bone",
+          "suyak",
+          "a broken bone"
+        ],
+        [
+          "skin",
+          "teri",
+          "soft skin"
+        ],
+        [
+          "blood",
+          "qon",
+          "blood pressure"
+        ],
+        [
+          "brain",
+          "miya",
+          "the human brain"
+        ],
+        [
+          "arm",
+          "qo'l (yelkadan)",
+          "his left arm"
+        ],
+        [
+          "body",
+          "tana",
+          "a healthy body"
+        ],
+        [
+          "voice",
+          "ovoz",
+          "a nice voice"
+        ],
+        [
+          "thumb",
+          "bosh barmoq",
+          "my thumb hurts"
+        ],
+        [
+          "palm",
+          "kaft",
+          "open your palm"
+        ],
+        [
+          "waist",
+          "bel",
+          "a narrow waist"
+        ],
+        [
+          "hip",
+          "son, bo'ksa",
+          "my hip hurts"
+        ],
+        [
+          "muscle",
+          "muskul",
+          "strong muscles"
+        ],
+        [
+          "breath",
+          "nafas",
+          "a deep breath"
+        ],
+        [
+          "sweat",
+          "ter",
+          "sweat on his face"
+        ],
+        [
+          "exercise",
+          "mashq",
+          "morning exercises"
+        ],
+        [
+          "stretch",
+          "cho'zilmoq",
+          "stretch your arms"
+        ],
+        [
+          "hurt",
+          "og'rimoq, shikastlamoq",
+          "I hurt my leg"
+        ],
+        [
+          "relax",
+          "bo'shashmoq, dam olmoq",
+          "relax your shoulders"
+        ]
+      ],
+      "examples": [
+        {
+          "en": "The man with a beard and a black bag is my uncle.",
+          "uz": "Soqolli va qora sumkali kishi — mening tog'am."
+        },
+        {
+          "en": "She is a young woman with short hair and a nice voice.",
+          "uz": "U kalta sochli va yoqimli ovozli yosh ayol."
+        },
+        {
+          "en": "My leg hurts after the long walk, and my knees are weak.",
+          "uz": "Uzoq yurishdan keyin oyog'im og'riyapti, tizzalarim bo'shashgan."
+        },
+        {
+          "en": "He broke a bone in his arm last year, but now he can move it.",
+          "uz": "U o'tgan yili qo'l suyagini sindirgan, lekin hozir uni harakatlantira oladi."
+        },
+        {
+          "en": "Put your palms on the floor and stretch your back.",
+          "uz": "Kaftlaringizni polga qo'ying va belingizni cho'zing."
+        },
+        {
+          "en": "Blood goes from the heart to the whole body.",
+          "uz": "Qon yurakdan butun tanaga boradi."
+        },
+        {
+          "en": "My feet are tired, and there is a small cut on my heel.",
+          "uz": "Oyoqlarim charchadi, tovonimda kichkina kesik bor."
+        },
+        {
+          "en": "Relax your shoulders and take a deep breath.",
+          "uz": "Yelkangizni bo'shashtiring va chuqur nafas oling."
+        }
+      ],
+      "street": {
+        "title": "Tashqi ko'rinish haqida",
+        "items": [
+          {
+            "en": "Who is that man with the beard?",
+            "uz": "Anavi soqolli kishi kim?"
+          },
+          {
+            "en": "The guy in the blue shirt.",
+            "uz": "Ko'k ko'ylakdagi yigit."
+          },
+          {
+            "en": "She has a great voice.",
+            "uz": "Uning ovozi zo'r."
+          },
+          {
+            "en": "My feet are killing me.",
+            "uz": "Oyoqlarim juda og'riyapti."
+          },
+          {
+            "en": "I need to relax.",
+            "uz": "Dam olishim kerak."
+          }
+        ],
+        "note": "\"My feet are killing me\" — kuchli charchoq yoki og'riqni bildiradigan norasmiy ibora."
+      },
+      "dialog": {
+        "title": "Mini dialog · Anavi kishi kim?",
+        "lines": [
+          {
+            "who": "A",
+            "en": "Who is that man with the beard?",
+            "uz": "Anavi soqolli kishi kim?"
+          },
+          {
+            "who": "B",
+            "en": "He's my uncle. He works at the hospital.",
+            "uz": "Tog'am. U shifoxonada ishlaydi."
+          },
+          {
+            "who": "A",
+            "en": "The man in the grey coat?",
+            "uz": "Kulrang paltodagi kishimi?"
+          },
+          {
+            "who": "B",
+            "en": "Yes. He hurt his leg last month, so he walks slowly.",
+            "uz": "Ha. U o'tgan oy oyog'ini shikastladi, shuning uchun sekin yuradi."
+          },
+          {
+            "who": "A",
+            "en": "I hope he feels better.",
+            "uz": "U yaxshiroq bo'lishini tilayman."
+          },
+          {
+            "who": "B",
+            "en": "Thanks. He does exercises every morning.",
+            "uz": "Rahmat. U har kuni ertalab mashq qiladi."
+          }
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {
+            "prompt": "He is a man ___ a beard. (with / in)",
+            "answer": "He is a man with a beard."
+          },
+          {
+            "prompt": "She is a girl ___ long hair. (with / in)",
+            "answer": "She is a girl with long hair."
+          },
+          {
+            "prompt": "The man ___ the black coat is my father. (with / in)",
+            "answer": "The man in the black coat is my father."
+          },
+          {
+            "prompt": "My knee ___ . (hurt)",
+            "answer": "My knee hurts."
+          },
+          {
+            "prompt": "Take a deep ___ . (nafas)",
+            "answer": "Take a deep breath."
+          }
+        ],
+        "translate": [
+          {
+            "uz": "Soqolli kishi — mening tog'am.",
+            "en": "The man with a beard is my uncle."
+          },
+          {
+            "uz": "uzun sochli qiz",
+            "en": "a girl with long hair"
+          },
+          {
+            "uz": "Oyog'im og'riyapti.",
+            "en": "My leg hurts."
+          },
+          {
+            "uz": "Chuqur nafas oling.",
+            "en": "Take a deep breath."
+          }
+        ],
+        "fix": [
+          {
+            "wrong": "a man with beard",
+            "right": "a man with a beard",
+            "why": "birlik ot oldidan a kerak"
+          },
+          {
+            "wrong": "My knees hurts.",
+            "right": "My knees hurt.",
+            "why": "ko'plik → hurt"
+          },
+          {
+            "wrong": "I've got pain in my leg.",
+            "right": "I've got a pain in my leg.",
+            "why": "birlik → a pain"
+          }
+        ]
+      },
+      "tip": "<b>with</b> — \"…li\": <em>a man with a beard</em>. <b>in</b> — kiyim bilan: <em>a man in a black coat</em>. Bu ikki predlog tashqi ko'rinishni ta'riflashda eng ko'p ishlatiladi."
+    },
+    {
+      "n": 23,
+      "title": "Kasal bo'lganda: I was sick yesterday",
+      "theme": "Salomatlik",
+      "goal": "was / were (o'tgan zamondagi \"bo'lmoq\") ni o'zlashtirasiz va kasallik haqida gapirishni o'rganasiz.",
+      "frame": {
+        "name": "was / were — o'tgan zamonda to be",
+        "formula": "I / he / she / it was\nwe / you / they were\nI was sick yesterday.\nWere you ill last week?   — Yes, I was.",
+        "explain": "<p><b>to be</b> fe'lining o'tgan zamon shakli: <b>was</b> (I, he, she, it) va <b>were</b> (you, we, they). Bu struktura o'tmishdagi holat, joy va kasallik haqida gapirganda kerak: <em>I was sick</em>, <em>they were at the hospital</em>.</p>",
+        "table": [
+          [
+            "I / he / she / it was",
+            "I was sick."
+          ],
+          [
+            "you / we / they were",
+            "They were at home."
+          ],
+          [
+            "inkor",
+            "I wasn't sick."
+          ],
+          [
+            "savol",
+            "Were you sick?"
+          ],
+          [
+            "qisqa javob",
+            "Yes, I was. / No, I wasn't."
+          ]
+        ]
+      },
+      "triad": {
+        "aff": [
+          "I was sick last week.",
+          "They were at the hospital."
+        ],
+        "neg": [
+          "I wasn't sick last week.",
+          "They weren't at the hospital."
+        ],
+        "q": [
+          "Were you sick last week?",
+          "Were they at the hospital?"
+        ],
+        "short": [
+          "Yes, I was. / No, I wasn't.",
+          "Yes, they were. / No, they weren't."
+        ]
+      },
+      "words": [
+        [
+          "healthy",
+          "sog'lom",
+          "a healthy life"
+        ],
+        [
+          "sick",
+          "kasal",
+          "sick at home"
+        ],
+        [
+          "sickness",
+          "kasallik",
+          "a long sickness"
+        ],
+        [
+          "fever",
+          "isitma",
+          "a high fever"
+        ],
+        [
+          "cough",
+          "yo'tal",
+          "a bad cough"
+        ],
+        [
+          "running nose",
+          "burun oqishi",
+          "a running nose"
+        ],
+        [
+          "sneeze",
+          "aksiromq",
+          "sneeze all day"
+        ],
+        [
+          "pain",
+          "og'riq",
+          "a strong pain"
+        ],
+        [
+          "headache",
+          "bosh og'rig'i",
+          "a bad headache"
+        ],
+        [
+          "flu",
+          "gripp",
+          "have the flu"
+        ],
+        [
+          "bruise",
+          "ko'karish",
+          "a dark bruise"
+        ],
+        [
+          "medicine",
+          "dori",
+          "take some medicine"
+        ],
+        [
+          "pill",
+          "tabletka",
+          "two pills a day"
+        ],
+        [
+          "tablet",
+          "tabletka",
+          "take one tablet"
+        ],
+        [
+          "injection",
+          "ukol",
+          "get an injection"
+        ],
+        [
+          "health",
+          "sog'liq",
+          "good health"
+        ],
+        [
+          "cure",
+          "davolash, davo",
+          "a simple cure"
+        ],
+        [
+          "patient",
+          "bemor",
+          "a young patient"
+        ],
+        [
+          "ambulance",
+          "tez yordam",
+          "call an ambulance"
+        ],
+        [
+          "injury",
+          "jarohat",
+          "a serious injury"
+        ],
+        [
+          "wound",
+          "yarа",
+          "a deep wound"
+        ],
+        [
+          "recover",
+          "tuzalmoq",
+          "recover quickly"
+        ],
+        [
+          "rest",
+          "dam olmoq",
+          "rest at home"
+        ],
+        [
+          "diet",
+          "parhez",
+          "a healthy diet"
+        ],
+        [
+          "vitamin",
+          "vitamin",
+          "vitamin C"
+        ]
+      ],
+      "examples": [
+        {
+          "en": "I was sick last week: I had a fever and a bad cough.",
+          "uz": "O'tgan hafta kasal edim: isitmam va qattiq yo'talim bor edi."
+        },
+        {
+          "en": "She wasn't at work yesterday because she had a headache.",
+          "uz": "Kecha ishda emas edi, chunki boshi og'riyotgan edi."
+        },
+        {
+          "en": "We were at the hospital, and the doctor gave me some medicine.",
+          "uz": "Biz shifoxonada edik, shifokor menga dori berdi."
+        },
+        {
+          "en": "Was your flu serious?",
+          "uz": "Grippingiz og'ir bo'ldimi?"
+        },
+        {
+          "en": "He has a running nose and he sneezes all the time.",
+          "uz": "Uning burni oqyapti va doim aksiryapti."
+        },
+        {
+          "en": "Take this pill twice a day and rest for two days.",
+          "uz": "Bu tabletkani kuniga ikki marta iching va ikki kun dam oling."
+        },
+        {
+          "en": "The patient needs an injection, and then he must rest.",
+          "uz": "Bemorga ukol kerak, keyin u dam olishi shart."
+        },
+        {
+          "en": "There is a bruise on my leg, but it isn't a serious injury.",
+          "uz": "Oyog'imda ko'karish bor, lekin bu jiddiy jarohat emas."
+        }
+      ],
+      "street": {
+        "title": "Kasal bo'lganda",
+        "items": [
+          {
+            "en": "I don't feel well.",
+            "uz": "O'zimni yomon his qilyapman."
+          },
+          {
+            "en": "I've got a cold.",
+            "uz": "Shamollaganman."
+          },
+          {
+            "en": "Get well soon!",
+            "uz": "Tezroq tuzalib keting!"
+          },
+          {
+            "en": "Call an ambulance!",
+            "uz": "Tez yordam chaqiring!"
+          },
+          {
+            "en": "It hurts a lot.",
+            "uz": "Juda og'riyapti."
+          }
+        ],
+        "note": "\"I've got a cold\" — shamollash; \"the flu\" — gripp. \"Get well soon\" — kasal odamga aytiladigan tilak."
+      },
+      "dialog": {
+        "title": "Mini dialog · Kasallik",
+        "lines": [
+          {
+            "who": "A",
+            "en": "You weren't at work yesterday. Were you sick?",
+            "uz": "Kecha ishda yo'q edingiz. Kasal edingizmi?"
+          },
+          {
+            "who": "B",
+            "en": "Yes, I was. I had a fever and a cough.",
+            "uz": "Ha. Isitmam va yo'talim bor edi."
+          },
+          {
+            "who": "A",
+            "en": "Was it the flu?",
+            "uz": "Gripp edimi?"
+          },
+          {
+            "who": "B",
+            "en": "I think so. The doctor gave me some pills and said to rest.",
+            "uz": "O'ylaymanki. Shifokor tabletka berdi va dam olishni aytdi."
+          },
+          {
+            "who": "A",
+            "en": "Are you better now?",
+            "uz": "Hozir yaxshiroqmiz?"
+          },
+          {
+            "who": "B",
+            "en": "Much better, thanks. I'm recovering.",
+            "uz": "Ancha yaxshi, rahmat. Tuzalyapman."
+          }
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {
+            "prompt": "I ___ sick yesterday. (be)",
+            "answer": "I was sick yesterday."
+          },
+          {
+            "prompt": "They ___ at the hospital. (be)",
+            "answer": "They were at the hospital."
+          },
+          {
+            "prompt": "She ___ at work yesterday. (inkor)",
+            "answer": "She wasn't at work yesterday."
+          },
+          {
+            "prompt": "___ you ill last week? (be)",
+            "answer": "Were you ill last week?"
+          },
+          {
+            "prompt": "We ___ very tired after work. (be)",
+            "answer": "We were very tired after work."
+          }
+        ],
+        "translate": [
+          {
+            "uz": "Kecha kasal edim.",
+            "en": "I was sick yesterday."
+          },
+          {
+            "uz": "U (ayol) ishda emas edi.",
+            "en": "She wasn't at work."
+          },
+          {
+            "uz": "Siz kasal edingizmi?",
+            "en": "Were you sick?"
+          },
+          {
+            "uz": "Shifokor menga dori berdi.",
+            "en": "The doctor gave me some medicine."
+          }
+        ],
+        "fix": [
+          {
+            "wrong": "I were sick yesterday.",
+            "right": "I was sick yesterday.",
+            "why": "I → was"
+          },
+          {
+            "wrong": "They was at home.",
+            "right": "They were at home.",
+            "why": "they → were"
+          },
+          {
+            "wrong": "You was not at work.",
+            "right": "You weren't at work.",
+            "why": "you → were"
+          }
+        ]
+      },
+      "tip": "was / were — faqat <b>to be</b> fe'lining o'tgan zamoni. Boshqa fe'llar uchun oddiy o'tgan zamon ishlatiladi (28-dars): <em>I worked</em>, <em>I went</em>. \"I was go\" xato."
+    },
+    {
+      "n": 24,
+      "title": "His-tuyg'ular: I feel happy",
+      "theme": "Hissiyotlar va kayfiyat",
+      "goal": "His-tuyg'ularni ifodalashni o'rganasiz: I feel ..., it makes me ..., full of joy.",
+      "frame": {
+        "name": "feel / make + sifat",
+        "formula": "I feel happy when I see you.\nIt makes me sad.\nShe is full of joy.\nHow do you feel?  — I feel great.",
+        "explain": "<p><b>feel</b> dan keyin sifat keladi: <em>I feel happy</em>. <b>make</b> bilan \"meni ... qiladi\" deyish uchun <em>It makes me happy</em> ishlatiladi: make + kim + sifat. Ot bilan esa <b>full of</b>: <em>full of joy</em>.</p>",
+        "table": [
+          [
+            "feel + sifat",
+            "I feel happy."
+          ],
+          [
+            "make + kim + sifat",
+            "It makes me happy."
+          ],
+          [
+            "full of + ot",
+            "full of joy"
+          ],
+          [
+            "How do you feel?",
+            "O'zingizni qanday his qilyapsiz?"
+          ],
+          [
+            "in love / in fear",
+            "sevib qolgan / qo'rquv ichida"
+          ]
+        ]
+      },
+      "triad": {
+        "aff": [
+          "I feel happy today.",
+          "This song makes me calm."
+        ],
+        "neg": [
+          "I don't feel happy today.",
+          "This song doesn't make me calm."
+        ],
+        "q": [
+          "How do you feel today?",
+          "Does this song make you happy?"
+        ],
+        "short": [
+          "I feel great. / Not bad.",
+          "Yes, it does. / No, it doesn't."
+        ]
+      },
+      "words": [
+        [
+          "fun",
+          "qiziqarli, zavq",
+          "have fun"
+        ],
+        [
+          "joy",
+          "quvonch",
+          "full of joy"
+        ],
+        [
+          "fear",
+          "qo'rquv",
+          "fear of flying"
+        ],
+        [
+          "sadness",
+          "g'am",
+          "a deep sadness"
+        ],
+        [
+          "passion",
+          "ehtiros",
+          "a passion for music"
+        ],
+        [
+          "pleasure",
+          "zavq",
+          "it's a pleasure"
+        ],
+        [
+          "happiness",
+          "baxt",
+          "family happiness"
+        ],
+        [
+          "peace",
+          "tinchlik",
+          "peace of mind"
+        ],
+        [
+          "love",
+          "sevgi",
+          "love and trust"
+        ],
+        [
+          "hate",
+          "nafrat",
+          "hate and anger"
+        ],
+        [
+          "soul",
+          "ruh, jon",
+          "a kind soul"
+        ],
+        [
+          "life",
+          "hayot",
+          "a happy life"
+        ],
+        [
+          "feeling",
+          "his",
+          "a strange feeling"
+        ],
+        [
+          "mood",
+          "kayfiyat",
+          "a good mood"
+        ],
+        [
+          "emotion",
+          "hissiyot",
+          "strong emotions"
+        ],
+        [
+          "trust",
+          "ishonch",
+          "trust between people"
+        ],
+        [
+          "anger",
+          "g'azab, jahl",
+          "hide your anger"
+        ],
+        [
+          "surprise",
+          "hayrat, syurpriz",
+          "a big surprise"
+        ],
+        [
+          "shame",
+          "uyat, sharmandalik",
+          "a shame"
+        ],
+        [
+          "pride",
+          "g'urur",
+          "a father's pride"
+        ],
+        [
+          "luck",
+          "omad",
+          "good luck"
+        ],
+        [
+          "courage",
+          "jasorat",
+          "give me courage"
+        ],
+        [
+          "smile",
+          "tabassum",
+          "a warm smile"
+        ],
+        [
+          "cry",
+          "yig'lamoq",
+          "cry loudly"
+        ],
+        [
+          "laugh",
+          "kulgi, kulmoq",
+          "a loud laugh"
+        ]
+      ],
+      "examples": [
+        {
+          "en": "I feel happy when my family is together.",
+          "uz": "Oilam birga bo'lganda o'zimni baxtli his qilaman."
+        },
+        {
+          "en": "This music makes me calm and gives me peace.",
+          "uz": "Bu musiqa meni xotirjam qiladi va tinchlik beradi."
+        },
+        {
+          "en": "She was full of joy at her sister's wedding.",
+          "uz": "U singlisining to'yida quvonchga to'la edi."
+        },
+        {
+          "en": "He doesn't show his feelings, but I can see sadness in his eyes.",
+          "uz": "U hislarini ko'rsatmaydi, lekin ko'zlarida g'amni ko'raman."
+        },
+        {
+          "en": "Fear is normal, but you need courage to speak in public.",
+          "uz": "Qo'rquv odatiy hol, lekin omma oldida gapirish uchun jasorat kerak."
+        },
+        {
+          "en": "My grandmother says that love and trust are the most important things in life.",
+          "uz": "Buvimning aytishicha, sevgi va ishonch hayotdagi eng muhim narsalar."
+        },
+        {
+          "en": "That surprise made her smile, and she even cried from happiness.",
+          "uz": "O'sha syurpriz uni jilmaytirdi, hatto baxtdan yig'ladi."
+        },
+        {
+          "en": "I hate waiting, and it makes me angry.",
+          "uz": "Kutishni yomon ko'raman, bu mening jahlimni chiqaradi."
+        }
+      ],
+      "street": {
+        "title": "Hissiyot haqida",
+        "items": [
+          {
+            "en": "I'm so happy for you!",
+            "uz": "Siz uchun juda xursandman!"
+          },
+          {
+            "en": "That's a shame.",
+            "uz": "Afsus."
+          },
+          {
+            "en": "I'm in a good mood.",
+            "uz": "Kayfiyatim yaxshi."
+          },
+          {
+            "en": "Don't lose hope.",
+            "uz": "Umidni yo'qotmang."
+          },
+          {
+            "en": "I love it!",
+            "uz": "Menga juda yoqdi!"
+          }
+        ],
+        "note": "\"That's a shame\" — \"juda achinarii\", hamdardlik bildiradi; \"shame\" so'zi \"uyat\" ma'nosida ham keladi, kontekst hal qiladi."
+      },
+      "dialog": {
+        "title": "Mini dialog · Yangi ish haqida",
+        "lines": [
+          {
+            "who": "A",
+            "en": "How do you feel about the new job?",
+            "uz": "Yangi ish haqida qanday his qilyapsiz?"
+          },
+          {
+            "who": "B",
+            "en": "I feel excited and a little afraid.",
+            "uz": "Hayajonlanganman va biroz qo'rqaman."
+          },
+          {
+            "who": "A",
+            "en": "That's normal. Fear is part of every new beginning.",
+            "uz": "Bu odatiy. Qo'rquv har bir yangi boshlanishning bir qismi."
+          },
+          {
+            "who": "B",
+            "en": "You're right. And the team gives me courage.",
+            "uz": "To'g'ri aytasiz. Jamoa menga jasorat beradi."
+          },
+          {
+            "who": "A",
+            "en": "What makes you happiest at work?",
+            "uz": "Ishda sizni eng ko'p nima xursand qiladi?"
+          },
+          {
+            "who": "B",
+            "en": "When a client says thank you. It gives me real pleasure.",
+            "uz": "Mijoz \"rahmat\" deganda. Bu menga haqiqiy zavq beradi."
+          }
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {
+            "prompt": "I ___ happy today. (feel)",
+            "answer": "I feel happy today."
+          },
+          {
+            "prompt": "This song ___ me calm. (make)",
+            "answer": "This song makes me calm."
+          },
+          {
+            "prompt": "How ___ you feel? (do / does)",
+            "answer": "How do you feel?"
+          },
+          {
+            "prompt": "She is full ___ joy. (of / in)",
+            "answer": "She is full of joy."
+          },
+          {
+            "prompt": "It ___ me sad. (inkor, make)",
+            "answer": "It doesn't make me sad."
+          }
+        ],
+        "translate": [
+          {
+            "uz": "O'zimni baxtli his qilaman.",
+            "en": "I feel happy."
+          },
+          {
+            "uz": "Bu meni xursand qiladi.",
+            "en": "It makes me happy."
+          },
+          {
+            "uz": "U quvonchga to'la.",
+            "en": "She is full of joy."
+          },
+          {
+            "uz": "O'zingizni qanday his qilyapsiz?",
+            "en": "How do you feel?"
+          }
+        ],
+        "fix": [
+          {
+            "wrong": "I feel me happy.",
+            "right": "I feel happy.",
+            "why": "feel dan keyin olmosh kerak emas"
+          },
+          {
+            "wrong": "It make me sad.",
+            "right": "It makes me sad.",
+            "why": "it → makes"
+          },
+          {
+            "wrong": "She is full with joy.",
+            "right": "She is full of joy.",
+            "why": "full of — turg'un birikma"
+          }
+        ]
+      },
+      "tip": "feel dan keyin olmosh kerak emas: <em>I feel happy</em> (o'zimni baxtli his qilaman). <b>It makes me happy</b> da esa <b>me</b> majburiy, chunki make \"kimnidir nimadir qilmoq\" strukturasida ishlatiladi."
+    },
+    {
+      "n": 25,
+      "title": "25 ta asosiy fe'l: I speak, she speaks",
+      "theme": "Fe'llar I — harakat asoslari",
+      "goal": "Eng ko'p ishlatiladigan 25 fe'lni o'zlashtirasiz va he/she/it uchun -s qoidasini mustahkamlaysiz.",
+      "frame": {
+        "name": "Present Simple + 3-shaxs -s",
+        "formula": "I go to work by bus.\nHe goes to work by car.\nShe studies English every day.\nDo you understand me?",
+        "explain": "<p>Bu 25 fe'l ingliz tilidagi matnlarning katta qismini tashkil qiladi. <b>he / she / it</b> bilan fe'l oxiriga <b>-s</b> qo'shiladi, ayrim fe'llarda esa <b>-es</b> yoki <b>-ies</b> bo'ladi.</p>",
+        "table": [
+          [
+            "+s",
+            "works, reads, speaks"
+          ],
+          [
+            "+es (o, ch, sh, s, x)",
+            "goes, watches, does"
+          ],
+          [
+            "-y → -ies",
+            "study → studies"
+          ],
+          [
+            "noto'g'ri shakl",
+            "have → has"
+          ],
+          [
+            "savol / inkor",
+            "Does he ...? / He doesn't ..."
+          ]
+        ]
+      },
+      "triad": {
+        "aff": [
+          "She works at a bank.",
+          "He goes to school."
+        ],
+        "neg": [
+          "She doesn't work at a bank.",
+          "He doesn't go to school."
+        ],
+        "q": [
+          "Does she work at a bank?",
+          "Does he go to school?"
+        ],
+        "short": [
+          "Yes, she does. / No, she doesn't.",
+          "Yes, he does. / No, he doesn't."
+        ]
+      },
+      "words": [
+        [
+          "be",
+          "bo'lmoq",
+          "be careful"
+        ],
+        [
+          "do",
+          "qilmoq",
+          "do your homework"
+        ],
+        [
+          "have",
+          "ega bo'lmoq",
+          "have a question"
+        ],
+        [
+          "go",
+          "bormoq",
+          "go home"
+        ],
+        [
+          "come",
+          "kelmoq",
+          "come here"
+        ],
+        [
+          "get",
+          "olmoq, yetib bormoq",
+          "get a ticket"
+        ],
+        [
+          "make",
+          "yasamoq, qilmoq",
+          "make tea"
+        ],
+        [
+          "take",
+          "olmoq",
+          "take a bus"
+        ],
+        [
+          "give",
+          "bermoq",
+          "give me a pen"
+        ],
+        [
+          "put",
+          "qo'ymoq",
+          "put it here"
+        ],
+        [
+          "see",
+          "ko'rmoq",
+          "see a doctor"
+        ],
+        [
+          "look",
+          "qaramoq",
+          "look at me"
+        ],
+        [
+          "say",
+          "aytmoq",
+          "say it again"
+        ],
+        [
+          "tell",
+          "aytib bermoq",
+          "tell me a story"
+        ],
+        [
+          "speak",
+          "gapirmoq",
+          "speak English"
+        ],
+        [
+          "talk",
+          "suhbatlashmoq",
+          "talk to your friend"
+        ],
+        [
+          "ask",
+          "so'ramoq",
+          "ask a question"
+        ],
+        [
+          "answer",
+          "javob bermoq",
+          "answer the phone"
+        ],
+        [
+          "listen",
+          "tinglamoq",
+          "listen to music"
+        ],
+        [
+          "hear",
+          "eshitmoq",
+          "hear a noise"
+        ],
+        [
+          "read",
+          "o'qimoq",
+          "read a book"
+        ],
+        [
+          "write",
+          "yozmoq",
+          "write a letter"
+        ],
+        [
+          "know",
+          "bilmoq",
+          "know the answer"
+        ],
+        [
+          "think",
+          "o'ylamoq",
+          "think about it"
+        ],
+        [
+          "understand",
+          "tushunmoq",
+          "understand the task"
+        ]
+      ],
+      "examples": [
+        {
+          "en": "I speak English at work, and my brother speaks Russian at home.",
+          "uz": "Men ishda inglizcha gapiraman, akam uyda ruscha gapiradi."
+        },
+        {
+          "en": "She reads the news every morning and then writes a short report.",
+          "uz": "U har kuni ertalab yangiliklarni o'qiydi, keyin qisqa hisobot yozadi."
+        },
+        {
+          "en": "He doesn't understand this question, so he asks his teacher.",
+          "uz": "U bu savolni tushunmaydi, shuning uchun o'qituvchisidan so'raydi."
+        },
+        {
+          "en": "Do you know where he works?",
+          "uz": "U qayerda ishlashini bilasizmi?"
+        },
+        {
+          "en": "My mother makes bread at home, and my father takes it to the shop.",
+          "uz": "Onam uyda non yasaydi, dadam uni do'konga olib boradi."
+        },
+        {
+          "en": "We listen to music and talk about our day in the evening.",
+          "uz": "Kechqurun musiqa tinglaymiz va kunimiz haqida gaplashamiz."
+        },
+        {
+          "en": "Look at the board and answer my question, please.",
+          "uz": "Iltimos, doskaga qarang va savolimga javob bering."
+        },
+        {
+          "en": "He says he thinks this idea is good, and I agree with him.",
+          "uz": "U bu fikrni yaxshi deb o'ylaydi, men ham u bilan roziman."
+        }
+      ],
+      "street": {
+        "title": "Suhbatda",
+        "items": [
+          {
+            "en": "What do you mean?",
+            "uz": "Nima demoqchisiz?"
+          },
+          {
+            "en": "Say it again, please.",
+            "uz": "Yana bir marta ayting, iltimos."
+          },
+          {
+            "en": "I see what you mean.",
+            "uz": "Nima demoqchi ekaningizni tushundim."
+          },
+          {
+            "en": "Let me think.",
+            "uz": "O'ylab ko'ray."
+          },
+          {
+            "en": "Got it.",
+            "uz": "Tushundim."
+          }
+        ],
+        "note": "say va tell farqi: <b>say</b> — nimadir aytmoq (<em>say hello</em>), <b>tell</b> — kimnidir aytib bermoq (<em>tell me</em>). \"Tell me a story\" to'g'ri, \"say me\" xato."
+      },
+      "dialog": {
+        "title": "Mini dialog · Vazifa",
+        "lines": [
+          {
+            "who": "A",
+            "en": "Do you understand the task?",
+            "uz": "Vazifani tushundingizmi?"
+          },
+          {
+            "who": "B",
+            "en": "I think so, but I don't know this word.",
+            "uz": "O'ylaymanki ha, lekin bu so'zni bilmayman."
+          },
+          {
+            "who": "A",
+            "en": "Look at the example and read it again.",
+            "uz": "Misolga qarang va yana o'qing."
+          },
+          {
+            "who": "B",
+            "en": "OK. Now I understand — it means \"to make a plan\".",
+            "uz": "Mayli. Endi tushundim — bu \"reja tuzmoq\" degani."
+          },
+          {
+            "who": "A",
+            "en": "Exactly. Can you write one example?",
+            "uz": "Aynan. Bitta misol yoza olasizmi?"
+          },
+          {
+            "who": "B",
+            "en": "Yes, I'll write it and then tell you.",
+            "uz": "Ha, yozaman va keyin aytaman."
+          }
+        ]
+      },
+      "exercises": {
+        "substitution": [
+          {
+            "prompt": "She ___ English every day. (study)",
+            "answer": "She studies English every day."
+          },
+          {
+            "prompt": "He ___ to work by car. (go)",
+            "answer": "He goes to work by car."
+          },
+          {
+            "prompt": "___ you understand me? (do / does)",
+            "answer": "Do you understand me?"
+          },
+          {
+            "prompt": "She ___ understand this. (inkor)",
+            "answer": "She doesn't understand this."
+          },
+          {
+            "prompt": "My brother ___ two children. (have)",
+            "answer": "My brother has two children."
+          }
+        ],
+        "translate": [
+          {
+            "uz": "U inglizcha gapiradi.",
+            "en": "He speaks English."
+          },
+          {
+            "uz": "Men bu savolni tushunmayman.",
+            "en": "I don't understand this question."
+          },
+          {
+            "uz": "U qayerda ishlashini bilasizmi?",
+            "en": "Do you know where he works?"
+          },
+          {
+            "uz": "Iltimos, savolimga javob bering.",
+            "en": "Please, answer my question."
+          }
+        ],
+        "fix": [
+          {
+            "wrong": "He study English.",
+            "right": "He studies English.",
+            "why": "undosh + y → -ies"
+          },
+          {
+            "wrong": "She go to school.",
+            "right": "She goes to school.",
+            "why": "go → goes"
+          },
+          {
+            "wrong": "He doesn't understands.",
+            "right": "He doesn't understand.",
+            "why": "doesn't dan keyin o'zak shakl"
+          }
+        ]
+      },
+      "tip": "Har bir yangi fe'lni darhol uch shaklda ayting: <em>He speaks English. He doesn't speak English. Does he speak English?</em> Shu tarzda 25 fe'l = 75 gap, va -s qoidasi o'z-o'zidan o'rnashadi."
+    }
+  ]
+}
